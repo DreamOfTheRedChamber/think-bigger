@@ -1,6 +1,4 @@
-This is my journey in preparing behavior interview questions usually appearing in software engineer interviews. Some of them are more behavioral oriented and some of them are more technical oriented. 
-
-# Overview
+# Fighting for you
 * [Interview process](#interview-process)
 * [Pre-interview research](#pre-interview-research)
 * [Answers for each resume key projects](#answers-for-each-resume-key-projects)
