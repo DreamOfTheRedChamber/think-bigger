@@ -9,23 +9,25 @@
   * [Auto Completion Text Web App](#auto-completion-text-web-app)
   * [Object-Oriented Payroll System](#object-oriented-payroll-system)
 * [General behavior questions](#stories-about-general-experience)
+  * [Principles](#principles)
   * [Know yourself](#know-yourself)
     * [Tell me about yourself](#tell-me-about-yourself)
-    * [Tell me about a time you failed? How did you deal with the situation](#a-time-you-failed)
     * [What are your strengths](#what-are-your-strengths)
     * [What are your weakness](#what-are-your-weakness)
     * [What's your proudest professional achievement](#what-is-proudest-achievement)
     * [Plans for learning new programming language](#plans-programming-language)
     * [What achievement are you most proud of](#achievement-most-proud-of)
   * [Career development](#career-development)
+    * [What are the important lessons learned when you transit from a student to a professional developer](#transition-student-developer)
     * [Why do you want to work for us](#why-want-work-for-us)
-    * [Where do you see yourself in five years](#what-is-your-career-plan-in-next-five-years)
     * [Why are you looking for a new opportunity now](#why-are-you-looking-for-new-opportunity)
+    * [What is your plan in the next five years](#what-is-your-career-plan-in-next-five-years)
   * [Work-life balance](#work-life-balance)
     * [How did you manage your time and prioritize your tasks](#prioritize-task)
   * [Teamwork](#teamwork)
     * [How have you dealt with a difficult person](#deal-with-difficult-person)
-    * [Tell me about a time you were under a lot of pressure, how did you handle it](#how-to-handle-pressure)
+    * [Tell me about a time you failed? How did you deal with the situation](#a-time-you-failed)
+    * [Have you ever missed a deadline?](#miss-a-deadline)
   * [Others](#others)
     * [What are your salary requirements](#what-are-your-salary-requirements)
 * [Stories about technical experience](#stories-about-technical-experience)
@@ -50,17 +52,19 @@
 * Interviewer profile: interviewer's linked profile, blog, twitter
 
 ### Stories about general experience<a id="stories-about-general-experience"></a>
+#### Principles <a id="principles"></a>
+* Do not take it personal. Everything should be related to the job.
+
 #### Know yourself <a id="know-yourself"></a>
 ##### Tell me about yourself<a id="tell-me-about-yourself"></a>
 * **What the interviewer is really asking**: 
   * What is your career plan
   * Why are you interested in their company
 * **Key points**: 
-  * Step 1. Shape your career story into past, present & future sections
-  * Step 2. Choose whether your career story is a straight progression or if you are making a transition
-* **My answer**:
-  * I tried on a lot of different areas including robotics, computer vision and information security, distributed system during my school years. I found myself really like building things, especially things related with distributed systems. There are so many things which could go wrong and there are so many trade offs and decisions to make.
-  * During my internship and work, I learned many popular big data and distributed technologies and industrial development processes. I am ready to move my career to next stage and continue my journey in distributed systems.
+  * Step 1. What you are interested in
+  * Step 2. Shape your career story into past, present & future sections
+  * Step 3. (Optional) Choose whether your career story is a straight progression or if you are making a transition
+  * Step 4. Why you are interested in the position/company
 
 ##### Tell me about a time you failed? How did you deal with the situation<a id="a-time-you-failed"></a>
 * **What the interviewer is really asking**: 
@@ -76,10 +80,16 @@
   * But we learnt a great lesson from that. Never set a too fancy goal for myself, start from something simple and gradually optimize it. We should not under-estimate challenges  along the way. Instead, the right strategy is to take small steps but iterate as fast as possible. In this way, we could make sure we are continuing in the right direction and stay motivated to work because we always have achievable and challenging goals.
 
 ##### What are your strengths<a id="what-are-your-strengths"></a>
+* **Key points:** How your strengths will help you be an independent worker and a team player.
+* **My Answer:**
+  + Eager to learn new things and share what I learn with my teammates. 
+  + For example, I plan to learn XXX because XXX. 
+  + I enjoy sharing what I learned with my teammates. First, teaching others help myself to udnerstand better. I need to summarize what I have learned before sharing it others. I also might have more discussions with others. I also might have new friends. Second, I could help my teammates to learn new things and help the company to build great engineering culture.
 
 ##### What is your greatest weakness<a id="what-is-your-greatest-weakness"></a>
-* **key points: ( a weakness I am solving )**
- * I used to spend too much time on perfecting details and kind of forget the big picture. Recently I was learning tools such as MindMap/GTD/Omnifocus to help me manage goals and keep a good pace. 
+* **key points: ( a weakness I am solving, not too critical )**
+  * Not that experienced. Could solve most problems with limited guidance. 
+  * Want to be perfect and finish everything. I gradually realized the importance of prioritizing my tasks and working smart. Tasks will be endless. 80% of outcome comes from 20% efforts.
 
 ##### What's your proudest professional achievement <a id="what-is-proudest-achievement"></a>
 * **What the interviewer is really asking**:
@@ -107,26 +117,24 @@
   * Go is invented as a C++ replacement for doing system-level programming. It has been used in more and more projects (Docker) and companies (Uber). 
   * However, Go does not have as broad applicable scenarios as Node.js. 
 
-##### What achievement are you most proud of<a id="achievement-most-proud-of"></a>
-* **key point**: two or three achievements most proud of and how does the achievement fits with the company
-
 #### Career development <a id="career-development"></a>
-#### Why do you want to work for us<a id="why-want-work-for-us"></a>
+##### What are the important lessons learned when you transit from a student to a professional developer < id="transition-student-developer"></a>
+* Importance to improve raw productivity
+* Importance to communicate well
+
+##### Why do you want to work for us <a id="why-want-work-for-us"></a>
 * **key point**: Passion about the technology. Passion about products. Great work-life balance. Great career promotion opportunities. In a word, I could learn a lot of things and make a lot of contribution here at XXX.
 
 ##### Why are you looking for a new opportunity now<a id="why-are-you-looking-for-new-opportunity"></a>
-* **key point: opportunity to learn**
- * I am interested in large-scale distributed systems. 
- * I have learned a lot about distributed web apps/big data by myself and is gradually accumulating a long list of personal projects, as you could see on my resume. 
- * I really value the opportunity here at XXX to learn more about XXX.
+* **Key points**: No judgement ( No negative evaluation about your previous job/manager ). Try not to answer negative problems directly. Use words like: Perhaps. Say more good things about current company.
+* My answer:
+  * I like XXX products here and I like work-life balance here. Being part of a team to build widely known products like XXX and XXX is really rewarding and challenging for me. 
 
-##### What is your plan in the next five years<a id="what-is-your-career-plan-in-next-five-years"></a>
-* **Short-term goals** ( key point: be general )
- * As a junior software engineer, I will try my best to get myself into a good shape as soon as possible.
- * I am willing to do whatever I could do to help team to move forward.
+##### What is your plan in the next five years <a id="what-is-your-career-plan-in-next-five-years"></a>
+* **General process** ( key point: be general )
+  * Getting onboarding -> small tasks -> Bigger tasks -> own a small part of project.
 * **Long-term goals** ( key point: stress interest in long-term career )
- * My goal right now is to find a position at a company where I can grow and take on new challenges over time.
- * Some of the most innovative thinkers in the industry work here and that’s a big reason why I would love to build a career here.
+  * Your company has lots of smart people and a great work-life balance. It is a great place to develop my career and build great products.
 * **In a word** my goal is always to reach beyond the company's expectations on me. I will try my best to create more value for the company.
 
 #### Work-life balance <a id="work-life-balance"></a>
@@ -145,11 +153,9 @@
   * Then I estimate how long each of them will take. For really big tasks, I will break it into a list of small tasks.
   * Next, I will prioritize them. If there are too many deadlines, I will meet up with my manager/teammates to discuss which ones are more important.
 
-##### Tell me about a time you were under a lot of pressure, how did you handle it<a id="how-to-handle-pressure"></a>
-
 #### Teamwork <a id="teamwork"></a>
-##### How have you dealt with a difficult person<a id="deal-with-difficult-person"></a>
-
+##### How do you deal with conflicts with colleague <a id="deal-with-conflicts-with-colleague"></a>
+* **Key points**: Do not take it personal. Discuss the difference. Figure the best solutions for team/company.
 
 #### Others <a id="others"></a>
 ##### What are your Salary requirements<a id="what-are-your-salary-requirements"></a>
@@ -159,7 +165,6 @@
  * Well, according to my research and past experience, my understanding is that XXX K per year is typical based on the role and requirements.
 * **What are you making now** 
  * Since this position is not exactly the same as my current job, let’s discuss what my responsibilities at this company will be and work together to determine a fair salary for this position.
-
 
 ### Stories about technical experience<a id="stories-about-technical-experience"></a>
 * a story for each bullet point on resume
