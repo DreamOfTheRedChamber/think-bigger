@@ -1,13 +1,6 @@
 # Fighting for you
 * [Interview process](#interview-process)
 * [Pre-interview research](#pre-interview-research)
-* [Resume key projects](#resume-key-projects)
-  * [Software engineer at OpenText](#software-engineer-at-opentext)
-  * [Software intern at Finra](#software-engineer-at-finra)
-  * [Fault-Tolerant Distributed Chat Room Server](#fault-tolerant-distributed-chat-room-server)
-  * [Big Data Processing Pipeline](#big-data-processing-pipeline)
-  * [Auto Completion Text Web App](#auto-completion-text-web-app)
-  * [Object-Oriented Payroll System](#object-oriented-payroll-system)
 * [General behavior questions](#stories-about-general-experience)
   * [Principles](#principles)
   * [Method: Give structured answers](#method-give-structured-answers)
@@ -32,10 +25,10 @@
     * [Have you ever missed a deadline?](#miss-a-deadline)
   * [Others](#others)
     * [What are your salary requirements](#what-are-your-salary-requirements)
+  * [Questions to ask at the end](#questions-to-ask-at-the-end)
 * [Stories about technical experience](#stories-about-technical-experience)
 * [Checklist for phone interviews](#checklist-for-phone-interview)
 * [Checklist for onsite interviews](#checklist-for-onsite-interview)
-* [Questions to ask at the end](#questions-to-ask-at-the-end)
 * [References](#references)
 
 #### Interview process<a id="interview-process"></a>
@@ -89,9 +82,9 @@
   * Why are you interested in their company
 * **Key points**: 
   * Step 1. What you are interested in
-  * Step 2. Shape your career story into past, present & future sections
-  * Step 3. (Optional) Choose whether your career story is a straight progression or if you are making a transition
-  * Step 4. Why you are interested in the position/company
+  * Step 2. Your current role
+  * Step 3. Past and onwards
+  * Step 5. Future. Why you are interested in role, position, company
 
 ##### Tell me about a time you failed? How did you deal with the situation<a id="a-time-you-failed"></a>
 * **What the interviewer is really asking**: 
@@ -224,6 +217,21 @@
 * **What are you making now** 
  * Since this position is not exactly the same as my current job, let’s discuss what my responsibilities at this company will be and work together to determine a fair salary for this position.
 
+#### Questions to ask at the end<a id="questions-to-ask-at-the-end"></a>
+* Show passion
+* The thing you like most about this company
+* Onboarding process
+* Daily life
+* Why is the position open
+* Who will I report to and what is his/her background
+* What does a typical day or week look like for my position
+* What brought you to the company
+* What growth opportunities will there be for me
+* What are the primary goals for my position and how will I be evaluated
+* Who else will be on my team and who outside of my team will I work with frequently
+* Ask about the next steps in the process and whether you can provide more information
+
+
 ### Stories about technical experience<a id="stories-about-technical-experience"></a>
 * a story for each bullet point on resume
   * Start with an overview: overview of the problem, solution, and your role - let interviewer go deeper
@@ -248,15 +256,6 @@
 * Express your genuine excitement to work for the company and the mission they're pursuing
 * Whiteboard pen and erasers
 
-#### Questions to ask at the end<a id="questions-to-ask-at-the-end"></a>
-* Why is the position open
-* Who will I report to and what is his/her background
-* What does a typical day or week look like for my position
-* What brought you to the company
-* What growth opportunities will there be for me
-* What are the primary goals for my position and how will I be evaluated
-* Who else will be on my team and who outside of my team will I work with frequently
-* Ask about the next steps in the process and whether you can provide more information
 
 #### References<a id="references"></a>
 * [Salary expectation](https://biginterview.com/blog/2015/10/salary-expectations.html)
