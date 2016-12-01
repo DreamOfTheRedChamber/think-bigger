@@ -10,6 +10,7 @@
   * [Object-Oriented Payroll System](#object-oriented-payroll-system)
 * [General behavior questions](#stories-about-general-experience)
   * [Principles](#principles)
+  * [Method: Give structured answers](#method-give-structured-answers)
   * [Interview preparation grid](#interview-preparation-grid)
   * [Know yourself](#know-yourself)
     * [Tell me about yourself](#tell-me-about-yourself)
@@ -58,7 +59,17 @@
 ### General behavior questions <a id="stories-about-general-experience"></a>
 #### Principles <a id="principles"></a>
 * Do not take it personal. Everything should be related to the job.
-* Be specific, not arrogant: Arrogance is a red 
+* Be specific, not arrogant: Arrogance is a red flag. To make myself sound good without be arrogant, I need to be specific by giving just the facts and letting the interviewer derive an interpretation. 
+* Limit details: Stay light on details and just state the key points. When possible, try to translate it or at least explain the impact.
+> By examing the most common user behavior and applying the Rabin-Karp algorithm, I designed a new algorithm to reduce search from O(n) to O(lgn) in 90% of cases. I can go into more details if you'd like. 
+* Focus on yourself, not the team: Interviews are fundamentally an individual assessment. Unfortunately, when you listen to many candidates, their answers are about "we", "us" and "the team". The interviewer walks away having little idea what the candidate's actual impact was and might conclude that the candidate did little.
+
+#### Methods: give structured answers <a id="method-give-structured-answers"></a>
+* Nugget first: Starting your response with a "nugget" that succintly describes what your response will be about. This technique grabs your interviewer's attention and makes it very clear what your story will be about. It also helps you be more focused in your communication, since you've made it very clear to yourself what the gist of your response is.
+> Interviewer: "Tell me about a time you had to persuade a group of people to make a big change"
+> Candidate: "Sure, let me tell you about the time when I convinced my school to let undergraduates teach their own courses. Initially, my school has a rule"
+* S.A.R. (Situation, Action, Result): You start off outlining the situation, then explaining the actions you took and lastly describing the result.
+  * In most cases, the action is the most important part of the story. Unfortunately, far too many people talk on and on about the situation, but then just breeze through the action. Instead, dive in the action. Where possible, break down the action into multiple parts. For example, "I did three things. First, I .." This will encourage sufficient depth. 
 
 #### Interview preparation grid <a id="interview-preparation-grid"></a>
 
