@@ -10,6 +10,7 @@
   * [Object-Oriented Payroll System](#object-oriented-payroll-system)
 * [General behavior questions](#stories-about-general-experience)
   * [Principles](#principles)
+  * [Interview preparation grid](#interview-preparation-grid)
   * [Know yourself](#know-yourself)
     * [Tell me about yourself](#tell-me-about-yourself)
     * [What are your strengths](#what-are-your-strengths)
@@ -53,54 +54,22 @@
 
 ### Resume projects<a id="resume-key-projects"></a>
 #### Fault tolerant distributed chat room server <a id="fault-tolerant-distributed-chat-room-server"></a>
-* Data modeling
-  - UserTable
-    + uid
-    + parameters
-  - FriendTable
-    + uidFrom
-    + uidTo
-    + state
-  - ChannelTable
-    + cid
-    + uid
-    + state
-  - MessageTable
-    + mid
-    + time
-    + uid
-    + cid
-    + content
-* Scale: How to support 1 million users group chatting
-  - Assumption
-    + 1 message/user/10min
-    + Message = 30 Byte
-      * Head ( 10 byte ) + Content ( 18 byte ) + Tail ( 2 byte )
-  - QPS
-    + Message per second = 10 ^ 6 / 600 = 1,667
-    + Traffic for one = 1,667 * 30 = 50 KB/s
-    + Traffic for all = 50 * 10 ^ 6 = 50 GB/s
-  - How to compress message
-    + Batch message
-      * Head ( 10 byte ) + Content ( 18 byte ) + Tail ( 2 byte )
-      * Message per second 10 ^ 6 / 600 = 1,667
-      * Traffic for one = 1,667 * 18 = 30 KB/s
-      * Traffic for all = 30 * 10 ^ 6 = 30GB
-    + Compress content ( assume compress by half )
-      * Message per second 10 ^ 6 / 600 = 1,667
-      * Traffic for one = 1,667 * 9 = 15 KB/s
-      * Traffic for all = 15 * 10 ^ 6 = 15GB
-* How to support chat history
-* How to save the message when a user is offline
-* How to support search chat history
-* How to support timeline notification
-* How to update online status of friends
-  - Problem: Vacillation status
-  - Solution: Delayed change of status (wait 5 seconds)
   
 ### General behavior questions <a id="stories-about-general-experience"></a>
 #### Principles <a id="principles"></a>
 * Do not take it personal. Everything should be related to the job.
+* Be specific, not arrogant: Arrogance is a red 
+
+#### Interview preparation grid <a id="interview-preparation-grid"></a>
+
+| Common questions | Project1 | Project2 | Project3 | 
+| --------------------- |:-------------:|:-------------:| -----:|
+| Challenges  |  |  |  |
+| Mistakes/Failures  |  |  |  |
+| Enjoy | | | |
+| Leadership | | | |
+| Conflicts | | | |
+| What you'd do differently | | | |
 
 #### Know yourself <a id="know-yourself"></a>
 ##### Tell me about yourself<a id="tell-me-about-yourself"></a>
