@@ -1,7 +1,7 @@
 # Fighting for you
 * [Interview process](#interview-process)
 * [Pre-interview research](#pre-interview-research)
-* [Answers for each resume key projects](#answers-for-each-resume-key-projects)
+* [Resume key projects](#resume-key-projects)
   * [Software engineer at OpenText](#software-engineer-at-opentext)
   * [Software intern at Finra](#software-engineer-at-finra)
   * [Fault-Tolerant Distributed Chat Room Server](#fault-tolerant-distributed-chat-room-server)
@@ -25,7 +25,7 @@
   * [Work-life balance](#work-life-balance)
     * [How did you manage your time and prioritize your tasks](#prioritize-task)
   * [Teamwork](#teamwork)
-    * [How have you dealt with a difficult person](#deal-with-difficult-person)
+    * [How do you resolve conflicts](#how-do-you-resolve-conflicts)
     * [Tell me about a time you failed? How did you deal with the situation](#a-time-you-failed)
     * [Have you ever missed a deadline?](#miss-a-deadline)
   * [Others](#others)
@@ -51,7 +51,54 @@
 * Recent news: medium-to-large companies' strategic moves, how will my role support those goals
 * Interviewer profile: interviewer's linked profile, blog, twitter
 
-### Stories about general experience<a id="stories-about-general-experience"></a>
+### Resume projects<a id="resume-key-projects"></a>
+#### Fault tolerant distributed chat room server <a id="fault-tolerant-distributed-chat-room-server"></a>
+* Data modeling
+  - UserTable
+    + uid
+    + parameters
+  - FriendTable
+    + uidFrom
+    + uidTo
+    + state
+  - ChannelTable
+    + cid
+    + uid
+    + state
+  - MessageTable
+    + mid
+    + time
+    + uid
+    + cid
+    + content
+* Scale: How to support 1 million users group chatting
+  - Assumption
+    + 1 message/user/10min
+    + Message = 30 Byte
+      * Head ( 10 byte ) + Content ( 18 byte ) + Tail ( 2 byte )
+  - QPS
+    + Message per second = 10 ^ 6 / 600 = 1,667
+    + Traffic for one = 1,667 * 30 = 50 KB/s
+    + Traffic for all = 50 * 10 ^ 6 = 50 GB/s
+  - How to compress message
+    + Batch message
+      * Head ( 10 byte ) + Content ( 18 byte ) + Tail ( 2 byte )
+      * Message per second 10 ^ 6 / 600 = 1,667
+      * Traffic for one = 1,667 * 18 = 30 KB/s
+      * Traffic for all = 30 * 10 ^ 6 = 30GB
+    + Compress content ( assume compress by half )
+      * Message per second 10 ^ 6 / 600 = 1,667
+      * Traffic for one = 1,667 * 9 = 15 KB/s
+      * Traffic for all = 15 * 10 ^ 6 = 15GB
+* How to support chat history
+* How to save the message when a user is offline
+* How to support search chat history
+* How to support timeline notification
+* How to update online status of friends
+  - Problem: Vacillation status
+  - Solution: Delayed change of status (wait 5 seconds)
+  
+### General behavior questions <a id="stories-about-general-experience"></a>
 #### Principles <a id="principles"></a>
 * Do not take it personal. Everything should be related to the job.
 
@@ -131,11 +178,8 @@
   * I like XXX products here and I like work-life balance here. Being part of a team to build widely known products like XXX and XXX is really rewarding and challenging for me. 
 
 ##### What is your plan in the next five years <a id="what-is-your-career-plan-in-next-five-years"></a>
-* **General process** ( key point: be general )
-  * Getting onboarding -> small tasks -> Bigger tasks -> own a small part of project.
-* **Long-term goals** ( key point: stress interest in long-term career )
-  * Your company has lots of smart people and a great work-life balance. It is a great place to develop my career and build great products.
-* **In a word** my goal is always to reach beyond the company's expectations on me. I will try my best to create more value for the company.
+* **key point**: long-term career and clear goals )
+  * I am especially interested in distributed systems. I want to be a technical leader in my team. 
 
 #### Work-life balance <a id="work-life-balance"></a>
 ##### How did you manage your time and prioritize your tasks?<a id="prioritize-task"></a>
@@ -154,8 +198,42 @@
   * Next, I will prioritize them. If there are too many deadlines, I will meet up with my manager/teammates to discuss which ones are more important.
 
 #### Teamwork <a id="teamwork"></a>
-##### How do you deal with conflicts with colleague <a id="deal-with-conflicts-with-colleague"></a>
+##### How do you deal with conflicts <a id="deal-with-conflicts-with-colleague"></a>
+* Similar questionns
+  * Tell me about a team project when you had to work with someone difficult.
+  * Tell me about a time you had a conflict at work.
+  * Give an example of a time you had to respond to an unhappy manager/customer/colleague.
+  * Tell me about a time that you disagreed with a rule or approach.
 * **Key points**: Do not take it personal. Discuss the difference. Figure the best solutions for team/company.
+* Steps
+  * Talk with the other person
+    * Ask the other person to name a time when it would be convenient to meet.
+    * Arrange to meet in a place where you won't be interrupted.
+  * Focus on behavior and events, not on personalities.
+    * Say “When this happens …” instead of “When you do …”
+    * Describe a specific instance or event instead of generalizing.
+  * Listen carefully
+    * Listen to what the other person is saying instead of getting ready to react.
+    * Avoid interrupting the other person.
+    * After the other person finishes speaking, rephrase what was said to make sure you understand it.
+    * Ask questions to clarify your understanding.
+  * Identify points of agreement and disagreement.
+    * Summarize the areas of agreement and disagreement.
+    * Ask the other person if he or she agrees with your assessment.
+    * Modify your assessment until both of you agree on the areas of conflict.
+  * Prioritize the areas of conflict.
+    * Discuss which areas of conflict are most important to each of you to resolve.
+  * Develop a plan to work on each conflict.
+    * Start with the most important conflict.
+    * Focus on the future.
+    * Set up future meeting times to continue your discussions.
+  * Follow through on your plan.
+    * Stick with the discussions until you’ve worked through each area of conflict.
+    * Maintain a collaborative, “let’s-work-out-a-solution” attitude.
+  * Build on your success.
+    * Look for opportunities to point out progress.
+    * Compliment the other person’s insights and achievements.
+    * Congratulate each other when you make progress, even if it’s just a small step. Your hard work will pay off when scheduled discussions eventually give way to ongoing, friendly communication.
 
 #### Others <a id="others"></a>
 ##### What are your Salary requirements<a id="what-are-your-salary-requirements"></a>
