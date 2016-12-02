@@ -23,6 +23,7 @@
     * [How do you resolve conflicts](#how-do-you-resolve-conflicts)
     * [Tell me about a time you failed? How did you deal with the situation](#a-time-you-failed)
     * [Have you ever missed a deadline?](#miss-a-deadline)
+    * [Belbin's team roles](#belbin-team-roles)
   * [Others](#others)
     * [What are your salary requirements](#what-are-your-salary-requirements)
   * [Questions to ask at the end](#questions-to-ask-at-the-end)
@@ -207,6 +208,39 @@
     * Look for opportunities to point out progress.
     * Compliment the other person’s insights and achievements.
     * Congratulate each other when you make progress, even if it’s just a small step. Your hard work will pay off when scheduled discussions eventually give way to ongoing, friendly communication.
+
+##### Belbin's team roles <a id="belbin-team-roles"></a>
+* Action oriented roles
+  - Shaper
+    + Shapers are people who challenge the team to improve. They are dynamic and usually extroverted people who enjoy stimulating others, questioning norms, and finding the best approaches for solving problems. The Shaper is the one who shakes things up to make sure that all possibilities are considered and that the team does not become complacent.
+    + Shapers often see obstacles as exciting challenges and they tend to have the courage to push on when others feel like quitting.
+    + Their potential weaknesses may be that they're argumentative, and that they may offend people's feelings.
+  - Implementer
+    + Implementers are the people who get things done. They turn the team's ideas and concepts into practical actions and plans. They are typically conservative, disciplined people who work systematically and efficiently and are very well organized. These are the people who you can count on to get the job done.
+    + On the downside, Implementers may be inflexible and can be somewhat resistant to change.
+  - Completer-Finisher (CF)
+    + Completer-Finishers are the people who see that projects are completed thoroughly. They ensure there have been no errors or omissions and they pay attention to the smallest of details. They are very concerned with deadlines and will push the team to make sure the job is completed on time. They are described as perfectionists who are orderly, conscientious and anxious.
+    + However, a Completer-Finisher may worry unnecessarily, and may find it hard to delegate.
+* People oriented roles
+  - Coordinator
+    + Coordinators are the ones who take on the traditional team-leader role and have also been referred to as the chairmen. They guide the team to what they perceive are the objectives. They are often excellent listeners and they are naturally able to recognize the value that each team member brings to the table. They are calm and good-natured, and delegate tasks very effectively.
+    + Their potential weaknesses are that they may delegate away too much personal responsibility, and may tend to be manipulative.
+  - Team Worker (TW)
+    + Team Workers are the people who provide support and make sure that people within the team are working together effectively. These people fill the role of negotiators within the team and they are flexible, diplomatic and perceptive. These tend to be popular people who are very capable in their own right, but who prioritize team cohesion and helping people get along.
+    + Their weaknesses may be a tendency to be indecisive, and to maintain uncommitted positions during discussions and decision-making.
+  - Resource Investigator (RI)
+    + Resource Investigators are innovative and curious. They explore available options, develop contacts, and negotiate for resources on behalf of the team. They are enthusiastic team members, who identify and work with external stakeholders to help the team accomplish its objective. They are outgoing and are often extroverted, meaning that others are often receptive to them and their ideas.
+    + On the downside, they may lose enthusiasm quickly, and are often overly optimistic.
+* Thought oriented roles
+  - Plant
+    + The Plant is the creative innovator who comes up with new ideas and approaches. They thrive on praise but criticism is especially hard for them to deal with. Plants are often introverted and prefer to work apart from the team. Because their ideas are so novel, they can be impractical at times. They may also be poor communicators and can tend to ignore given parameters and constraints.
+  - Monitor-Evaluator
+    + Monitor-Evaluators are best at analyzing and evaluating ideas that other people (often Plants) come up with. These people are shrewd and objective, and they carefully weigh the pros and cons of all the options before coming to a decision.
+    + Monitor-Evaluators are critical thinkers and very strategic in their approach. They are often perceived as detached or unemotional. Sometimes they are poor motivators who react to events rather than instigating them
+  - Specialist
+    + Specialists are people who have specialized knowledge that is needed to get the job done. They pride themselves on their skills and abilities, and they work to maintain their professional status. Their job within the team is to be an expert in the area, and they commit themselves fully to their field of expertise.
+    + This may limit their contribution, and lead to a preoccupation with technicalities at the expense of the bigger picture.
+ 
 
 #### Others <a id="others"></a>
 ##### What are your Salary requirements<a id="what-are-your-salary-requirements"></a>
