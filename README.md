@@ -15,14 +15,22 @@
   * [Career development](#career-development)
     * [What are the important lessons learned when you transit from a student to a professional developer](#transition-student-developer)
     * [Why do you want to work for us](#why-want-work-for-us)
+    * [What did you dislike about your last/present job](#what-did-you-dislike-about-your-last-job)
+    * [What have you accomplished in the past year, past 2 years, etc](#what-have-you-accomplished-in-the-past-year)
     * [Why are you looking for a new opportunity now](#why-are-you-looking-for-new-opportunity)
     * [What is your plan in the next five years](#what-is-your-career-plan-in-next-five-years)
+    * [Describe your daily/weekly work](#describe-your-daily-weekly-work)
   * [Work-life balance](#work-life-balance)
     * [How did you manage your time and prioritize your tasks](#prioritize-task)
   * [Teamwork](#teamwork)
     * [How do you resolve conflicts](#how-do-you-resolve-conflicts)
     * [Tell me about a time you failed? How did you deal with the situation](#a-time-you-failed)
-    * [Have you ever missed a deadline?](#miss-a-deadline)
+    * [Have your suggestion being adopted](#have-your-suggestion-being-adopted)
+    * [Describe your idea boss](#describe-your-idea-boss)
+    * [What will you do if you are 100% that your boss is wrong](#what-will-you-do-if-your-boss-is-wrong)
+    * [How do you finish an impossible task](#how-do-you-finish-an-impossible-task)
+    * [Have you ever did more than required](#have-you-ever-did-more-than-required)
+    * [How do you compare yourself to your peers](#how-do-you-compare-yourself-to-peers)
     * [Belbin's team roles](#belbin-team-roles)
   * [Others](#others)
     * [What are your salary requirements](#what-are-your-salary-requirements)
@@ -88,19 +96,6 @@
   * Step 3. Past and onwards
   * Step 5. Future. Why you are interested in role, position, company
 
-##### Tell me about a time you failed? How did you deal with the situation<a id="a-time-you-failed"></a>
-* **What the interviewer is really asking**: 
-  * Whether you could actually identify times that you could do better
-  * Whether you learn from those past mistakes to become a better employee.
-* **Key point**: 
-  * Step 1. Pick a time that you failed in a situation where is understandable you could run into trouble.
-  * Step 2. Take responsibility for any part you played in that situation.
-  * Step 3. Prepare for the lesson you have learned and plan to prevent future failure. 
-* **My answer**:
-  * In my undergraduate study I once led a five person team and participated in a robotics competition. We decided to build something really cool - a self-balancing unicycle robot. 
-  * All of us do not have prior experience in robotics. The duration of the competition was three months. We needed to build everything from scratch including hardware, electronics and software. Building a self-unicycle was far more challenging than we could ever expect. It was a too complex system for us.
-  * But we learnt a great lesson from that. Never set a too fancy goal for myself, start from something simple and gradually optimize it. We should not under-estimate challenges  along the way. Instead, the right strategy is to take small steps but iterate as fast as possible. In this way, we could make sure we are continuing in the right direction and stay motivated to work because we always have achievable and challenging goals.
-
 ##### What are your strengths<a id="what-are-your-strengths"></a>
 * **Key points:** How your strengths will help you be an independent worker and a team player.
 * **My Answer:**
@@ -145,7 +140,16 @@
 * Importance to communicate well
 
 ##### Why do you want to work for us <a id="why-want-work-for-us"></a>
-* **key point**: Passion about the technology. Passion about products. Great work-life balance. Great career promotion opportunities. In a word, I could learn a lot of things and make a lot of contribution here at XXX.
+* **key point**: 1. Passion about the technology. Passion about products. Great work-life balance. Great career promotion opportunities. 2. Technical competency. In a word, I could learn a lot of things and make a lot of contribution here at XXX. 
+* Why you believe that you will bring more values to the job and company than it will cost the company to hire you, and give examples. If the company has discussed four critical tasks that need to be tackled, and you have the experience and talent to do them, confidently review the skills you are bring with you which will successfully accomplish your goals. 
+
+##### What did you dislike about your last/present job <a id="what-did-you-dislike-about-your-last-job"></a>
+* **key point**: 
+  - Limit on negatives: The top management has changed, and their philosophy is not one I agree with. The company is downsizing and future growth no longer looks positive. 
+  - Focus more on positives that motivates you: What I enjoyed most about my present situation is working directly with ....That part of my job provides me with a lot of challenge and gives me the personal satisfaction of knowing my talent is being used to the company's advantage. 
+
+##### What have you accomplished in the past year, past 2 years, etc <a id="what-have-you-accomplished-in-the-past-year"></a>
+* Be confident and be aspecific wheever possible. If you saved your company money, reduced cycle time, improved yields, now is the time to tell them about it. 
 
 ##### Why are you looking for a new opportunity now<a id="why-are-you-looking-for-new-opportunity"></a>
 * **Key points**: No judgement ( No negative evaluation about your previous job/manager ). Try not to answer negative problems directly. Use words like: Perhaps. Say more good things about current company.
@@ -153,8 +157,12 @@
   * I like XXX products here and I like work-life balance here. Being part of a team to build widely known products like XXX and XXX is really rewarding and challenging for me. 
 
 ##### What is your plan in the next five years <a id="what-is-your-career-plan-in-next-five-years"></a>
-* **key point**: long-term career and clear goals )
-  * I am especially interested in distributed systems. I want to be a technical leader in my team. 
+* **key point**: clear goals, self-improvement, Combine your development with company's development.
+  * Team perspective: Currently within my team I am the implementor, basically carrying out the directives of someone else. In five years, I hope I could be the major contributor and initiator of the team who comes up with ideas and take most responsibilities.
+  * Personal perspective: Learn more about XXX technology. 
+
+##### Describe your daily/weekly work <a id="describe-your-daily-weekly-work"></a>
+
 
 #### Work-life balance <a id="work-life-balance"></a>
 ##### How did you manage your time and prioritize your tasks?<a id="prioritize-task"></a>
@@ -179,7 +187,7 @@
   * Tell me about a time you had a conflict at work.
   * Give an example of a time you had to respond to an unhappy manager/customer/colleague.
   * Tell me about a time that you disagreed with a rule or approach.
-* **Key points**: Do not take it personal. Discuss the difference. Figure the best solutions for team/company.
+* **Key points**: Do not take it personal. Discuss the difference. Figure the best solutions for team/company. 
 * Steps
   * Talk with the other person
     * Ask the other person to name a time when it would be convenient to meet.
@@ -209,6 +217,40 @@
     * Look for opportunities to point out progress.
     * Compliment the other person’s insights and achievements.
     * Congratulate each other when you make progress, even if it’s just a small step. Your hard work will pay off when scheduled discussions eventually give way to ongoing, friendly communication.
+* Follow-up: What if you cannot persuade your colleagues although you try a lot?
+  * If this thing is on my priority list, I will insist on my idea. Put my idea into practice quickly and verify it is right or not. If after fast prototyping and I found my idea is proved to be wrong, I will correct my errors. 
+
+##### Tell me about a time you failed? How did you deal with the situation<a id="a-time-you-failed"></a>
+* **What the interviewer is really asking**: 
+  * Whether you could actually identify times that you could do better
+  * Whether you learn from those past mistakes to become a better employee.
+* **Key point**: 
+  * Step 1. Pick a time that you failed in a situation where is understandable you could run into trouble.
+  * Step 2. Take responsibility for any part you played in that situation.
+  * Step 3. Elaborate on all efforts you spend to overcome the problem. 
+  * Step 4. Prepare for the lesson you have learned and plan to prevent future failure. 
+* **My answer**:
+  * In my undergraduate study I once led a five person team and participated in a robotics competition. We decided to build something really cool - a self-balancing unicycle robot. 
+  * All of us do not have prior experience in robotics. The duration of the competition was three months. We needed to build everything from scratch including hardware, electronics and software. Building a self-unicycle was far more challenging than we could ever expect. It was a too complex system for us.
+  * But we learnt a great lesson from that. Never set a too fancy goal for myself, start from something simple and gradually optimize it. We should not under-estimate challenges  along the way. Instead, the right strategy is to take small steps but iterate as fast as possible. In this way, we could make sure we are continuing in the right direction and stay motivated to work because we always have achievable and challenging goals.
+
+##### Have your suggestion being adopted <a id="have-your-suggestion-being-adopted"></a>
+* **Key point: 1. Communication skill: How you can logically, reasonably and professionally 2. Evidence research and hard working: How do you collect information, ask opinions from experts**
+
+##### Describe your idea boss <a id="describe-your-idea-boss"></a>
+* Did you ever work with a person who could combine his/her talents with yours and others to create synergy
+
+##### What will you do if you are 100% that your boss is wrong <a id="what-will-you-do-if-your-boss-is-wrong"></a>
+* **Key point: 1. Depends on the scenario. In a casual chatting, informal meeting 2. If my boss does not like other people challenging him, then I will go with his ideas. For the specific part I feel he is wrong, I will let the fact speak for me and before implementation, ask if I made some changes, will it be fine? In this way, I will avoid conflicts and simultaneously get the job done.** 
+
+##### How do you finish an impossible task <a id="how-do-you-finish-an-impossible-task"></a>
+* **Key point: pressure handling. Prioritize**
+
+##### Have you ever did more than required <a id="have-you-ever-did-more-than-required"></a>
+* **Key point: Self-motivated. Independent problem solver. Initiate**
+
+##### How do you compare yourself to your peers <a id="how-do-you-compare-yourself-to-peers"></a>
+* Be confident about your capabilities, but know you have room to grow. You may want to note individual contributions as well as team contributions. 
 
 ##### Belbin's team roles <a id="belbin-team-roles"></a>
 * Action oriented roles
@@ -285,7 +327,9 @@ ZZZ
 * What are the primary goals for my position and how will I be evaluated
 * Who else will be on my team and who outside of my team will I work with frequently
 * Ask about the next steps in the process and whether you can provide more information
-
+* Where do you see this company in 3 years or 5 years
+* What growth opportunities are available for a person starting in this position? Could you give me an example?
+* What is the most important thing I can do to help your company during the first 60 to 90 days of employment?
 
 ### Stories about technical experience<a id="stories-about-technical-experience"></a>
 * a story for each bullet point on resume
