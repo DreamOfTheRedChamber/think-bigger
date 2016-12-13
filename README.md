@@ -35,6 +35,7 @@
   * [Others](#others)
     * [What are your salary requirements](#what-are-your-salary-requirements)
     * [Thank you letter](#thank-you-letter)
+    * [Reschedule](#reschedule)
   * [Questions to ask at the end](#questions-to-ask-at-the-end)
 * [Stories about technical experience](#stories-about-technical-experience)
 * [Checklist for phone interviews](#checklist-for-phone-interview)
@@ -313,6 +314,18 @@ I hope everything works out with you and your new intern/associate.
 
 Sincerely, 
 ZZZ
+
+##### Reschedule <a id="reschedule"></a>
+
+Thanks a lot for all your previous efforts in preparing me for the onsite interview at XXX. 
+
+During the past half a year I have been studying and interviewing a lot to be ready for the strict interview at XXX. Originally I prefer XXX. But Reason1, Reason2, Reason3. I think all these factors will affect my onsite performance. I really want to be a member of XXX and be at my best state for the onsite interview. 
+
+I understand that rescheduling a full day of interviews involves a lot of work and people's schedules being moved around. I also understand that available positions fill up pretty quickly at a highly competitive company like XXX. So I usually try to avoid rescheduling whenever possible. I really apologize for all the inconvenience and rework brought by me. I guaranteed that this is my first and last time asking for rescheduling the onsite interview at XXX.
+
+If rescheduling is possible, I will be really appreciated and try my best to make all your efforts worth it. XXX
+
+I will be looking forward to hearing back from you!
 
 #### Questions to ask at the end<a id="questions-to-ask-at-the-end"></a>
 * Show passion
