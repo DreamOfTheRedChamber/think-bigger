@@ -100,14 +100,14 @@
 ##### What are your strengths<a id="what-are-your-strengths"></a>
 * **Key points:** How your strengths will help you be an independent worker and a team player.
 * **My Answer:**
-  + Eager to learn new things and share what I learn with my teammates. 
-  + For example, I plan to learn XXX because XXX. 
-  + I enjoy sharing what I learned with my teammates. First, teaching others help myself to udnerstand better. I need to summarize what I have learned before sharing it others. I also might have more discussions with others. I also might have new friends. Second, I could help my teammates to learn new things and help the company to build great engineering culture.
+  + There is a book called "Strengths Finder 2.0" and it offers a set of online assessment. 
+  + One of my dominant strengths is focus.  
+    - First, I thrive in environments where goal-setting discussions are commonplace and clearly defined objectives are agreed upon. By nature I am industrious and persistent and I am always able to stay on track with little supervision. Second, as a team member, this talents might be used helping others set goals. For example, at the end of meetings, I am happy to take the responsibility for summarizing what was decided, for defining when these decisions will be acted on, and for setting a date when the group will reconvene. 
+    - Everything is two-sided. My focus talents also means that others will think, act and talk less efficiently than I do. But I should pay attention because sometimes their detours will lead to discoveries and delights. The second is that hours can disappear when I am intent on a task and I lose track of time. I need to make sure that all of my objects are met and all of my priorities are followed by scheduling my efforts and sticking to the schedule. 
 
 ##### What is your greatest weakness<a id="what-is-your-greatest-weakness"></a>
 * **key points: ( a weakness I am solving, not too critical )**
-  * Not that experienced. Could solve most problems with limited guidance. 
-  * Want to be perfect and finish everything. I gradually realized the importance of prioritizing my tasks and working smart. Tasks will be endless. 80% of outcome comes from 20% efforts.
+  + I do not derive a lot of satisfaction from meeting new people, breaking the ice and making connection with another person because I feel that is superficial. But I do understand that networking is an essential part of professional career. So usually before I meet a new person, I will do intensive research on that person to guarantee that our conversations can go really deep and I can learn something from the process. 
 
 ##### What's your proudest professional achievement <a id="what-is-proudest-achievement"></a>
 * **What the interviewer is really asking**:
