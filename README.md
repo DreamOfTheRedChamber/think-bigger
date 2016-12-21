@@ -1,4 +1,4 @@
-# Fighting for you
+# Fighting for 100 commits
 * [Interview process](#interview-process)
 * [Pre-interview research](#pre-interview-research)
 * [General behavior questions](#stories-about-general-experience)
@@ -57,9 +57,6 @@
 * Recent news: medium-to-large companies' strategic moves, how will my role support those goals
 * Interviewer profile: interviewer's linked profile, blog, twitter
 
-### Resume projects<a id="resume-key-projects"></a>
-#### Fault tolerant distributed chat room server <a id="fault-tolerant-distributed-chat-room-server"></a>
-  
 ### General behavior questions <a id="stories-about-general-experience"></a>
 #### Principles <a id="principles"></a>
 * Do not take it personal. Everything should be related to the job.
@@ -309,6 +306,7 @@
 > ZZZ
 
 * Template two
+
 > While it pains me to see this opportunity go, I want to thank you for getting back to me. I also want to thank you for taking the time to meet with me. It was such a pleasure > to meet you and your colleagues and learn about the organization. After spending the time talking with you and doing my research, I really do believe that the XXXX industry is where I want to work. I know that I am not in a position to ask for favors, but if you have a moment to spare I would love any additional feedback. Please do not feel obligated to answer this question, but if there was something you noticed, it will help me in my job search and I would be most appreciative. 
 > 
 > I hope everything works out with you and your new intern/associate. 
