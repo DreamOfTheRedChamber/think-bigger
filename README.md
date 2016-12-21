@@ -297,35 +297,37 @@
 
 ##### Thank you letter <a id="thank-you-letter"></a>
 * Template one
-Dear Mr./Ms. XXX:
-I would like to thank you again for the opportunity to interviewo for the XXX position with YYY company. Although I am disappointed that I was not choosen, I enjoyed meeting you and your colleagues and learning more about the company. 
 
-I am still interested in opportunities with YYY and would appreciate it if you would keep me in mind for future openings in your company. 
-
-Thank you again for your consideration. 
-
-Sicerely,
-ZZZ
+> Dear Mr./Ms. XXX:
+> I would like to thank you again for the opportunity to interviewo for the XXX position with YYY company. Although I am disappointed that I was not choosen, I enjoyed meeting you and your colleagues and learning more about the company. 
+> 
+> I am still interested in opportunities with YYY and would appreciate it if you would keep me in mind for future openings in your company. 
+> 
+> Thank you again for your consideration. 
+> 
+> Sicerely,
+> ZZZ
 
 * Template two
-While it pains me to see this opportunity go, I want to thank you for getting back to me. I also want to thank you for taking the time to meet with me. It was such a pleasure to meet you and your colleagues and learn about the organization. After spending the time talking with you and doing my research, I really do believe that the XXXX industry is where I want to work. I know that I am not in a position to ask for favors, but if you have a moment to spare I would love any additional feedback. Please do not feel obligated to answer this question, but if there was something you noticed, it will help me in my job search and I would be most appreciative. 
-
-I hope everything works out with you and your new intern/associate. 
-
-Sincerely, 
-ZZZ
+> While it pains me to see this opportunity go, I want to thank you for getting back to me. I also want to thank you for taking the time to meet with me. It was such a pleasure > to meet you and your colleagues and learn about the organization. After spending the time talking with you and doing my research, I really do believe that the XXXX industry is where I want to work. I know that I am not in a position to ask for favors, but if you have a moment to spare I would love any additional feedback. Please do not feel obligated to answer this question, but if there was something you noticed, it will help me in my job search and I would be most appreciative. 
+> 
+> I hope everything works out with you and your new intern/associate. 
+> 
+> Sincerely, 
+> ZZZ
 
 ##### Reschedule <a id="reschedule"></a>
 
-Thanks a lot for all your previous efforts in preparing me for the onsite interview at XXX. 
-
-During the past half a year I have been studying and interviewing a lot to be ready for the strict interview at XXX. Originally I prefer XXX. But Reason1, Reason2, Reason3. I think all these factors will affect my onsite performance. I really want to be a member of XXX and be at my best state for the onsite interview. 
-
-I understand that rescheduling a full day of interviews involves a lot of work and people's schedules being moved around. I also understand that available positions fill up pretty quickly at a highly competitive company like XXX. So I usually try to avoid rescheduling whenever possible. I really apologize for all the inconvenience and rework brought by me. I guaranteed that this is my first and last time asking for rescheduling the onsite interview at XXX.
-
-If rescheduling is possible, I will be really appreciated and try my best to make all your efforts worth it. XXX
-
-I will be looking forward to hearing back from you!
+> Thanks a lot for all your previous efforts in preparing me for the onsite interview at XXX. 
+> 
+> During the past half a year I have been studying and interviewing a lot to be ready for the strict interview at XXX. Originally I prefer XXX. But Reason1, Reason2, Reason3. I think all these factors will affect my onsite performance. I really want to be a member of XXX and be at my best state for the onsite interview. 
+> 
+> I understand that rescheduling a full day of interviews involves a lot of work and people's schedules being moved around. I also understand that available positions fill up pretty quickly at a highly competitive company like XXX. So I usually try to avoid rescheduling whenever possible. I really apologize for all the inconvenience and rework brought by me. I guaranteed that this is my first and last time asking for rescheduling the onsite interview at XXX.
+> 
+> If rescheduling is possible, I will be really appreciated and try my best to make all your efforts worth it. XXX
+> 
+> I will be looking forward to hearing back from you!
+> 
 
 #### Questions to ask at the end<a id="questions-to-ask-at-the-end"></a>
 * Show passion
