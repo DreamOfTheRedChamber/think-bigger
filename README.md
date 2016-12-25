@@ -1,48 +1,51 @@
 # Fighting for 100 commits
-* [Interview process](#interview-process)
-* [Pre-interview research](#pre-interview-research)
-* [General behavior questions](#stories-about-general-experience)
-  * [Principles](#principles)
-  * [Method: Give structured answers](#method-give-structured-answers)
-  * [Interview preparation grid](#interview-preparation-grid)
-  * [Know yourself](#know-yourself)
-    * [Tell me about yourself](#tell-me-about-yourself)
-    * [What are your strengths](#what-are-your-strengths)
-    * [What are your weakness](#what-are-your-weakness)
-    * [What's your proudest professional achievement](#what-is-proudest-achievement)
-    * [Plans for learning new programming language](#plans-programming-language)
-    * [What achievement are you most proud of](#achievement-most-proud-of)
-  * [Career development](#career-development)
-    * [What are the important lessons learned when you transit from a student to a professional developer](#transition-student-developer)
-    * [Why do you want to work for us](#why-want-work-for-us)
-    * [What did you dislike about your last/present job](#what-did-you-dislike-about-your-last-job)
-    * [What have you accomplished in the past year, past 2 years, etc](#what-have-you-accomplished-in-the-past-year)
-    * [Why are you looking for a new opportunity now](#why-are-you-looking-for-new-opportunity)
-    * [What is your plan in the next five years](#what-is-your-career-plan-in-next-five-years)
-    * [Describe your daily/weekly work](#describe-your-daily-weekly-work)
-  * [Work-life balance](#work-life-balance)
-    * [How did you manage your time and prioritize your tasks](#prioritize-task)
-  * [Teamwork](#teamwork)
-    * [How do you resolve conflicts](#how-do-you-resolve-conflicts)
-    * [Tell me about a time you failed? How did you deal with the situation](#a-time-you-failed)
-    * [Have your suggestion being adopted](#have-your-suggestion-being-adopted)
-    * [Describe your idea boss](#describe-your-idea-boss)
-    * [What will you do if you are 100% that your boss is wrong](#what-will-you-do-if-your-boss-is-wrong)
-    * [How do you finish an impossible task](#how-do-you-finish-an-impossible-task)
-    * [Have you ever did more than required](#have-you-ever-did-more-than-required)
-    * [How do you compare yourself to your peers](#how-do-you-compare-yourself-to-peers)
-    * [Belbin's team roles](#belbin-team-roles)
-  * [Others](#others)
-    * [What are your salary requirements](#what-are-your-salary-requirements)
-    * [Thank you letter](#thank-you-letter)
-    * [Reschedule](#reschedule)
-  * [Questions to ask at the end](#questions-to-ask-at-the-end)
-* [Stories about technical experience](#stories-about-technical-experience)
-* [Checklist for phone interviews](#checklist-for-phone-interview)
-* [Checklist for onsite interviews](#checklist-for-onsite-interview)
-* [References](#references)
+<!-- MarkdownTOC -->
 
-#### Interview process<a id="interview-process"></a>
+  - [Interview process](#interview-process)
+- [Pre-interview research](#pre-interview-research)
+- [General behavior questions](#general-behavior-questions)
+  - [Principles](#principles)
+  - [Methods: give structured answers](#methods-give-structured-answers)
+  - [Interview preparation grid](#interview-preparation-grid)
+  - [Know yourself](#know-yourself)
+    - [Tell me about yourself](#tell-me-about-yourself)
+    - [What are your strengths](#what-are-your-strengths)
+    - [What is your greatest weakness](#what-is-your-greatest-weakness)
+    - [What's your proudest professional achievement](#whats-your-proudest-professional-achievement)
+    - [Plans for learning new programming language](#plans-for-learning-new-programming-language)
+  - [Career development](#career-development)
+    - [What are the important lessons learned when you transit from a student to a professional developer](#what-are-the-important-lessons-learned-when-you-transit-from-a-student-to-a-professional-developer)
+    - [Why do you want to work for us](#why-do-you-want-to-work-for-us)
+    - [What did you dislike about your last/present job](#what-did-you-dislike-about-your-lastpresent-job)
+    - [What have you accomplished in the past year, past 2 years, etc](#what-have-you-accomplished-in-the-past-year-past-2-years-etc)
+    - [Why are you looking for a new opportunity now](#why-are-you-looking-for-a-new-opportunity-now)
+    - [What is your plan in the next five years](#what-is-your-plan-in-the-next-five-years)
+    - [Describe your daily/weekly work](#describe-your-dailyweekly-work)
+  - [Work-life balance](#work-life-balance)
+    - [How did you manage your time and prioritize your tasks?](#how-did-you-manage-your-time-and-prioritize-your-tasks)
+  - [Teamwork](#teamwork)
+    - [How do you deal with conflicts](#how-do-you-deal-with-conflicts)
+    - [Tell me about a time you failed? How did you deal with the situation](#tell-me-about-a-time-you-failed-how-did-you-deal-with-the-situation)
+    - [Have your suggestion being adopted](#have-your-suggestion-being-adopted)
+    - [Describe your idea boss](#describe-your-idea-boss)
+    - [What will you do if you are 100% that your boss is wrong](#what-will-you-do-if-you-are-100%-that-your-boss-is-wrong)
+    - [How do you finish an impossible task](#how-do-you-finish-an-impossible-task)
+    - [Have you ever did more than required](#have-you-ever-did-more-than-required)
+    - [How do you compare yourself to your peers](#how-do-you-compare-yourself-to-your-peers)
+    - [Belbin's team roles](#belbins-team-roles)
+  - [Others](#others)
+    - [What are your Salary requirements](#what-are-your-salary-requirements)
+    - [Thank you letter](#thank-you-letter)
+    - [Reschedule](#reschedule)
+  - [Questions to ask at the end](#questions-to-ask-at-the-end)
+- [Stories about technical experience](#stories-about-technical-experience)
+  - [Checklist for phone interviews](#checklist-for-phone-interviews)
+  - [Checklist for onsite interviews](#checklist-for-onsite-interviews)
+  - [References](#references)
+
+<!-- /MarkdownTOC -->
+
+#### Interview process
 * HR screening level: Do you meet the base requirements
   * first filter by resume key words, then make sure you meet a base standard
 * Junior engineer level: Could I work with you - might be direct mentor/peer
@@ -52,27 +55,27 @@
 * Senior manager level: culture fit and leadership potential
   * will this person stick long enough with the company and become a leader
 
-### Pre-interview research<a id="pre-interview-research"></a>
+### Pre-interview research
 * Company's site: culture, product set, and mission for asking specific questions
 * Recent news: medium-to-large companies' strategic moves, how will my role support those goals
 * Interviewer profile: interviewer's linked profile, blog, twitter
 
-### General behavior questions <a id="stories-about-general-experience"></a>
-#### Principles <a id="principles"></a>
+### General behavior questions 
+#### Principles 
 * Do not take it personal. Everything should be related to the job.
 * Be specific, not arrogant: Arrogance is a red flag. To make myself sound good without be arrogant, I need to be specific by giving just the facts and letting the interviewer derive an interpretation. 
 * Limit details: Stay light on details and just state the key points. When possible, try to translate it or at least explain the impact.
 > By examing the most common user behavior and applying the Rabin-Karp algorithm, I designed a new algorithm to reduce search from O(n) to O(lgn) in 90% of cases. I can go into more details if you'd like. 
 * Focus on yourself, not the team: Interviews are fundamentally an individual assessment. Unfortunately, when you listen to many candidates, their answers are about "we", "us" and "the team". The interviewer walks away having little idea what the candidate's actual impact was and might conclude that the candidate did little.
 
-#### Methods: give structured answers <a id="method-give-structured-answers"></a>
+#### Methods: give structured answers 
 * Nugget first: Starting your response with a "nugget" that succintly describes what your response will be about. This technique grabs your interviewer's attention and makes it very clear what your story will be about. It also helps you be more focused in your communication, since you've made it very clear to yourself what the gist of your response is.
 > Interviewer: "Tell me about a time you had to persuade a group of people to make a big change"
 > Candidate: "Sure, let me tell you about the time when I convinced my school to let undergraduates teach their own courses. Initially, my school has a rule"
 * S.A.R. (Situation, Action, Result): You start off outlining the situation, then explaining the actions you took and lastly describing the result.
   * In most cases, the action is the most important part of the story. Unfortunately, far too many people talk on and on about the situation, but then just breeze through the action. Instead, dive in the action. Where possible, break down the action into multiple parts. For example, "I did three things. First, I .." This will encourage sufficient depth. 
 
-#### Interview preparation grid <a id="interview-preparation-grid"></a>
+#### Interview preparation grid 
 
 | Common questions | Project1 | Project2 | Project3 | 
 | --------------------- |:-------------:|:-------------:| -----:|
@@ -83,8 +86,8 @@
 | Conflicts | | | |
 | What you'd do differently | | | |
 
-#### Know yourself <a id="know-yourself"></a>
-##### Tell me about yourself<a id="tell-me-about-yourself"></a>
+#### Know yourself 
+##### Tell me about yourself
 * **What the interviewer is really asking**: 
   * What is your career plan
   * Why are you interested in their company
@@ -94,7 +97,7 @@
   * Step 3. Past and onwards
   * Step 5. Future. Why you are interested in role, position, company
 
-##### What are your strengths<a id="what-are-your-strengths"></a>
+##### What are your strengths
 * **Key points:** How your strengths will help you be an independent worker and a team player.
 * **My Answer:**
   + There is a book called "Strengths Finder 2.0" and it offers a set of online assessment. 
@@ -102,11 +105,11 @@
     - First, I thrive in environments where goal-setting discussions are commonplace and clearly defined objectives are agreed upon. By nature I am industrious and persistent and I am always able to stay on track with little supervision. Second, as a team member, this talents might be used helping others set goals. For example, at the end of meetings, I am happy to take the responsibility for summarizing what was decided, for defining when these decisions will be acted on, and for setting a date when the group will reconvene. 
     - Everything is two-sided. My focus talents also means that others will think, act and talk less efficiently than I do. But I should pay attention because sometimes their detours will lead to discoveries and delights. The second is that hours can disappear when I am intent on a task and I lose track of time. I need to make sure that all of my objects are met and all of my priorities are followed by scheduling my efforts and sticking to the schedule. 
 
-##### What is your greatest weakness<a id="what-is-your-greatest-weakness"></a>
+##### What is your greatest weakness
 * **key points: ( a weakness I am solving, not too critical )**
   + I do not derive a lot of satisfaction from meeting new people, breaking the ice and making connection with another person because I feel that is superficial. But I do understand that networking is an essential part of professional career. So usually before I meet a new person, I will do intensive research on that person to guarantee that our conversations can go really deep and I can learn something from the process. 
 
-##### What's your proudest professional achievement <a id="what-is-proudest-achievement"></a>
+##### What's your proudest professional achievement 
 * **What the interviewer is really asking**:
   * What really motivates you
   * Whether you are a team player
@@ -120,7 +123,7 @@
   * I used Python Boto libraries to coordinate Splunk and many AWS services including IAM, CloudTrail and S3. I developed my program in Linux servers and it is also the first time I work with version control systems. 
   * In order to deploy the system in production environment, I needed to work closely with other department and many team members. To guarantee that I will finish building the system within three months, I have daily standup meeting with my manager to guarantee that I am always on the right track.
 
-##### Plans for learning new programming language<a id="plans-programming-language"></a>
+##### Plans for learning new programming language
 * I am most interested in learning Clojure, Node.js and Go.
 * Reasons that I am interested (but not crazy) in Clojure. 
   * Clojure is a JVM reboot of one of the oldest languages Lisp. It also has great modern concurrency features. Clojure provides a hybrid of functional programming and mutable state, which makes it suitable for a large pool of problems. Learning Clojure is just like learning one of the oldest and newest language at the same time, ; )
@@ -132,38 +135,38 @@
   * Go is invented as a C++ replacement for doing system-level programming. It has been used in more and more projects (Docker) and companies (Uber). 
   * However, Go does not have as broad applicable scenarios as Node.js. 
 
-#### Career development <a id="career-development"></a>
+#### Career development 
 ##### What are the important lessons learned when you transit from a student to a professional developer < id="transition-student-developer"></a>
 * Importance to improve raw productivity
 * Importance to communicate well
 
-##### Why do you want to work for us <a id="why-want-work-for-us"></a>
+##### Why do you want to work for us 
 * **key point**: 1. Passion about the technology. Passion about products. Great work-life balance. Great career promotion opportunities. 2. Technical competency. In a word, I could learn a lot of things and make a lot of contribution here at XXX. 
 * Why you believe that you will bring more values to the job and company than it will cost the company to hire you, and give examples. If the company has discussed four critical tasks that need to be tackled, and you have the experience and talent to do them, confidently review the skills you are bring with you which will successfully accomplish your goals. 
 
-##### What did you dislike about your last/present job <a id="what-did-you-dislike-about-your-last-job"></a>
+##### What did you dislike about your last/present job 
 * **key point**: 
   - Limit on negatives: The top management has changed, and their philosophy is not one I agree with. The company is downsizing and future growth no longer looks positive. 
   - Focus more on positives that motivates you: What I enjoyed most about my present situation is working directly with ....That part of my job provides me with a lot of challenge and gives me the personal satisfaction of knowing my talent is being used to the company's advantage. 
 
-##### What have you accomplished in the past year, past 2 years, etc <a id="what-have-you-accomplished-in-the-past-year"></a>
+##### What have you accomplished in the past year, past 2 years, etc 
 * Be confident and be aspecific wheever possible. If you saved your company money, reduced cycle time, improved yields, now is the time to tell them about it. 
 
-##### Why are you looking for a new opportunity now<a id="why-are-you-looking-for-new-opportunity"></a>
+##### Why are you looking for a new opportunity now
 * **Key points**: No judgement ( No negative evaluation about your previous job/manager ). Try not to answer negative problems directly. Use words like: Perhaps. Say more good things about current company.
 * My answer:
   * I like XXX products here and I like work-life balance here. Being part of a team to build widely known products like XXX and XXX is really rewarding and challenging for me. 
 
-##### What is your plan in the next five years <a id="what-is-your-career-plan-in-next-five-years"></a>
+##### What is your plan in the next five years 
 * **key point**: clear goals, self-improvement, Combine your development with company's development.
   * Team perspective: Currently within my team I am the implementor, basically carrying out the directives of someone else. In five years, I hope I could be the major contributor and initiator of the team who comes up with ideas and take most responsibilities.
   * Personal perspective: Learn more about XXX technology. 
 
-##### Describe your daily/weekly work <a id="describe-your-daily-weekly-work"></a>
+##### Describe your daily/weekly work 
 
 
-#### Work-life balance <a id="work-life-balance"></a>
-##### How did you manage your time and prioritize your tasks?<a id="prioritize-task"></a>
+#### Work-life balance 
+##### How did you manage your time and prioritize your tasks?
 * **What the interviewer is really asking**:
   * How do you manage multiple projects
   * How easy it would be to manage as an employee
@@ -178,8 +181,8 @@
   * Then I estimate how long each of them will take. For really big tasks, I will break it into a list of small tasks.
   * Next, I will prioritize them. If there are too many deadlines, I will meet up with my manager/teammates to discuss which ones are more important.
 
-#### Teamwork <a id="teamwork"></a>
-##### How do you deal with conflicts <a id="deal-with-conflicts-with-colleague"></a>
+#### Teamwork 
+##### How do you deal with conflicts 
 * Similar questionns
   * Tell me about a team project when you had to work with someone difficult.
   * Tell me about a time you had a conflict at work.
@@ -218,7 +221,7 @@
 * Follow-up: What if you cannot persuade your colleagues although you try a lot?
   * If this thing is on my priority list, I will insist on my idea. Put my idea into practice quickly and verify it is right or not. If after fast prototyping and I found my idea is proved to be wrong, I will correct my errors. 
 
-##### Tell me about a time you failed? How did you deal with the situation<a id="a-time-you-failed"></a>
+##### Tell me about a time you failed? How did you deal with the situation
 * **What the interviewer is really asking**: 
   * Whether you could actually identify times that you could do better
   * Whether you learn from those past mistakes to become a better employee.
@@ -232,25 +235,25 @@
   * All of us do not have prior experience in robotics. The duration of the competition was three months. We needed to build everything from scratch including hardware, electronics and software. Building a self-unicycle was far more challenging than we could ever expect. It was a too complex system for us.
   * But we learnt a great lesson from that. Never set a too fancy goal for myself, start from something simple and gradually optimize it. We should not under-estimate challenges  along the way. Instead, the right strategy is to take small steps but iterate as fast as possible. In this way, we could make sure we are continuing in the right direction and stay motivated to work because we always have achievable and challenging goals.
 
-##### Have your suggestion being adopted <a id="have-your-suggestion-being-adopted"></a>
+##### Have your suggestion being adopted 
 * **Key point: 1. Communication skill: How you can logically, reasonably and professionally 2. Evidence research and hard working: How do you collect information, ask opinions from experts**
 
-##### Describe your idea boss <a id="describe-your-idea-boss"></a>
+##### Describe your idea boss 
 * Did you ever work with a person who could combine his/her talents with yours and others to create synergy
 
-##### What will you do if you are 100% that your boss is wrong <a id="what-will-you-do-if-your-boss-is-wrong"></a>
+##### What will you do if you are 100% that your boss is wrong 
 * **Key point: 1. Depends on the scenario. In a casual chatting, informal meeting 2. If my boss does not like other people challenging him, then I will go with his ideas. For the specific part I feel he is wrong, I will let the fact speak for me and before implementation, ask if I made some changes, will it be fine? In this way, I will avoid conflicts and simultaneously get the job done.** 
 
-##### How do you finish an impossible task <a id="how-do-you-finish-an-impossible-task"></a>
+##### How do you finish an impossible task 
 * **Key point: pressure handling. Prioritize**
 
-##### Have you ever did more than required <a id="have-you-ever-did-more-than-required"></a>
+##### Have you ever did more than required 
 * **Key point: Self-motivated. Independent problem solver. Initiate**
 
-##### How do you compare yourself to your peers <a id="how-do-you-compare-yourself-to-peers"></a>
+##### How do you compare yourself to your peers 
 * Be confident about your capabilities, but know you have room to grow. You may want to note individual contributions as well as team contributions. 
 
-##### Belbin's team roles <a id="belbin-team-roles"></a>
+##### Belbin's team roles 
 * Action oriented roles
   - Shaper
     + Shapers are people who challenge the team to improve. They are dynamic and usually extroverted people who enjoy stimulating others, questioning norms, and finding the best approaches for solving problems. The Shaper is the one who shakes things up to make sure that all possibilities are considered and that the team does not become complacent.
@@ -283,8 +286,8 @@
     + This may limit their contribution, and lead to a preoccupation with technicalities at the expense of the bigger picture.
  
 
-#### Others <a id="others"></a>
-##### What are your Salary requirements<a id="what-are-your-salary-requirements"></a>
+#### Others 
+##### What are your Salary requirements
 * **What are your salary expectations for the job** 
  * I’m more interested in finding a position that’s a good fit for my skills and interests. I’m confident that you’re offering a salary that’s competitive in the current market.
 * **When interviewers press further for a specific number** 
@@ -292,7 +295,7 @@
 * **What are you making now** 
  * Since this position is not exactly the same as my current job, let’s discuss what my responsibilities at this company will be and work together to determine a fair salary for this position.
 
-##### Thank you letter <a id="thank-you-letter"></a>
+##### Thank you letter 
 * Template one
 
 > Dear Mr./Ms. XXX:
@@ -314,7 +317,7 @@
 > Sincerely, 
 > ZZZ
 
-##### Reschedule <a id="reschedule"></a>
+##### Reschedule 
 
 > Thanks a lot for all your previous efforts in preparing me for the onsite interview at XXX. 
 > 
@@ -327,7 +330,7 @@
 > I will be looking forward to hearing back from you!
 > 
 
-#### Questions to ask at the end<a id="questions-to-ask-at-the-end"></a>
+#### Questions to ask at the end
 * Show passion
 * The thing you like most about this company
 * Onboarding process
@@ -344,14 +347,14 @@
 * What growth opportunities are available for a person starting in this position? Could you give me an example?
 * What is the most important thing I can do to help your company during the first 60 to 90 days of employment?
 
-### Stories about technical experience<a id="stories-about-technical-experience"></a>
+### Stories about technical experience
 * a story for each bullet point on resume
   * Start with an overview: overview of the problem, solution, and your role - let interviewer go deeper
   * Communicate clearly: test of communication skills and logical thinking
   * Role in the project: identify what you are responsible for, and be prepared to give deeper details on that part. Demonstrate you worked well with your team
   * Technical knowledge: did you make key design decisions, or did you just follow instructions? Make sure you come across as truly knowledgeable
 
-#### Checklist for phone interviews<a id="checklist-for-phone-interview"></a>
+#### Checklist for phone interviews
 * Have a copy of resume in front of you
 * Do not just give "yes" or "no" answers. Limit initial explanation to short summaries and allow the interviewer to ask follow up questions
 * Your tone of voice and word choice. Interviewers use voice to judge how believable you are. Posture really have impact on your mind
@@ -359,7 +362,7 @@
 * Hold off on questions specific to salary and benefits until later interviews
 * Take notes and write a follow up thank you email with details from the discussion. They might interview a couple employees 
 
-#### Checklist for onsite interviews<a id="checklist-for-onsite-interview"></a>
+#### Checklist for onsite interviews
 * Bring extra copies of your resume with you - for the interviewer and your own reference
 * Show up 15 minutes early and have the interviewer's phone number for last minute changes
 * Do extensive research on the company, interviewers and recent relevant news
@@ -369,6 +372,6 @@
 * Whiteboard pen and erasers
 
 
-#### References<a id="references"></a>
+#### References
 * [Salary expectation](https://biginterview.com/blog/2015/10/salary-expectations.html)
 * [10 steps to ace the phone interview](https://biginterview.com/blog/interview-questions-answers)
