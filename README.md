@@ -1,7 +1,9 @@
 # Fighting for 100 commits
+
+
 <!-- MarkdownTOC -->
 
-  - [Interview process](#interview-process)
+- [Interview process](#interview-process)
 - [Pre-interview research](#pre-interview-research)
 - [General behavior questions](#general-behavior-questions)
   - [Principles](#principles)
@@ -45,7 +47,8 @@
 
 <!-- /MarkdownTOC -->
 
-#### Interview process
+
+### Interview process
 * HR screening level: Do you meet the base requirements
   * first filter by resume key words, then make sure you meet a base standard
 * Junior engineer level: Could I work with you - might be direct mentor/peer
