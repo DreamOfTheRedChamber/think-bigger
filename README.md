@@ -22,6 +22,7 @@
     - [What have you accomplished in the past year, past 2 years, etc](#what-have-you-accomplished-in-the-past-year-past-2-years-etc)
     - [Why are you looking for a new opportunity now](#why-are-you-looking-for-a-new-opportunity-now)
     - [What is your plan in the next five years](#what-is-your-plan-in-the-next-five-years)
+    - [Reason for leave employment](#reason-for-leave-employment)
     - [Describe your daily/weekly work](#describe-your-dailyweekly-work)
   - [Work-life balance](#work-life-balance)
     - [How did you manage your time and prioritize your tasks?](#how-did-you-manage-your-time-and-prioritize-your-tasks)
@@ -165,8 +166,17 @@
   * Team perspective: Currently within my team I am the implementor, basically carrying out the directives of someone else. In five years, I hope I could be the major contributor and initiator of the team who comes up with ideas and take most responsibilities.
   * Personal perspective: Learn more about XXX technology. 
 
-##### Describe your daily/weekly work 
+##### Reason for leave employment
+* Career growth 
+  - You can easily say that you are looking for a change in role and wanted more growth, or even that your position was getting stagnant. This might be an acceptable reason for quitting your job, but this by no means gives you leeway to criticize your job.
+* Looking for challenges 
+  - One of the most common and simple reasons is that your job was at a standstill and you wished to seek newer avenues and greater challenges.
+* Restructuring
+* Relocation
+* Enhanced Education
+* Workplace distance
 
+##### Describe your daily/weekly work 
 
 #### Work-life balance 
 ##### How did you manage your time and prioritize your tasks?
