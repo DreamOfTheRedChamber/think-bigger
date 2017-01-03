@@ -1,7 +1,25 @@
 # OpenText Analytics
-## Company and project
-## Purpose and impact
-## Technical components
-## Challenging part
-## Teamwork
-## How to improve the project
+# Background
+## Company
+
+
+## Team
+
+
+## Project
+
+
+# Technical components
+## RLE on cache layer
+### Column-based
+### Fact/Dictionary table
+### Run length encoding
+
+
+## Difficult part
+
+
+## How to test
+
+## Possible improvements
+### Encoding algorithms
