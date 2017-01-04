@@ -24,11 +24,13 @@
 				- [Actions](#actions)
 				- [Resources](#resources)
 				- [Condition](#condition)
-			- [Resource-based policies vs Identity-based policies](#resource-based-policies-vs-identity-based-policies)
+			- [Types](#types)
+				- [Resource-based policies vs Identity-based policies](#resource-based-policies-vs-identity-based-policies)
+				- [Managed policies vs Inline policies](#managed-policies-vs-inline-policies)
 			- [Policy example](#policy-example)
 			- [Evaluating policies](#evaluating-policies)
 		- [Identities](#identities)
-			- [Root users](#root-users)
+			- [Root user](#root-user)
 			- [Users](#users)
 			- [Groups](#groups)
 			- [Roles](#roles)
@@ -51,7 +53,10 @@
 	- [How to test](#how-to-test)
 	- [Possible improvements](#possible-improvements)
 		- [AWS Lambda and API Gateway](#aws-lambda-and-api-gateway)
-		- [AWS CloudWatch](#aws-cloudwatch)
+			- [Lambda](#lambda)
+			- [API Gateway](#api-gateway)
+			- [Combined](#combined)
+		- [AWS CloudWatch logs](#aws-cloudwatch-logs)
 
 <!-- /MarkdownTOC -->
 
@@ -131,6 +136,12 @@
 ## IAM
 ### Def
 * Identity Access and Management service provides granular control for your AWS account. 
+	- Users and Groups
+	- Unique security credentials
+	- Temporary security credentials
+	- Policies & permissions
+	- Roles
+	- Multi-factor authentication
 
 ### Access control policy
 #### Def
@@ -176,15 +187,28 @@
 	- The time is before 3:00 p.m. on 8/16/2013
 	- The request comes from an IP address in the 192.0.2.0 /24 or 203.0.113.0 /24 range
 
-#### Resource-based policies vs Identity-based policies
-* IAM policies live with
-	- IAM users
-	- IAM groups
-	- IAM roles
-* Some services allow storing policy with resources
-	- S3 (bucket policy)
-	- SNS (topic policy)
-	- SQS (queue policy)
+#### Types
+##### Resource-based policies vs Identity-based policies
+* For some AWS services, you can grant cross-account access to your resources. To do this, you attach a policy directly to the resource that you want to share, instead of using a role as a proxy. The resource that you want to share must support resource-based policies. Unlike a user-based policy, a resource-based policy specifies who (in the form of a list of AWS account ID numbers) can access that resource.
+
+* Advantage: 
+	- Cross-account access with a resource-based policy has an advantage over a role. With a resource that is accessed through a resource-based policy, the user still works in the trusted account and does not have to give up his or her user permissions in place of the role permissions. In other words, the user continues to have access to resources in the trusted account at the same time as he or she has access to the resource in the trusting account. This is useful for tasks such as copying information to or from the shared resource in the other account.
+* Disadvantage: 
+	- The disadvantage is that not all services support resource-based policies. A few of the AWS services that support resource-based policies are listed here:
+		+ Amazon S3 buckets – The policy is attached to the bucket, but the policy controls access to both the bucket and the objects in it. For more information, go to Access Control in the Amazon Simple Storage Service Developer Guide.
+		+ Amazon Simple Notification Service (Amazon SNS) topics – For more information, go to Managing Access to Your Amazon SNS Topics in the Amazon Simple Notification Service Developer Guide.
+		+ Amazon Simple Queue Service (Amazon SQS) queues – For more information, go to Appendix: The Access Policy Language in the Amazon Simple Queue Service Developer Guide.
+		+ For a complete list of the growing number of AWS services that support attaching permission policies to resources instead of principals, see AWS Services That Work with IAM and look for the services that have Yes in the Resource Based column.
+
+##### Managed policies vs Inline policies
+* Using IAM, you apply permissions to IAM users, groups, and roles (which we refer to as principal entities) by creating policies. You can create two types of IAM, oridentity-based policies:
+	- Managed policies – Standalone policies that you can attach to multiple users, groups, and roles in your AWS account. Managed policies apply only to identities (users, groups, and roles) - not resources. You can use two types of managed policies:
+		+ AWS managed policies – Managed policies that are created and managed by AWS. If you are new to using policies, we recommend that you start by using AWS managed policies.
+		+ Customer managed policies – Managed policies that you create and manage in your AWS account. Using customer managed policies, you have more precise control over your policies than when using AWS managed policies.
+	- Inline policies – Policies that you create and manage, and that are embedded directly into a single user, group, or role. Resource-based policies are another form of inline policy. Resource-based policies are not discussed here. For more information about resource-based policies, see Identity-Based (IAM) Permissions and Resource-Based Permissions.
+* Identity-based (IAM) policies can be either inline or managed. Resource-based policies are attached to the resources (inline) only and are not managed.
+
+Generally speaking, the content of the policies is the same in all cases—each kind of policy defines a set of permissions using a common structure and a common syntax.
 
 #### Policy example
 
@@ -192,8 +216,8 @@
 * [Slides 46](http://www.slideshare.net/AmazonWebServices/mastering-access-control-policies-sec302-aws-reinvent-2013/7)
 
 ### Identities
-#### Root users
-* 
+#### Root user
+* Root account has unrestricted access to all resources within the account, including access to billing information. 
 
 #### Users
 * An IAM user is an entity that you create in AWS to represent the person or service that uses it to interact with AWS. A user in AWS consists of a name and credentials.
@@ -294,9 +318,25 @@
 
 ## How to test
 * AWS policy generator
+* AWS policy simulator
 
 ## Possible improvements
 ### AWS Lambda and API Gateway
+#### Lambda
+* AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume - there is no charge when your code is not running. With Lambda, you can run code for virtually any type of application or backend service - all with zero administration. Just upload your code and Lambda takes care of everything required to run and scale your code with high availability. You can set up your code to automatically trigger from other AWS services or call it directly from any web or mobile app.
 
-### AWS CloudWatch
+#### API Gateway 
+* Amazon API Gateway supports the following two major functionalities:
+	- It lets you create, manage and host a RESTful API to expose AWS Lambda functions, HTTP endpoints as well as other services from the AWS family including, but not limited to, Amazon DynamoDB, Amazon S3 Amazon Kinesis. You can use this feature through the API Gateway REST API requests and responses, the API Gateway console, AWS Command-Line Interface (CLI), or an API Gateway SDK of supported platforms/languages. This feature is sometimes referred to as the API Gateway control service.
+	- It lets you or 3rd-party app developer to call a deployed API to access the integrated back-end features, using standard HTTP protocols or a platform- or language-specific SDK generated by API Gateway for the API. This feature is sometimes known as the API Gateway execution service.
+
+#### Combined
+* AWS Lambda provides an easy way to build back ends without managing servers. API Gateway and Lambda together can be powerful to create and deploy serverless Web applications. In this walkthrough, you learn how to create Lambda functions and build an API Gateway API to enable a Web client to call the Lambda functions synchronously. For more information about Lambda, see the AWS Lambda Developer Guide. For information about asynchronous invocation of Lambda functions, see Create an API as a Lambda Proxy.
+
+### AWS CloudWatch logs
+* One of the ways that you can work with CloudTrail logs is to monitor them by sending them to CloudWatch Logs. For a trail that is enabled in all regions in your account, CloudTrail sends log files from all those regions to a CloudWatch Logs log group. You define CloudWatch Logs metric filters that will evaluate your CloudTrail log events for matches in terms, phrases, or values. You assign CloudWatch metrics to the metric filters. You also create CloudWatch alarms that are triggered according to thresholds and time periods that you specify. You can configure an alarm to send a notification when the alarm is triggered so that you can take immediate action. You can also configure CloudWatch to automatically perform an action in response to an alarm. CloudTrail events are protected by SSL encryption as they are delivered from CloudTrail to the CloudWatch Logs log grou
+
+* Advantages of CloudWatch logs: What makes CloudWatch Logs more preferable over other third party tools?
+	- CloudWatch is the single platform to monitor resource usage and logs.
+	- CloudWatch Logs pricing is based on pay as you use model which may turn out to be cheaper than third party tools that work on per node licence model. Here you will be paying for log storage and bandwidth used to upload the files.
 
