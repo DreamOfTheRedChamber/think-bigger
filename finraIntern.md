@@ -1,4 +1,4 @@
-# Finra intern project - Permissions Compliance System on AWS
+# Permissions Compliance System on AWS
 <!-- MarkdownTOC -->
 
 - [Related Presentations](#related-presentations)
@@ -12,17 +12,26 @@
 	- [Project](#project)
 - [Technical components](#technical-components)
 	- [IAM](#iam)
-		- [Permission types](#permission-types)
+		- [Def](#def-1)
+		- [Access control policy](#access-control-policy)
+			- [Def](#def-2)
+			- [Structure](#structure)
+				- [Principals](#principals)
+				- [Actions](#actions)
+				- [Resources](#resources)
+				- [Condition](#condition)
+			- [Resource-based policies vs Identity-based policies](#resource-based-policies-vs-identity-based-policies)
+			- [Evaluating policies](#evaluating-policies)
 			- [Users and groups](#users-and-groups)
 			- [Roles](#roles)
 		- [Policies](#policies)
-			- [Structure](#structure)
+			- [Structure](#structure-1)
 			- [Evaluation](#evaluation)
 	- [S3](#s3)
 		- [Comparisons](#comparisons)
 		- [How is benchmarks designed](#how-is-benchmarks-designed)
 	- [CloudTrail](#cloudtrail)
-		- [Def](#def-1)
+		- [Def](#def-3)
 		- [Use cases](#use-cases)
 		- [Workflow](#workflow)
 		- [Methods](#methods)
@@ -98,12 +107,70 @@
 		+ We were one of the first people to use Splunk Cloud. Our company in general has a good presence in cloud and we are one of the bigger customers of AWS. We wanted to build a SIEM, but we needed huge amounts of data storage and data volume storage, and if we were going to do it on premise then we would need to buy and manage this box and that box – it ends up that you spend a greater amount of time on maintenance of these things than you do adding value. We thought it was a good idea to offload that to Splunk – we are happy with the cloud. Let them own the base layer and we will start adding value on top of that. With cloud I can put an exact dollar amount on data. I can say that it is going to cost us $10,000 a year to give you that information – is it worth it? It makes those type of decisions a little bit easier.
 
 ## Project
-
+* The purpose of this project is as the first step in building a security 
 
 # Technical components
 ## IAM
-### Permission types
-* Identity-based vs Resource-based
+### Def
+* Identity Access and Management service provides granular control for your AWS account. 
+
+### Access control policy
+#### Def
+* You can grant or deny access by defining: 
+	- Who can access your resources
+	- What actions they can take
+	- Which resources they can access
+	- How will they access your resources
+* The policy language is about authorization. 
+
+#### Structure
+* Policies are JSON-formatted documents, which contain statements which specify 
+	- What actions a principal can perform
+	- Which resources can be accessed
+
+```json
+{
+	"Statement" : [
+		{
+			"Effect": "Allow",
+			"Action": ["s3: Get", "s3: List"],
+			"Resource": "*"
+		}
+	]
+}
+```
+
+##### Principals
+* Principal is an entity that is allowed or denied access to a resource. 
+* Principal element is required for resource-based policies.
+
+##### Actions
+* Actions describes the type of access that should be allowed or denied. 
+* Statements must include either an Action or NotAction element.
+
+##### Resources
+* Resources describe objects that are being requested. 
+* Statements must include either a Resource or a NotResource element. 
+
+##### Condition
+* Allows a user to access a resource under the following conditions:
+	- The time is after 12:00 p.m. on 8/16/2013
+	- The time is before 3:00 p.m. on 8/16/2013
+	- The request comes from an IP address in the 192.0.2.0 /24 or 203.0.113.0 /24 range
+
+#### Resource-based policies vs Identity-based policies
+* IAM policies live with
+	- IAM users
+	- IAM groups
+	- IAM roles
+* Some services allow storing policy with resources
+	- S3 (bucket policy)
+	- SNS (topic policy)
+	- SQS (queue policy)
+
+#### Evaluating policies
+* [Slides 46](http://www.slideshare.net/AmazonWebServices/mastering-access-control-policies-sec302-aws-reinvent-2013/7)
+
 
 #### Users and groups
 #### Roles
