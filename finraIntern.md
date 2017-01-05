@@ -38,7 +38,11 @@
 			- [Comparison](#comparison)
 	- [S3](#s3)
 		- [Comparisons](#comparisons)
-		- [How is benchmarks designed](#how-is-benchmarks-designed)
+		- [Characters](#characters)
+	- [Algorithm](#algorithm)
+		- [Estimate the amount of data](#estimate-the-amount-of-data)
+		- [Only consider action and effect](#only-consider-action-and-effect)
+		- [Output](#output)
 	- [CloudTrail](#cloudtrail)
 		- [Def](#def-3)
 		- [Use cases](#use-cases)
@@ -211,6 +215,37 @@
 Generally speaking, the content of the policies is the same in all cases—each kind of policy defines a set of permissions using a common structure and a common syntax.
 
 #### Policy example
+* Given 4 APIs:
+	- "s3:DeleteBucket",
+    - "s3:DeleteObject",
+    - "s3:ListBucket",
+    - "s3:PutObject"
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "Stmt1483586463716",
+      "Action": [
+        "s3:DeleteBucket",
+        "s3:DeleteObject",
+      ],
+      "Effect": "Allow",
+      "Resource": "*"
+    },
+    {
+      "Sid": "Stmt1483586463717",
+      "Action": [
+        "s3:DeleteBucket",
+        "s3:ListBucket",
+      ],
+      "Effect": "Deny",
+      "Resource": "*"
+    }
+  ]
+}
+```
 
 #### Evaluating policies
 * [Slides 46](http://www.slideshare.net/AmazonWebServices/mastering-access-control-policies-sec302-aws-reinvent-2013/7)
@@ -259,9 +294,62 @@ Generally speaking, the content of the policies is the same in all cases—each 
 
 ## S3
 ### Comparisons
-* S3 vs Glacier vs EBS vs DynamoDB vs RDS vs ElastiCache
+* S3 vs Glacier vs DynamoDB vs RDS vs ElastiCache
 
-### How is benchmarks designed
+### Characters
+* Amazon S3 provides the most feature-rich object storage platform available in the cloud today.
+* Amazon S3 provides durable infrastructure to store important data and is designed for durability of 99.999999999% of objects. Your data is redundantly stored across multiple facilities and multiple devices in each facility.
+
+## Algorithm
+### Estimate the amount of data
+
+> 10KB * 3 * 10 ^ 4 = 300MB
+
+### Only consider action and effect
+
+```
+for each user
+{
+	fetch all policies associated with the user
+		1. List of user policies
+		2. List of group policies
+		3. List of role policies
+	Map( API, Allow/Deny )
+	for each policy
+	{
+		for each statement
+		{
+			if ( effect == deny )
+			{
+				Map.put( action, deny )
+			}
+			else
+			{
+				Map.putIfAbsent( action, allow )
+			}
+		}
+	}
+
+	Compare the map with permissions inside csv
+}
+```
+
+### Output
+* Data fields for the output
+	- Timestamp
+	- AWS accountID
+    -splunkEnvironment
+	- UserName
+	- Service Name
+	- API Name
+	- Expected
+	- Observed
+	- Policy Name
+	- Expected
+	- Severity
+		+ Incident type
+		+ API capability
+		+ Environment
 
 ## CloudTrail
 ### Def
