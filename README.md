@@ -95,6 +95,7 @@
 * **What the interviewer is really asking**: 
   * What is your career plan
   * Why are you interested in their company
+  * First, it gives interviewers a general idea of your background – whether you are an experienced engineer, a new grad or a series entrepreneur and so on. More importantly, it provides information about why you are relevant to the job.
 * **Key points**: 
   * Step 1. What you are interested in
   * Step 2. Your current role

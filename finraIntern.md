@@ -37,8 +37,10 @@
 				- [Use case](#use-case)
 			- [Comparison](#comparison)
 	- [S3](#s3)
+		- [Characteristics](#characteristics)
+		- [Object storage vs file system storage](#object-storage-vs-file-system-storage)
+			- [Access mode](#access-mode)
 		- [Comparisons](#comparisons)
-		- [Characters](#characters)
 	- [Algorithm](#algorithm)
 		- [Estimate the amount of data](#estimate-the-amount-of-data)
 		- [Only consider action and effect](#only-consider-action-and-effect)
@@ -293,12 +295,18 @@ Generally speaking, the content of the policies is the same in all cases—each 
 
 
 ## S3
-### Comparisons
-* S3 vs Glacier vs DynamoDB vs RDS vs ElastiCache
-
-### Characters
+### Characteristics
 * Amazon S3 provides the most feature-rich object storage platform available in the cloud today.
 * Amazon S3 provides durable infrastructure to store important data and is designed for durability of 99.999999999% of objects. Your data is redundantly stored across multiple facilities and multiple devices in each facility.
+
+### Object storage vs file system storage
+#### Access mode
+* Object storage access: RESTful API
+* File system access: Special protocols
+
+
+### Comparisons
+* S3 vs Glacier vs DynamoDB vs RDS vs ElastiCache
 
 ## Algorithm
 ### Estimate the amount of data
@@ -338,7 +346,9 @@ for each user
 * Data fields for the output
 	- Timestamp
 	- AWS accountID
-    -splunkEnvironment
+	- AWS region
+	- Resources
+    - Environment
 	- UserName
 	- Service Name
 	- API Name
@@ -379,10 +389,15 @@ for each user
 ### Log example
 #### Information in a recorded API call
 * Who made the API call
+	- userName:
 * When was the API call made
-* What was the API call
+	- EventTime: 2013-10-23T23:30:42z
+* What was the API call made
+	- API and service name
 * What were the resources that were acted up on in the API call
 * Where was the API call made from
+	- IP address
+	- AWS region
 
 ### Monitor and receive notifications
 * You can monitor any specific event recorded by CloudTrail and receive notification from CloudWatch. Should monitor for security or network related events that are likely to have a high blast radius. 
