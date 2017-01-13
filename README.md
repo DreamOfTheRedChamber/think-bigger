@@ -105,14 +105,14 @@
 ##### What are your strengths
 * **Key points:** How your strengths will help you be an independent worker and a team player.
 * **My Answer:**
-  + There is a book called "Strengths Finder 2.0" and it offers a set of online assessment. 
-  + One of my dominant strengths is focus.  
-    - First, I thrive in environments where goal-setting discussions are commonplace and clearly defined objectives are agreed upon. By nature I am industrious and persistent and I am always able to stay on track with little supervision. Second, as a team member, this talents might be used helping others set goals. For example, at the end of meetings, I am happy to take the responsibility for summarizing what was decided, for defining when these decisions will be acted on, and for setting a date when the group will reconvene. 
-    - Everything is two-sided. My focus talents also means that others will think, act and talk less efficiently than I do. But I should pay attention because sometimes their detours will lead to discoveries and delights. The second is that hours can disappear when I am intent on a task and I lose track of time. I need to make sure that all of my objects are met and all of my priorities are followed by scheduling my efforts and sticking to the schedule. 
+  + From the personality perspective, there is a book called "Strengths Finder 2.0" and it offers a set of online assessment. 
+    - One of my dominant strengths is focus. I thrive in environments where goal-setting discussions are commonplace and clearly defined objectives are agreed upon. By nature I am industrious and persistent and I am always able to stay on track with little supervision. 
+    - The other of my dominant strengths is learning and sharing. I love learn new things, make presentations and share what I learned with others. In the future, I could become the software engineer who is really great at public speaking. 
+  + From the professional perspective, in the future, I plan to find a specific area where I can become an expert such that I am always the problem solver and stopper in that area. In addition, after settling down on the position, I hope that I could learn more domain knowledge and have more understanding on the product side, rather than just being a software engineer. 
 
 ##### What is your greatest weakness
 * **key points: ( a weakness I am solving, not too critical )**
-  + I do not derive a lot of satisfaction from meeting new people, breaking the ice and making connection with another person because I feel that is superficial. But I do understand that networking is an essential part of professional career. So usually before I meet a new person, I will do intensive research on that person to guarantee that our conversations can go really deep and I can learn something from the process. 
+  + I don't have a lot of working experience. 
 
 ##### What's your proudest professional achievement 
 * **What the interviewer is really asking**:
