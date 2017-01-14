@@ -111,8 +111,11 @@
   + From the professional perspective, in the future, I plan to find a specific area where I can become an expert such that I am always the problem solver and stopper in that area. In addition, after settling down on the position, I hope that I could learn more domain knowledge and have more understanding on the product side, rather than just being a software engineer. 
 
 ##### What is your greatest weakness
-* **key points: ( a weakness I am solving, not too critical )**
-  + I don't have a lot of working experience. 
+* Goal: Trying to see how well you respond to a question that's intentionally meant to throw you off your game. They want to see how you react to a question meant to throw you off your carefully memorized path as well as gauge just how good you are at being self-critical and aware. It is an onion question.
+* **key points:**  A weakness I am solving, not too critical. Do you learn from those experiences? Do you have a hard time taking criticism without getting defensive?
+  + I hate confrontation and in the past. Sometimes I found myself compromise what I wanted or needed in order to keep the peace. This was a real problem, especially in team situations or when I was supposed to be leading a group because there are times when you need to tell people things they might not necessarily want to hear. 
+  + Since then I've realized this is a weakness of mine and I've worked very hard to overcome it. Now instead of avoiding these situations, I take it as an opportunity to practice being more assertive. I take the time to listen to each side of the situation and make sure that if I have any comments or criticisms, I spoke out for myself. I want to gaurantee that my solutions are constructive ideas instead of peaceful patches. 
+
 
 ##### What's your proudest professional achievement 
 * **What the interviewer is really asking**:
