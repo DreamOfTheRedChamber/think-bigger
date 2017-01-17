@@ -14,19 +14,19 @@
     - [What are your strengths](#what-are-your-strengths)
     - [What is your greatest weakness](#what-is-your-greatest-weakness)
     - [What's your proudest professional achievement](#whats-your-proudest-professional-achievement)
+    - [What's the most challenging project](#whats-the-most-challenging-project)
     - [Plans for learning new programming language](#plans-for-learning-new-programming-language)
   - [Career development](#career-development)
     - [What are the important lessons learned when you transit from a student to a professional developer](#what-are-the-important-lessons-learned-when-you-transit-from-a-student-to-a-professional-developer)
     - [Why do you want to work for us](#why-do-you-want-to-work-for-us)
+    - [Why should we hire you](#why-should-we-hire-you)
     - [What did you dislike about your last/present job](#what-did-you-dislike-about-your-lastpresent-job)
-    - [What have you accomplished in the past year, past 2 years, etc](#what-have-you-accomplished-in-the-past-year-past-2-years-etc)
-    - [Why are you looking for a new opportunity now](#why-are-you-looking-for-a-new-opportunity-now)
     - [What is your plan in the next five years](#what-is-your-plan-in-the-next-five-years)
     - [Reason for leave employment](#reason-for-leave-employment)
-    - [Describe your daily/weekly work](#describe-your-dailyweekly-work)
   - [Work-life balance](#work-life-balance)
     - [How did you manage your time and prioritize your tasks?](#how-did-you-manage-your-time-and-prioritize-your-tasks)
   - [Teamwork](#teamwork)
+    - [How soon are you ready to make a move](#how-soon-are-you-ready-to-make-a-move)
     - [How do you deal with conflicts](#how-do-you-deal-with-conflicts)
     - [Tell me about a time you failed? How did you deal with the situation](#tell-me-about-a-time-you-failed-how-did-you-deal-with-the-situation)
     - [Have your suggestion being adopted](#have-your-suggestion-being-adopted)
@@ -131,6 +131,17 @@
   * I used Python Boto libraries to coordinate Splunk and many AWS services including IAM, CloudTrail and S3. I developed my program in Linux servers and it is also the first time I work with version control systems. 
   * In order to deploy the system in production environment, I needed to work closely with other department and many team members. To guarantee that I will finish building the system within three months, I have daily standup meeting with my manager to guarantee that I am always on the right track.
 
+##### What's the most challenging project
+* **Key points**:
+  - To identify your skills and see how well you manage a project/situation
+  - To see what kind of approach you use in dealing with challenges
+  - To recognize your decision-making skills, planning abilities, and budgeting techniques
+  - To see if the company would benefit from you.
+* During the interview:
+  - Explain the project briefly and concisely; you wouldn’t want the interviewer to lose interest. It’s better if you keep your answer short and simple, but make sure that you have included in your explanation all the things that can build up your character.
+  - Don’t make it sound like you’re bragging about your achievements or successful projects: Establish your skills and abilities without going overboard or sounding arrogant.
+  - Give the interviewer an indication of how you manage tasks. Explain your general approach to handling challenging projects.
+
 ##### Plans for learning new programming language
 * I am most interested in learning Clojure, Node.js and Go.
 * Reasons that I am interested (but not crazy) in Clojure. 
@@ -152,18 +163,17 @@
 * **key point**: 1. Passion about the technology. Passion about products. Great work-life balance. Great career promotion opportunities. 2. Technical competency. In a word, I could learn a lot of things and make a lot of contribution here at XXX. 
 * Why you believe that you will bring more values to the job and company than it will cost the company to hire you, and give examples. If the company has discussed four critical tasks that need to be tackled, and you have the experience and talent to do them, confidently review the skills you are bring with you which will successfully accomplish your goals. 
 
+##### Why should we hire you
+* Relate past experience, which represents success in solving problems, which may be similar to those of the prospective employer. “As my record indicates, I have made a meaningful contribution to my previous /present employer and I will be
+able to bring the same experience to your company.” OR “My qualifications and experience gives me the necessary skills and abilities to make a meaningful contribution to your company.” 
+
+
 ##### What did you dislike about your last/present job 
 * **key point**: 
   - Limit on negatives: The top management has changed, and their philosophy is not one I agree with. The company is downsizing and future growth no longer looks positive. 
-  - Focus more on positives that motivates you: What I enjoyed most about my present situation is working directly with ....That part of my job provides me with a lot of challenge and gives me the personal satisfaction of knowing my talent is being used to the company's advantage. 
+  - Focus more on positives that motivates you: What I enjoyed most about my present situation is working directly with ....That part of my job provides me with a lot of challenge and gives me the personal satisfaction of knowing my talent is being used to the company's advantage.
+  - “Due to economic cut-backs...” OR “Reduction in the work force due to economic problems…” OR “To obtain a position that offered more opportunity and challenge”. Do not cast any negative shadows over your employer or boss, no bridge burning parties or you might as well get up and leave now. You should have a legitimate reason that takes little conversation like health reasons or family issues.  
 
-##### What have you accomplished in the past year, past 2 years, etc 
-* Be confident and be aspecific wheever possible. If you saved your company money, reduced cycle time, improved yields, now is the time to tell them about it. 
-
-##### Why are you looking for a new opportunity now
-* **Key points**: No judgement ( No negative evaluation about your previous job/manager ). Try not to answer negative problems directly. Use words like: Perhaps. Say more good things about current company.
-* My answer:
-  * I like XXX products here and I like work-life balance here. Being part of a team to build widely known products like XXX and XXX is really rewarding and challenging for me. 
 
 ##### What is your plan in the next five years 
 * **key point**: clear goals, self-improvement, Combine your development with company's development.
@@ -180,7 +190,6 @@
 * Enhanced Education
 * Workplace distance
 
-##### Describe your daily/weekly work 
 
 #### Work-life balance 
 ##### How did you manage your time and prioritize your tasks?
@@ -199,6 +208,14 @@
   * Next, I will prioritize them. If there are too many deadlines, I will meet up with my manager/teammates to discuss which ones are more important.
 
 #### Teamwork 
+
+##### How soon are you ready to make a move
+* I am ready to accept an offer from your company immediately. However, I don’t
+want to leave my current position abruptly without letting my supervisor and
+coworkers know the status of my work. I would like to give my current employer
+2 weeks notice. However, I would be able to start learning your software and
+operating procedures in the evenings during that time.
+
 ##### How do you deal with conflicts 
 * Similar questionns
   * Tell me about a team project when you had to work with someone difficult.
