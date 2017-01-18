@@ -28,17 +28,23 @@
 #### Chart engine
 * Creates all types of charts.
 
-# Technical components
+# My Involvement
 ## RLE on cache layer
+* We attempt to reduce the size of the data cache layer so that BI reports could load them into memory faster. The data source could be thought of as a two dimensional table. And right now the problem is how we store this two dimensional table more efficiently. 
+
 ### Column-based
+* The two dimensional table is stored in a column-oriented manner. There are two reasons for this:
+  - First, row-oriented storage is great for write efficiency because it is really easy to add/modify a record. Column-oriented storage is great for read efficiency because we can read only columns which we are interested in. In addition, column-oriented storage usually has higher compression efficiency because similar values are grouped together. As a result, they usually have less entropy and are easier to compact and encode. 
+  - Second, typically a business intelligence report data source contains hundreds of columns and millions of rows. A common use case for report users is they only use a few columns from hundreds of columns. In addition, when a business intelligence report runs, we want the data source being able to be loaded into the memory as fast as possible. This is exactly the use case of column-oriented storage.
+
 ### Fact/Dictionary table
+* There are usually a lot of repetitive values and the number of unique entries is far less than the total number of entries. So it is efficient to use a dictionary/fact table encoding. 
+
 ### Run length encoding
+* In business intelligence reports, columns appear as sorted keys. As a result, run-length encoding can be applied on these columns.
 
-
-## Difficult part
-
-
-## How to test
+## The most challenging part
+* Our 6team is responsible 
 
 ## Possible improvements
 ### Encoding algorithms
