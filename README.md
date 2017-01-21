@@ -41,6 +41,8 @@
     - [Thank you letter](#thank-you-letter)
     - [Reschedule](#reschedule)
   - [Questions to ask at the end](#questions-to-ask-at-the-end)
+    - [Why ask questios](#why-ask-questios)
+    - [Sample questions](#sample-questions)
 - [Stories about technical experience](#stories-about-technical-experience)
   - [Checklist for phone interviews](#checklist-for-phone-interviews)
   - [Checklist for onsite interviews](#checklist-for-onsite-interviews)
@@ -70,7 +72,7 @@
 * Be specific, not arrogant: Arrogance is a red flag. To make myself sound good without be arrogant, I need to be specific by giving just the facts and letting the interviewer derive an interpretation. 
 * Limit details: Stay light on details and just state the key points. When possible, try to translate it or at least explain the impact.
 > By examing the most common user behavior and applying the Rabin-Karp algorithm, I designed a new algorithm to reduce search from O(n) to O(lgn) in 90% of cases. I can go into more details if you'd like. 
-* Focus on yourself, not the team: Interviews are fundamentally an individual assessment. Unfortunately, when you listen to many candidates, their answers are about "we", "us" and "the team". The interviewer walks away having little idea what the candidate's actual impact was and might conclude that the candidate did little.
+* It is so easy to come up with controversial answers to behavioral questions. Do not need to be really sincere because sinceretiy is too controversial and can be easily played against interviewees. 
 
 #### Methods: give structured answers 
 * Nugget first: Starting your response with a "nugget" that succintly describes what your response will be about. This technique grabs your interviewer's attention and makes it very clear what your story will be about. It also helps you be more focused in your communication, since you've made it very clear to yourself what the gist of your response is.
@@ -365,21 +367,33 @@ operating procedures in the evenings during that time.
 > 
 
 #### Questions to ask at the end
-* Show passion
-* The thing you like most about this company
-* Onboarding process
-* Daily life
-* Why is the position open
-* Who will I report to and what is his/her background
-* What does a typical day or week look like for my position
-* What brought you to the company
-* What growth opportunities will there be for me
-* What are the primary goals for my position and how will I be evaluated
-* Who else will be on my team and who outside of my team will I work with frequently
-* Ask about the next steps in the process and whether you can provide more information
-* Where do you see this company in 3 years or 5 years
-* What growth opportunities are available for a person starting in this position? Could you give me an example?
-* What is the most important thing I can do to help your company during the first 60 to 90 days of employment?
+##### Why ask questios
+* Having well thought out questions to ask during your interview is part of the research process in you understanding if this company and role would be a good fit for you. I can think of a few times in my career when I completed my interview with a company and thought, "This is not going to be a good fit," and completely withdrew myself from the entire process.
+* In preparation for your interview, you should do a lot of research on the industry (if you’re switching industries), the position itself, the company, their competition, their business model, and if you're able to, you should also research the person with whom you are meeting. I’ve interviewed candidates who knew more about the company than even I did. If you’re going to research your interviewers, you’re doing so to be informed on their experience and perspectives, but also to identify potential commonalities. You may have mutual colleagues or have worked for the same company in the past, or have the same alma mater. Commonalities can help establish credibility. Word to the wise: if you’re going this route, keep it to the professional details and not the personal details because nothing screams “crazy stalker” like leading your q&a time with, “So I saw online that you have three kids…”
+
+##### Sample questions
+- Common questions
+  * What does success in this role look like to you? or How will performance be measured?
+  * Why did you join this company, and what keeps you here? / What brought you to the company?
+  * What's your favorite and least favorite thing about working here?
+  * What do you wish you’d known when you first started in your role here?
+  * Biggest challenges for the person who takes on this role?
+  * What are this company's/this team’s top 3 priorities over the next year?
+  * What are some lesser known facts about working at this company?
+  * What are the habits of the top performers on your team?
+  * Or you can (and should) ask some domain specific questions:
+  * I read that you’ve recently implemented xyc tool. What was the thought process behind choosing that product versus building a homegrown product that can be tailored to your needs?
+  * Why have you chosen to have a centralized sales function vs. on the ground sales people in various regions?
+- Edgier questions
+  * What’s been your biggest mistake here and how did you recover it?
+  * I’ve noticed there’s recently been quite a bit of leadership turnover. Can you shed some light on that from an internal perspective?
+  * What changes here could potentially lead you to want to leave the company?
+  * What do you potentially see as my gaps as it relates to this role?
+- Small companies only
+  * Who will I report to and what is his/her background
+  * What does a typical day or week look like for my position
+  * Who else will be on my team and who outside of my team will I work with frequently
+  * What growth opportunities are available for a person starting in this position? Could you give me an example?
 
 ### Stories about technical experience
 * a story for each bullet point on resume
