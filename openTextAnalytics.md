@@ -48,3 +48,200 @@
 
 ## Possible improvements
 ### Encoding algorithms
+
+
+## Integration Test for OpenSource BIRT report viewer
+
+This post is for illustrating a sample maven integration test snippet.
+
+### Components 
+- **PhantomJS**
+	- **as a plugin**: phantomjs-maven-plugin for installing phantomjs to path ${phantomjs.binary}
+	- **as a dependency**: phantomjsdriver used inside integration testing classes
+- **Selenium**
+	- **as a dependency**: selenium-java used inside integration testing classes
+- **FailSafe**
+	- **as a plugin**: Run integration testing with "*IT.java"
+	- Rely on the {phantomjs.binary} variable setup previously
+- **Embedded Jetty**
+    - Run integration test on with war under ${project.build.directory}
+    - HTTP port 9999
+
+### Whole process
+![](/content/images/2016/08/integration_test_flowchart.jpg)
+
+### How to add integration tests
+- Add java tests ending with naming convention "*IT.java"
+
+### Sample pom.xml
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.eclipse.birt</groupId>
+	<artifactId>birt-integration-test</artifactId>
+	<version>4.6.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>2.53.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.github.detro</groupId>
+			<artifactId>phantomjsdriver</artifactId>
+			<version>1.2.0</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>com.github.klieber</groupId>
+				<artifactId>phantomjs-maven-plugin</artifactId>
+				<version>0.7</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>install</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<version>1.9.0</version>
+					<checkSystemPath>true</checkSystemPath>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.5.1</version>
+				<executions>
+					<execution>
+						<phase>test-compile</phase>
+						<goals>
+							<goal>testCompile</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-failsafe-plugin</artifactId>
+				<version>2.19.1</version>
+				<configuration>
+					<systemPropertyVariables>
+						<phantomjs.binary>${phantomjs.binary}</phantomjs.binary>
+					</systemPropertyVariables>
+				</configuration>
+				<executions>
+					<execution>
+						<id>integration-test</id>
+						<phase>integration-test</phase>
+						<goals>
+							<goal>integration-test</goal>
+						</goals>
+						<configuration>
+							<excludes>
+								<exclude>none</exclude>
+							</excludes>
+							<includes>
+								<include>**/*IT.java</include>
+							</includes>
+						</configuration>
+					</execution>
+					<execution>
+						<id>verify</id>
+						<goals>
+							<goal>verify</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.eclipse.jetty</groupId>
+				<artifactId>jetty-maven-plugin</artifactId>
+				<version>9.3.8.v20160314</version>
+				<configuration>
+					<war>${project.basedir}/birt.war</war> 
+					<scanIntervalSeconds>10</scanIntervalSeconds>
+					<stopKey>foo</stopKey>
+					<stopPort>8090</stopPort>
+					<httpConnector>
+						<port>9999</port>
+					</httpConnector>
+				</configuration>
+				<executions>
+					<execution>
+						<id>start-jetty</id>
+						<phase>pre-integration-test</phase>
+						<goals>
+							<goal>deploy-war</goal>
+						</goals>
+						<configuration>
+							<daemon>true</daemon>
+							<reload>manual</reload>
+						</configuration>
+					</execution>
+					<execution>
+						<id>jetty-stop</id>
+						<goals>
+							<goal>stop</goal>
+						</goals>
+						<phase>post-integration-test</phase>
+					</execution>
+				</executions>
+				<dependencies/>
+			</plugin>
+ 		</plugins>
+	</build>
+</project>
+```
+
+### Sample java test file MainIT.java
+```java
+import junit.framework.TestCase;
+import static junit.framework.Assert.assertEquals;
+import static junit.framework.Assert.assertTrue;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.phantomjs.PhantomJSDriver;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+
+public class MainIT extends TestCase {
+    public void testExecute()
+    throws Exception
+    {
+        System.setProperty("phantomjs.binary.path", System.getProperty("phantomjs.binary"));
+        WebDriver driver = new PhantomJSDriver();
+        
+        // And now use this to visit Google
+        driver.get("http://localhost:9999");
+
+        // // Check the title of the page
+        assertEquals("Eclipse BIRT Home", driver.getTitle());
+        driver.findElement(By.linkText("View Example")).click();
+
+        //Close the browser
+        driver.quit();    
+    }
+
+}
+```
+
+### How to run integration test
+```bash
+mvn verify
+```
+
