@@ -36,10 +36,15 @@
     - [Have you ever did more than required](#have-you-ever-did-more-than-required)
     - [How do you compare yourself to your peers](#how-do-you-compare-yourself-to-your-peers)
     - [Belbin's team roles](#belbins-team-roles)
-  - [Others](#others)
-    - [What are your Salary requirements](#what-are-your-salary-requirements)
+  - [What are your Salary requirements](#what-are-your-salary-requirements)
+  - [Templates](#templates)
     - [Thank you letter](#thank-you-letter)
     - [Reschedule](#reschedule)
+  - [Company cultures](#company-cultures)
+    - [Facebook](#facebook)
+    - [Optimizely](#optimizely)
+    - [Google](#google)
+    - [Uber](#uber)
   - [Questions to ask at the end](#questions-to-ask-at-the-end)
     - [Why ask questios](#why-ask-questios)
     - [Sample questions](#sample-questions)
@@ -321,9 +326,7 @@ operating procedures in the evenings during that time.
     + Specialists are people who have specialized knowledge that is needed to get the job done. They pride themselves on their skills and abilities, and they work to maintain their professional status. Their job within the team is to be an expert in the area, and they commit themselves fully to their field of expertise.
     + This may limit their contribution, and lead to a preoccupation with technicalities at the expense of the bigger picture.
  
-
-#### Others 
-##### What are your Salary requirements
+#### What are your Salary requirements
 * **What are your salary expectations for the job** 
  * I’m more interested in finding a position that’s a good fit for my skills and interests. I’m confident that you’re offering a salary that’s competitive in the current market.
 * **When interviewers press further for a specific number** 
@@ -331,6 +334,7 @@ operating procedures in the evenings during that time.
 * **What are you making now** 
  * Since this position is not exactly the same as my current job, let’s discuss what my responsibilities at this company will be and work together to determine a fair salary for this position.
 
+#### Templates
 ##### Thank you letter 
 * Template one
 
@@ -365,6 +369,34 @@ operating procedures in the evenings during that time.
 > 
 > I will be looking forward to hearing back from you!
 > 
+
+#### Company cultures
+##### Facebook
+
+##### Optimizely
+1. On a scale of 1-10, how lucky are you?
+  - Great companies are built by people who can embrace their humility. That’s why I ask this question — to seek out candidates who understand that our good fortune is a combination of the circumstances into which we are born, in combination with various decisions we make.
+  - Warren Buffett likes to say he won the ovarian lottery. If he had been born into another era he might have been some animal’s lunch.
+  - We need candidates who are self-aware enough to understand that hard work isn’t enough to guarantee success — we need individuals who are grateful for where they’ve landed in life. Our success is a function of being at the right place at the right time.
+
+2. What’s an opinion you hold that most people disagree with?
+  - High-growth startups need more than average. We need risk-takers who are self-assured and confident in their abilities.
+  - When I ask this question, I’m looking for people who are creative and innovative and can bring debate to the norm. If everyone agrees with everyone else, you end up with an average outcome. 
+  - As humans, we naturally strive for harmony. But I look for people who can challenge themselves enough to step out of this comfort zone — which brings me back to sentence #1 of this blog post.
+  - It’s always easy to run with what your boss tells you — even if he or she is pursuing a completely dead-end idea. That’s why this question is so important to me when I’m recruiting senior leadership. In that same vein, I also like to ask, “Tell me about a time that you disagreed with your CEO. How did you reconcile the issue?”
+  - I look for people who can tactfully disagree — without being disagreeable. We need to bring healthy debate to the table.
+
+3. If you had 10 years to live, what would you do?
+  - I’ll keep this part brief, as I don’t want to “give away” the answer to this question. But it’s one that I’ve A/B tested over and over.
+  - The answer to this third and final question is important to me because I want to make sure we hiring people who are passionate about Optimizely and our vision for the future. I want to avoid people who are on the “deferred life plan”: work at Optimizely and than do what I really want to do down the line.
+
+##### Google
+
+##### Uber
+* Values
+  - Top talent, high standards
+  - Take big bold bets
+  - Shape the world you want
 
 #### Questions to ask at the end
 ##### Why ask questios
