@@ -5,6 +5,7 @@
 - [Tell me about this project](#tell-me-about-this-project)
 	- [Key points](#key-points)
 	- [Describe](#describe)
+	- [Most challenging part](#most-challenging-part)
 - [Why did you use Apache Cassandra](#why-did-you-use-apache-cassandra)
 	- [Data model](#data-model)
 	- [Features](#features)
@@ -27,6 +28,9 @@
 ### Describe
 * For this project I developed big data platform to process stock data in real-time. Stock data as we all know is time series data so I grabbed the data from Yahoo Finance. Then every record is about 200 bytes so for every record has last trading time for a stock and the last trading price, the last trading currency and the stock symbol, for example Apple. Because it is time-series data I need a way to quickly consume the data and put it into my system really fast. That's why I choose Kafka which is a high-throughput messaging system. I was able to achieve 200K message per second. If you count that message by multiplying the size of the data, it is about two terabytes data per day. So the normal storage system wouldn't fit and that's why I choose Apache Cassandra, which is a highly scalable peer-to-peer data storage system. The reason I choose it is also because Cassandra is peer-to-peer and there is no single-point of failure. Every node can go and I can just bring up a new one without hassle. Thirdly, I need a way to process data in realtime and that's why I choose Apache Spark. I use Spark streaming API and write a simple algorithm to process data in realtime. All those help me to process and store the data. I designed a simple web app using Node.js and Socket.io to render the process results in real-time. I use socket.IO to keep a web socket connection between client and server so that I could get the server to push data to client in real-time. For all the components I containerize them using Docker and Docker compose. 
 
+### Most challenging part
+* Shifing my mind from how to model data in SQL to how to model data in NoSQL because NoSQL database usually has less query flexibility so it is important to think about how you are going to query the data in the first place. Here, more specifically, it is the data modeling in Cassandra. 
+
 ## Why did you use Apache Cassandra
 * Cassandra is a data store that was originally built at Facebook and could be seen as a merger of design patterns borrowed from BigTable and Dynamo. Cassandra is one of the clear leaders when it comes to ease of management, scalability, and self-healing, but it is important to remember that everything has its price. The main challenges that come with operating Cassandra are that it is heavily specialized, and it has a very particular data model, and it is an eventually consistent data store. 
 * You can work around eventual conisstency by using quorum reads and writes, but the data model and tradeoffs made by the designers can often come as a surprise. Anything that you might have learned about relational databases is pretty much invalid when you work with NoSQL data stores like Cassandra. It is easy to get started with most NoSQL data stores, but to be able to operate them at scale takes much more experience and understanding of their internal structure than you might expect. 
@@ -34,6 +38,7 @@
 	- A great example of how that can come as a surprise is a common Cassandra anti-pattern of a queue. You could model a simple first-in-first-out queue in Cassandra by using its dynamic columns. You add new entries to the queue by appending new columns, and you remove jobs from the queue by deleting columns. With a small scale and low volume of writes, this solution seems to work perfectly, but as you keep adding and deleting columns, your performance will begin to degrade dramatically. Although both inserts and deletes are perfectly fine and Cassandra purges old deleted data using its background compaction mechanism, it does not particularly like workloads with a such high rate of deletes (in this case, 50 percent of the operations are deletes).
 
 ### Data model 
+* Basically, in Each data entry has three parts: rowKey, columnKey and value.
 * Level1: row_key
 	- Namely hashkey
 	- Could not perform range query
