@@ -6,12 +6,18 @@
 - [Interview process](#interview-process)
 - [Pre-interview research](#pre-interview-research)
 - [General behavior questions](#general-behavior-questions)
-  - [Principles](#principles)
+  - [Mistakes made in the past](#mistakes-made-in-the-past)
+    - [Complaints](#complaints)
+    - [Matchness](#matchness)
+    - [Arrogance](#arrogance)
+    - [Verbosity](#verbosity)
+    - [Personal](#personal)
   - [Methods: give structured answers](#methods-give-structured-answers)
   - [Interview preparation grid](#interview-preparation-grid)
   - [Know yourself](#know-yourself)
     - [Tell me about yourself](#tell-me-about-yourself)
     - [What are your strengths](#what-are-your-strengths)
+    - [What is your ideal working environment](#what-is-your-ideal-working-environment)
     - [What is your greatest weakness](#what-is-your-greatest-weakness)
     - [What's your proudest professional achievement](#whats-your-proudest-professional-achievement)
     - [What's the most challenging project](#whats-the-most-challenging-project)
@@ -72,12 +78,38 @@
 * Interviewer profile: interviewer's linked profile, blog, twitter
 
 ### General behavior questions 
-#### Principles 
-* Do not take it personal. Everything should be related to the job.
+#### Mistakes made in the past
+##### Complaints
+* Each company / boss / colleague has their pros and cons so each decision is just a choice. As an optimistic and friendly person to work with, you need to focus on the positive side of things instead of negative side of things.
+
+##### Matchness
+* Know what you want and what a company can give to you / what the company want and what you can give to a company. 
+* For big companies
+  - Pros
+    + **The benefits packages are better:** Larger companies, in general, are better about providing benefits like health insurance or retirement plans. The smaller a corporation's revenue is, the less likely it can afford to pay for benefits. 
+    + **You Can Switch Job Without Leaving:** Large companies need a lot of people working a wide variety of jobs to operate. While your specific role may be specialized, it's possible to change positions and explore a new area without leaving the company
+  - Cons
+    + **Changes Happen Slowly:** Shaking things up at a big company can take a lot of time. Even if your company is open to new ideas (which isn't always a given), getting your department to move to a new model or create a product can take a lot of time.
+    + **You Won't Know Some Coworkers:** No matter how social or friendly you are, if you work in a company with hundreds or even thousands of employees, it will be impossible to know everyone. Inevitably, some aspect of your job will be affected by someone you've never met. It may be the CEO, the head of payroll, or the legal department, but someone will make a decision that determines how you work and it may be difficult or even impossible to speak to that person directly.
+    + **Your Fulfillment Can Be Determined by Your Surroundings**: Your quality of life will vary greatly depending on the team you get assigned to. Being part of a good team will make your life wonderful, a bad team will make your life miserable. Whom you work with has a major influence on your career (don't expect promotions in a dying product).
+* For small companies
+  - Pros
+    + **Your Success is Visible:** Especially if you're starting out in a new career, working for a small company is a great way to establish your abilities and gain references and reputation that can follow you for years.
+    + **Your Company is More Agile:** Being able to work closely with all of your coworkers doesn't just mean they can see you. You also have access to a lot more of the company's moving parts. Being able to speak directly to your upper management and voice concerns or pitch ideas can result in much faster movement.
+    + **Your Responsibilities May be More Varied:** In a smaller company, you may be required to exercise a different skill set without leaving your desk. Especially in a startup environment, you may be called on to fulfill more roles outside a narrowly-defined job description.
+  - Cons
+    + **Your Failure is Visible:** That can become a double-edged sword, though, when you screw up. Obviously, a good employee would want to minimize failure regardless of who can see, but it never feels good when the majority of your coworkers all know when you've made a mistake.
+    + **The Benefits Package Are Smaller:** Smaller companies typically don't have as extensive of a benefits package as larger companies do.
+
+##### Arrogance
 * Be specific, not arrogant: Arrogance is a red flag. To make myself sound good without be arrogant, I need to be specific by giving just the facts and letting the interviewer derive an interpretation. 
+
+##### Verbosity
 * Limit details: Stay light on details and just state the key points. When possible, try to translate it or at least explain the impact.
 > By examing the most common user behavior and applying the Rabin-Karp algorithm, I designed a new algorithm to reduce search from O(n) to O(lgn) in 90% of cases. I can go into more details if you'd like. 
-* It is so easy to come up with controversial answers to behavioral questions. Do not need to be really sincere because sinceretiy is too controversial and can be easily played against interviewees. 
+
+##### Personal
+* Do not take it personal. Everything should be related to the job.
 
 #### Methods: give structured answers 
 * Nugget first: Starting your response with a "nugget" that succintly describes what your response will be about. This technique grabs your interviewer's attention and makes it very clear what your story will be about. It also helps you be more focused in your communication, since you've made it very clear to yourself what the gist of your response is.
@@ -110,19 +142,24 @@
   * Step 5. Future. Why you are interested in role, position, company
 
 ##### What are your strengths
-* **Key points:** How your strengths will help you be an independent worker and a team player.
-* **My Answer:**
-  + From the personality perspective, there is a book called "Strengths Finder 2.0" and it offers a set of online assessment. 
+* **Key points:** Unique strength combination. Domain knowledge + Soft skills + Subject Master. How your strengths will help you be an independent worker and a team player. 
+* **Answer:**
+  + **Soft skills:** I really like make presentations and share what I learn with others. 
+  + **Domain knowledge:** I really want to become an expert in a specific area.
+  + **Subject master:**
+  From the personality perspective, there is a book called "Strengths Finder 2.0" and it offers a set of online assessment. 
     - One of my dominant strengths is focus. I thrive in environments where goal-setting discussions are commonplace and clearly defined objectives are agreed upon. By nature I am industrious and persistent and I am always able to stay on track with little supervision. 
     - The other of my dominant strengths is learning and sharing. I love learn new things, make presentations and share what I learned with others. In the future, I could become the software engineer who is really great at public speaking. 
   + From the professional perspective, in the future, I plan to find a specific area where I can become an expert such that I am always the problem solver and stopper in that area. In addition, after settling down on the position, I hope that I could learn more domain knowledge and have more understanding on the product side, rather than just being a software engineer. 
+
+##### What is your ideal working environment
+* **Key points:** 
 
 ##### What is your greatest weakness
 * Goal: Trying to see how well you respond to a question that's intentionally meant to throw you off your game. They want to see how you react to a question meant to throw you off your carefully memorized path as well as gauge just how good you are at being self-critical and aware. It is an onion question.
 * **key points:**  A weakness I am solving, not too critical. Do you learn from those experiences? Do you have a hard time taking criticism without getting defensive?
   + I hate confrontation and in the past. Sometimes I found myself compromise what I wanted or needed in order to keep the peace. This was a real problem, especially in team situations or when I was supposed to be leading a group because there are times when you need to tell people things they might not necessarily want to hear. 
   + Since then I've realized this is a weakness of mine and I've worked very hard to overcome it. Now instead of avoiding these situations, I take it as an opportunity to practice being more assertive. I take the time to listen to each side of the situation and make sure that if I have any comments or criticisms, I spoke out for myself. I want to gaurantee that my solutions are constructive ideas instead of peaceful patches. 
-
 
 ##### What's your proudest professional achievement 
 * **What the interviewer is really asking**:
@@ -133,7 +170,7 @@
   * Why this achievement makes you proud
   * What are the skills and qualifications that contribute to this achievement
   * Talk about any team members
-* **My answer**:
+* **Answer**:
   * During my internship in Finra, I built a permissions compliance system within three months. At the end of my internship, my system already run in production system. This was also beyond the expectation of my manager. 
   * I used Python Boto libraries to coordinate Splunk and many AWS services including IAM, CloudTrail and S3. I developed my program in Linux servers and it is also the first time I work with version control systems. 
   * In order to deploy the system in production environment, I needed to work closely with other department and many team members. To guarantee that I will finish building the system within three months, I have daily standup meeting with my manager to guarantee that I am always on the right track.
@@ -416,6 +453,7 @@ operating procedures in the evenings during that time.
   * Or you can (and should) ask some domain specific questions:
   * I read that you’ve recently implemented xyc tool. What was the thought process behind choosing that product versus building a homegrown product that can be tailored to your needs?
   * Why have you chosen to have a centralized sales function vs. on the ground sales people in various regions?
+  * What's the typical career path for someone in this role?
 - Edgier questions
   * What’s been your biggest mistake here and how did you recover it?
   * I’ve noticed there’s recently been quite a bit of leadership turnover. Can you shed some light on that from an internal perspective?
