@@ -5,59 +5,59 @@
 
 - [Interview process](#interview-process)
 - [Pre-interview research](#pre-interview-research)
-- [General behavior questions](#general-behavior-questions)
-  - [Mistakes made in the past](#mistakes-made-in-the-past)
-    - [Complaints](#complaints)
-    - [Matchness](#matchness)
-    - [Arrogance](#arrogance)
-    - [Verbosity](#verbosity)
-    - [Personal](#personal)
-  - [Methods: give structured answers](#methods-give-structured-answers)
+- [Mistakes made in the past](#mistakes-made-in-the-past)
+  - [Complaints](#complaints)
+  - [Matchness](#matchness)
+  - [Arrogance](#arrogance)
+  - [Verbosity](#verbosity)
+  - [Personal](#personal)
+- [Give structured answers](#give-structured-answers)
+  - [Overview](#overview)
+  - [Detailed description](#detailed-description)
+    - [S.T.A.R.](#star)
+    - [S.H.A.R.E.](#share)
+- [Things to prepare](#things-to-prepare)
+  - [A story for each bullet point on resume](#a-story-for-each-bullet-point-on-resume)
   - [Interview preparation grid](#interview-preparation-grid)
-  - [Know yourself](#know-yourself)
-    - [Tell me about yourself](#tell-me-about-yourself)
-    - [What are your strengths](#what-are-your-strengths)
-    - [What is your ideal working environment](#what-is-your-ideal-working-environment)
-    - [What is your greatest weakness](#what-is-your-greatest-weakness)
-    - [What's your proudest professional achievement](#whats-your-proudest-professional-achievement)
-    - [What's the most challenging project](#whats-the-most-challenging-project)
-    - [Plans for learning new programming language](#plans-for-learning-new-programming-language)
-  - [Career development](#career-development)
-    - [What are the important lessons learned when you transit from a student to a professional developer](#what-are-the-important-lessons-learned-when-you-transit-from-a-student-to-a-professional-developer)
-    - [Why do you want to work for us](#why-do-you-want-to-work-for-us)
-    - [Why should we hire you](#why-should-we-hire-you)
-    - [What did you dislike about your last/present job](#what-did-you-dislike-about-your-lastpresent-job)
-    - [What is your plan in the next five years](#what-is-your-plan-in-the-next-five-years)
-    - [Reason for leave employment](#reason-for-leave-employment)
-  - [Work-life balance](#work-life-balance)
-    - [How did you manage your time and prioritize your tasks?](#how-did-you-manage-your-time-and-prioritize-your-tasks)
-  - [Teamwork](#teamwork)
-    - [How soon are you ready to make a move](#how-soon-are-you-ready-to-make-a-move)
-    - [How do you deal with conflicts](#how-do-you-deal-with-conflicts)
-    - [Tell me about a time you failed? How did you deal with the situation](#tell-me-about-a-time-you-failed-how-did-you-deal-with-the-situation)
-    - [Have your suggestion being adopted](#have-your-suggestion-being-adopted)
-    - [Describe your idea boss](#describe-your-idea-boss)
-    - [What will you do if you are 100% that your boss is wrong](#what-will-you-do-if-you-are-100%-that-your-boss-is-wrong)
-    - [How do you finish an impossible task](#how-do-you-finish-an-impossible-task)
-    - [Have you ever did more than required](#have-you-ever-did-more-than-required)
-    - [How do you compare yourself to your peers](#how-do-you-compare-yourself-to-your-peers)
-    - [Belbin's team roles](#belbins-team-roles)
-  - [What are your Salary requirements](#what-are-your-salary-requirements)
-  - [Templates](#templates)
-    - [Thank you letter](#thank-you-letter)
-    - [Reschedule](#reschedule)
-  - [Company cultures](#company-cultures)
-    - [Facebook](#facebook)
-    - [Optimizely](#optimizely)
-    - [Google](#google)
-    - [Uber](#uber)
-  - [Questions to ask at the end](#questions-to-ask-at-the-end)
-    - [Why ask questios](#why-ask-questios)
-    - [Sample questions](#sample-questions)
-- [Stories about technical experience](#stories-about-technical-experience)
-  - [Checklist for phone interviews](#checklist-for-phone-interviews)
-  - [Checklist for onsite interviews](#checklist-for-onsite-interviews)
-  - [References](#references)
+  - [Think about what it says](#think-about-what-it-says)
+- [Questions Know yourself](#questions-know-yourself)
+  - [Tell me about yourself](#tell-me-about-yourself)
+  - [What are your strengths](#what-are-your-strengths)
+  - [What is your ideal working environment](#what-is-your-ideal-working-environment)
+  - [What is your greatest weakness](#what-is-your-greatest-weakness)
+  - [What's your proudest professional achievement](#whats-your-proudest-professional-achievement)
+  - [What's the most challenging project](#whats-the-most-challenging-project)
+  - [Plans for learning new programming language](#plans-for-learning-new-programming-language)
+- [Questions: Career development](#questions-career-development)
+  - [What are the important lessons learned when you transit from a student to a professional developer](#what-are-the-important-lessons-learned-when-you-transit-from-a-student-to-a-professional-developer)
+  - [Why do you want to work for us](#why-do-you-want-to-work-for-us)
+  - [Why should we hire you](#why-should-we-hire-you)
+  - [What did you dislike about your last/present job](#what-did-you-dislike-about-your-lastpresent-job)
+  - [What is your plan in the next five years](#what-is-your-plan-in-the-next-five-years)
+  - [Reason for leave employment](#reason-for-leave-employment)
+- [Questions: Work-life balance](#questions-work-life-balance)
+  - [How did you manage your time and prioritize your tasks?](#how-did-you-manage-your-time-and-prioritize-your-tasks)
+- [Questons: Teamwork](#questons-teamwork)
+  - [How do you deal with conflicts](#how-do-you-deal-with-conflicts)
+  - [Tell me about a time you failed? How did you deal with the situation](#tell-me-about-a-time-you-failed-how-did-you-deal-with-the-situation)
+  - [Have your suggestion being adopted](#have-your-suggestion-being-adopted)
+  - [Describe your idea boss](#describe-your-idea-boss)
+  - [What will you do if you are 100% that your boss is wrong](#what-will-you-do-if-you-are-100%-that-your-boss-is-wrong)
+  - [How do you finish an impossible task](#how-do-you-finish-an-impossible-task)
+  - [Have you ever did more than required](#have-you-ever-did-more-than-required)
+  - [How do you compare yourself to your peers](#how-do-you-compare-yourself-to-your-peers)
+  - [Belbin's team roles](#belbins-team-roles)
+- [Questions: What are your Salary requirements](#questions-what-are-your-salary-requirements)
+- [Questions to ask at the end](#questions-to-ask-at-the-end)
+  - [Why ask questios](#why-ask-questios)
+  - [Sample questions](#sample-questions)
+- [Templates](#templates)
+  - [Thank you letter](#thank-you-letter)
+  - [Reschedule](#reschedule)
+- [Company cultures](#company-cultures)
+  - [Optimizely](#optimizely)
+- [Offer negotiation](#offer-negotiation)
+- [References](#references)
 
 <!-- /MarkdownTOC -->
 
@@ -77,12 +77,11 @@
 * Recent news: medium-to-large companies' strategic moves, how will my role support those goals
 * Interviewer profile: interviewer's linked profile, blog, twitter
 
-### General behavior questions 
-#### Mistakes made in the past
-##### Complaints
+### Mistakes made in the past
+#### Complaints
 * Each company / boss / colleague has their pros and cons so each decision is just a choice. As an optimistic and friendly person to work with, you need to focus on the positive side of things instead of negative side of things.
 
-##### Matchness
+#### Matchness
 * Know what you want and what a company can give to you / what the company want and what you can give to a company. 
 * For big companies
   - Pros
@@ -101,24 +100,47 @@
     + **Your Failure is Visible:** That can become a double-edged sword, though, when you screw up. Obviously, a good employee would want to minimize failure regardless of who can see, but it never feels good when the majority of your coworkers all know when you've made a mistake.
     + **The Benefits Package Are Smaller:** Smaller companies typically don't have as extensive of a benefits package as larger companies do.
 
-##### Arrogance
+#### Arrogance
 * Be specific, not arrogant: Arrogance is a red flag. To make myself sound good without be arrogant, I need to be specific by giving just the facts and letting the interviewer derive an interpretation. 
 
-##### Verbosity
+#### Verbosity
 * Limit details: Stay light on details and just state the key points. When possible, try to translate it or at least explain the impact.
 > By examing the most common user behavior and applying the Rabin-Karp algorithm, I designed a new algorithm to reduce search from O(n) to O(lgn) in 90% of cases. I can go into more details if you'd like. 
 
-##### Personal
+#### Personal
 * Do not take it personal. Everything should be related to the job.
 
-#### Methods: give structured answers 
-* Nugget first: Starting your response with a "nugget" that succintly describes what your response will be about. This technique grabs your interviewer's attention and makes it very clear what your story will be about. It also helps you be more focused in your communication, since you've made it very clear to yourself what the gist of your response is.
+### Give structured answers
+#### Overview
+* Starting your response with a "nugget" that succintly describes what your response will be about. This technique grabs your interviewer's attention and makes it very clear what your story will be about. It also helps you be more focused in your communication, since you've made it very clear to yourself what the gist of your response is.
 > Interviewer: "Tell me about a time you had to persuade a group of people to make a big change"
 > Candidate: "Sure, let me tell you about the time when I convinced my school to let undergraduates teach their own courses. Initially, my school has a rule"
-* S.A.R. (Situation, Action, Result): You start off outlining the situation, then explaining the actions you took and lastly describing the result.
-  * In most cases, the action is the most important part of the story. Unfortunately, far too many people talk on and on about the situation, but then just breeze through the action. Instead, dive in the action. Where possible, break down the action into multiple parts. For example, "I did three things. First, I .." This will encourage sufficient depth. 
 
-#### Interview preparation grid 
+#### Detailed description
+##### S.T.A.R.
+* Definition
+  - Situation/Task: Describe the situation you were in or the task that you needed to accomplish. You must describe a specific event or situation, not a generalized description of what you have done in the past. 
+  - Action: Describe the action you took and be sure to keep the focus on you. Even if you are discussing a group project or effort, describe what you did.
+  - Result: What 
+* You start off outlining the situation, then explaining the actions you took and lastly describing the result.
+* In most cases, the action is the most important part of the story. Unfortunately, far too many people talk on and on about the situation, but then just breeze through the action. Instead, dive in the action. Where possible, break down the action into multiple parts. For example, "I did three things. First, I .." This will encourage sufficient depth.   
+
+##### S.H.A.R.E.
+* Definition
+  - Situation: Describe a specific task. 
+  - Hiderance: Identiy any hindrances or challenges faced.
+  - Action: Explain the actions you took in response. 
+  - Result: Discuss the results or outcomes from your action. 
+  - Evaluation: Evalutates whta you learned from the experience.
+
+### Things to prepare 
+#### A story for each bullet point on resume
+* Start with an overview: overview of the problem, solution, and your role - let interviewer go deeper
+* Communicate clearly: test of communication skills and logical thinking
+* Role in the project: identify what you are responsible for, and be prepared to give deeper details on that part. Demonstrate you worked well with your team
+* Technical knowledge: did you make key design decisions, or did you just follow instructions? Make sure you come across as truly knowledgeable
+
+#### Interview preparation grid
 
 | Common questions | Project1 | Project2 | Project3 | 
 | --------------------- |:-------------:|:-------------:| -----:|
@@ -129,19 +151,28 @@
 | Conflicts | | | |
 | What you'd do differently | | | |
 
-#### Know yourself 
-##### Tell me about yourself
+#### Think about what it says
+* **Initiative/Leadership:** The candidate tried to resolve the situation by addressing it head-on. 
+* **Empathy:** The candidate tried to understand what was happening to the person. The candidate also showed empathy in knowing what would resolve the teammate's insecurity. 
+* **Compassion:** Although the teammate was harming the team, the candidate wasn't angry at the teammate. His empathy led him to compassion. 
+* **Humility:** The candidate was able to admit to his own flaws (not only to the teammate, but also to the interviewer).
+* **Teamwork/Helpfulness:** The candidate worked with the teammate to break down the project into manageable chunks. 
+
+### Questions Know yourself 
+#### Tell me about yourself
 * **What the interviewer is really asking**: 
   * What is your career plan
   * Why are you interested in their company
   * First, it gives interviewers a general idea of your background – whether you are an experienced engineer, a new grad or a series entrepreneur and so on. More importantly, it provides information about why you are relevant to the job.
-* **Key points**: 
-  * Step 1. What you are interested in
-  * Step 2. Your current role
-  * Step 3. Past and onwards
-  * Step 5. Future. Why you are interested in role, position, company
+* **Structure**: Chronological order
+  1. Current role (Headline only)
+  2. College: What you are interested in
+  3. Post college and onwards
+  4. Current role (Details)
+  5. Out side of work
+  6. Future. Why you are interested in role, position, company
 
-##### What are your strengths
+#### What are your strengths
 * **Key points:** Unique strength combination. Domain knowledge + Soft skills + Subject Master. How your strengths will help you be an independent worker and a team player. 
 * **Answer:**
   + **Soft skills:** I really like make presentations and share what I learn with others. 
@@ -152,16 +183,16 @@
     - The other of my dominant strengths is learning and sharing. I love learn new things, make presentations and share what I learned with others. In the future, I could become the software engineer who is really great at public speaking. 
   + From the professional perspective, in the future, I plan to find a specific area where I can become an expert such that I am always the problem solver and stopper in that area. In addition, after settling down on the position, I hope that I could learn more domain knowledge and have more understanding on the product side, rather than just being a software engineer. 
 
-##### What is your ideal working environment
+#### What is your ideal working environment
 * **Key points:** 
 
-##### What is your greatest weakness
+#### What is your greatest weakness
 * Goal: Trying to see how well you respond to a question that's intentionally meant to throw you off your game. They want to see how you react to a question meant to throw you off your carefully memorized path as well as gauge just how good you are at being self-critical and aware. It is an onion question.
 * **key points:**  A weakness I am solving, not too critical. Do you learn from those experiences? Do you have a hard time taking criticism without getting defensive?
   + I hate confrontation and in the past. Sometimes I found myself compromise what I wanted or needed in order to keep the peace. This was a real problem, especially in team situations or when I was supposed to be leading a group because there are times when you need to tell people things they might not necessarily want to hear. 
   + Since then I've realized this is a weakness of mine and I've worked very hard to overcome it. Now instead of avoiding these situations, I take it as an opportunity to practice being more assertive. I take the time to listen to each side of the situation and make sure that if I have any comments or criticisms, I spoke out for myself. I want to gaurantee that my solutions are constructive ideas instead of peaceful patches. 
 
-##### What's your proudest professional achievement 
+#### What's your proudest professional achievement 
 * **What the interviewer is really asking**:
   * What really motivates you
   * Whether you are a team player
@@ -175,7 +206,7 @@
   * I used Python Boto libraries to coordinate Splunk and many AWS services including IAM, CloudTrail and S3. I developed my program in Linux servers and it is also the first time I work with version control systems. 
   * In order to deploy the system in production environment, I needed to work closely with other department and many team members. To guarantee that I will finish building the system within three months, I have daily standup meeting with my manager to guarantee that I am always on the right track.
 
-##### What's the most challenging project
+#### What's the most challenging project
 * **Key points**:
   - To identify your skills and see how well you manage a project/situation
   - To see what kind of approach you use in dealing with challenges
@@ -186,7 +217,7 @@
   - Don’t make it sound like you’re bragging about your achievements or successful projects: Establish your skills and abilities without going overboard or sounding arrogant.
   - Give the interviewer an indication of how you manage tasks. Explain your general approach to handling challenging projects.
 
-##### Plans for learning new programming language
+#### Plans for learning new programming language
 * I am most interested in learning Clojure, Node.js and Go.
 * Reasons that I am interested (but not crazy) in Clojure. 
   * Clojure is a JVM reboot of one of the oldest languages Lisp. It also has great modern concurrency features. Clojure provides a hybrid of functional programming and mutable state, which makes it suitable for a large pool of problems. Learning Clojure is just like learning one of the oldest and newest language at the same time, ; )
@@ -198,33 +229,31 @@
   * Go is invented as a C++ replacement for doing system-level programming. It has been used in more and more projects (Docker) and companies (Uber). 
   * However, Go does not have as broad applicable scenarios as Node.js. 
 
-#### Career development 
-##### What are the important lessons learned when you transit from a student to a professional developer < id="transition-student-developer"></a>
+### Questions: Career development 
+#### What are the important lessons learned when you transit from a student to a professional developer < id="transition-student-developer"></a>
 * Importance to improve raw productivity
 * Importance to communicate well
 
-##### Why do you want to work for us 
+#### Why do you want to work for us 
 * **key point**: 1. Passion about the technology. Passion about products. Great work-life balance. Great career promotion opportunities. 2. Technical competency. In a word, I could learn a lot of things and make a lot of contribution here at XXX. 
 * Why you believe that you will bring more values to the job and company than it will cost the company to hire you, and give examples. If the company has discussed four critical tasks that need to be tackled, and you have the experience and talent to do them, confidently review the skills you are bring with you which will successfully accomplish your goals. 
 
-##### Why should we hire you
+#### Why should we hire you
 * Relate past experience, which represents success in solving problems, which may be similar to those of the prospective employer. “As my record indicates, I have made a meaningful contribution to my previous /present employer and I will be
 able to bring the same experience to your company.” OR “My qualifications and experience gives me the necessary skills and abilities to make a meaningful contribution to your company.” 
 
-
-##### What did you dislike about your last/present job 
+#### What did you dislike about your last/present job 
 * **key point**: 
   - Limit on negatives: The top management has changed, and their philosophy is not one I agree with. The company is downsizing and future growth no longer looks positive. 
   - Focus more on positives that motivates you: What I enjoyed most about my present situation is working directly with ....That part of my job provides me with a lot of challenge and gives me the personal satisfaction of knowing my talent is being used to the company's advantage.
   - “Due to economic cut-backs...” OR “Reduction in the work force due to economic problems…” OR “To obtain a position that offered more opportunity and challenge”. Do not cast any negative shadows over your employer or boss, no bridge burning parties or you might as well get up and leave now. You should have a legitimate reason that takes little conversation like health reasons or family issues.  
 
-
-##### What is your plan in the next five years 
+#### What is your plan in the next five years 
 * **key point**: clear goals, self-improvement, Combine your development with company's development.
   * Team perspective: Currently within my team I am the implementor, basically carrying out the directives of someone else. In five years, I hope I could be the major contributor and initiator of the team who comes up with ideas and take most responsibilities.
   * Personal perspective: Learn more about XXX technology. 
 
-##### Reason for leave employment
+#### Reason for leave employment
 * Career growth 
   - You can easily say that you are looking for a change in role and wanted more growth, or even that your position was getting stagnant. This might be an acceptable reason for quitting your job, but this by no means gives you leeway to criticize your job.
 * Looking for challenges 
@@ -234,9 +263,8 @@ able to bring the same experience to your company.” OR “My qualifications an
 * Enhanced Education
 * Workplace distance
 
-
-#### Work-life balance 
-##### How did you manage your time and prioritize your tasks?
+### Questions: Work-life balance 
+#### How did you manage your time and prioritize your tasks?
 * **What the interviewer is really asking**:
   * How do you manage multiple projects
   * How easy it would be to manage as an employee
@@ -246,21 +274,14 @@ able to bring the same experience to your company.” OR “My qualifications an
   * How you specifically manage your time
   * Demonstrate that you are easy to manage
   * Work-life balance is important
-* **My answer**:
+* **Sample answer**:
   * First, I usually write down a list of things I need to do under each category of project. 
   * Then I estimate how long each of them will take. For really big tasks, I will break it into a list of small tasks.
   * Next, I will prioritize them. If there are too many deadlines, I will meet up with my manager/teammates to discuss which ones are more important.
 
-#### Teamwork 
+### Questons: Teamwork 
 
-##### How soon are you ready to make a move
-* I am ready to accept an offer from your company immediately. However, I don’t
-want to leave my current position abruptly without letting my supervisor and
-coworkers know the status of my work. I would like to give my current employer
-2 weeks notice. However, I would be able to start learning your software and
-operating procedures in the evenings during that time.
-
-##### How do you deal with conflicts 
+#### How do you deal with conflicts 
 * Similar questionns
   * Tell me about a team project when you had to work with someone difficult.
   * Tell me about a time you had a conflict at work.
@@ -299,7 +320,7 @@ operating procedures in the evenings during that time.
 * Follow-up: What if you cannot persuade your colleagues although you try a lot?
   * If this thing is on my priority list, I will insist on my idea. Put my idea into practice quickly and verify it is right or not. If after fast prototyping and I found my idea is proved to be wrong, I will correct my errors. 
 
-##### Tell me about a time you failed? How did you deal with the situation
+#### Tell me about a time you failed? How did you deal with the situation
 * **What the interviewer is really asking**: 
   * Whether you could actually identify times that you could do better
   * Whether you learn from those past mistakes to become a better employee.
@@ -308,30 +329,26 @@ operating procedures in the evenings during that time.
   * Step 2. Take responsibility for any part you played in that situation.
   * Step 3. Elaborate on all efforts you spend to overcome the problem. 
   * Step 4. Prepare for the lesson you have learned and plan to prevent future failure. 
-* **My answer**:
-  * In my undergraduate study I once led a five person team and participated in a robotics competition. We decided to build something really cool - a self-balancing unicycle robot. 
-  * All of us do not have prior experience in robotics. The duration of the competition was three months. We needed to build everything from scratch including hardware, electronics and software. Building a self-unicycle was far more challenging than we could ever expect. It was a too complex system for us.
-  * But we learnt a great lesson from that. Never set a too fancy goal for myself, start from something simple and gradually optimize it. We should not under-estimate challenges  along the way. Instead, the right strategy is to take small steps but iterate as fast as possible. In this way, we could make sure we are continuing in the right direction and stay motivated to work because we always have achievable and challenging goals.
 
-##### Have your suggestion being adopted 
+#### Have your suggestion being adopted 
 * **Key point: 1. Communication skill: How you can logically, reasonably and professionally 2. Evidence research and hard working: How do you collect information, ask opinions from experts**
 
-##### Describe your idea boss 
+#### Describe your idea boss 
 * Did you ever work with a person who could combine his/her talents with yours and others to create synergy
 
-##### What will you do if you are 100% that your boss is wrong 
+#### What will you do if you are 100% that your boss is wrong 
 * **Key point: 1. Depends on the scenario. In a casual chatting, informal meeting 2. If my boss does not like other people challenging him, then I will go with his ideas. For the specific part I feel he is wrong, I will let the fact speak for me and before implementation, ask if I made some changes, will it be fine? In this way, I will avoid conflicts and simultaneously get the job done.** 
 
-##### How do you finish an impossible task 
+#### How do you finish an impossible task 
 * **Key point: pressure handling. Prioritize**
 
-##### Have you ever did more than required 
+#### Have you ever did more than required 
 * **Key point: Self-motivated. Independent problem solver. Initiate**
 
-##### How do you compare yourself to your peers 
+#### How do you compare yourself to your peers 
 * Be confident about your capabilities, but know you have room to grow. You may want to note individual contributions as well as team contributions. 
 
-##### Belbin's team roles 
+#### Belbin's team roles 
 * Action oriented roles
   - Shaper
     + Shapers are people who challenge the team to improve. They are dynamic and usually extroverted people who enjoy stimulating others, questioning norms, and finding the best approaches for solving problems. The Shaper is the one who shakes things up to make sure that all possibilities are considered and that the team does not become complacent.
@@ -363,7 +380,7 @@ operating procedures in the evenings during that time.
     + Specialists are people who have specialized knowledge that is needed to get the job done. They pride themselves on their skills and abilities, and they work to maintain their professional status. Their job within the team is to be an expert in the area, and they commit themselves fully to their field of expertise.
     + This may limit their contribution, and lead to a preoccupation with technicalities at the expense of the bigger picture.
  
-#### What are your Salary requirements
+### Questions: What are your Salary requirements
 * **What are your salary expectations for the job** 
  * I’m more interested in finding a position that’s a good fit for my skills and interests. I’m confident that you’re offering a salary that’s competitive in the current market.
 * **When interviewers press further for a specific number** 
@@ -371,76 +388,14 @@ operating procedures in the evenings during that time.
 * **What are you making now** 
  * Since this position is not exactly the same as my current job, let’s discuss what my responsibilities at this company will be and work together to determine a fair salary for this position.
 
-#### Templates
-##### Thank you letter 
-* Template one
 
-> Dear Mr./Ms. XXX:
-> I would like to thank you again for the opportunity to interviewo for the XXX position with YYY company. Although I am disappointed that I was not choosen, I enjoyed meeting you and your colleagues and learning more about the company. 
-> 
-> I am still interested in opportunities with YYY and would appreciate it if you would keep me in mind for future openings in your company. 
-> 
-> Thank you again for your consideration. 
-> 
-> Sicerely,
-> ZZZ
 
-* Template two
-
-> While it pains me to see this opportunity go, I want to thank you for getting back to me. I also want to thank you for taking the time to meet with me. It was such a pleasure > to meet you and your colleagues and learn about the organization. After spending the time talking with you and doing my research, I really do believe that the XXXX industry is where I want to work. I know that I am not in a position to ask for favors, but if you have a moment to spare I would love any additional feedback. Please do not feel obligated to answer this question, but if there was something you noticed, it will help me in my job search and I would be most appreciative. 
-> 
-> I hope everything works out with you and your new intern/associate. 
-> 
-> Sincerely, 
-> ZZZ
-
-##### Reschedule 
-
-> Thanks a lot for all your previous efforts in preparing me for the onsite interview at XXX. 
-> 
-> During the past half a year I have been studying and interviewing a lot to be ready for the strict interview at XXX. Originally I prefer XXX. But Reason1, Reason2, Reason3. I think all these factors will affect my onsite performance. I really want to be a member of XXX and be at my best state for the onsite interview. 
-> 
-> I understand that rescheduling a full day of interviews involves a lot of work and people's schedules being moved around. I also understand that available positions fill up pretty quickly at a highly competitive company like XXX. So I usually try to avoid rescheduling whenever possible. I really apologize for all the inconvenience and rework brought by me. I guaranteed that this is my first and last time asking for rescheduling the onsite interview at XXX.
-> 
-> If rescheduling is possible, I will be really appreciated and try my best to make all your efforts worth it. XXX
-> 
-> I will be looking forward to hearing back from you!
-> 
-
-#### Company cultures
-##### Facebook
-
-##### Optimizely
-1. On a scale of 1-10, how lucky are you?
-  - Great companies are built by people who can embrace their humility. That’s why I ask this question — to seek out candidates who understand that our good fortune is a combination of the circumstances into which we are born, in combination with various decisions we make.
-  - Warren Buffett likes to say he won the ovarian lottery. If he had been born into another era he might have been some animal’s lunch.
-  - We need candidates who are self-aware enough to understand that hard work isn’t enough to guarantee success — we need individuals who are grateful for where they’ve landed in life. Our success is a function of being at the right place at the right time.
-
-2. What’s an opinion you hold that most people disagree with?
-  - High-growth startups need more than average. We need risk-takers who are self-assured and confident in their abilities.
-  - When I ask this question, I’m looking for people who are creative and innovative and can bring debate to the norm. If everyone agrees with everyone else, you end up with an average outcome. 
-  - As humans, we naturally strive for harmony. But I look for people who can challenge themselves enough to step out of this comfort zone — which brings me back to sentence #1 of this blog post.
-  - It’s always easy to run with what your boss tells you — even if he or she is pursuing a completely dead-end idea. That’s why this question is so important to me when I’m recruiting senior leadership. In that same vein, I also like to ask, “Tell me about a time that you disagreed with your CEO. How did you reconcile the issue?”
-  - I look for people who can tactfully disagree — without being disagreeable. We need to bring healthy debate to the table.
-
-3. If you had 10 years to live, what would you do?
-  - I’ll keep this part brief, as I don’t want to “give away” the answer to this question. But it’s one that I’ve A/B tested over and over.
-  - The answer to this third and final question is important to me because I want to make sure we hiring people who are passionate about Optimizely and our vision for the future. I want to avoid people who are on the “deferred life plan”: work at Optimizely and than do what I really want to do down the line.
-
-##### Google
-
-##### Uber
-* Values
-  - Top talent, high standards
-  - Take big bold bets
-  - Shape the world you want
-
-#### Questions to ask at the end
-##### Why ask questios
+### Questions to ask at the end
+#### Why ask questios
 * Having well thought out questions to ask during your interview is part of the research process in you understanding if this company and role would be a good fit for you. I can think of a few times in my career when I completed my interview with a company and thought, "This is not going to be a good fit," and completely withdrew myself from the entire process.
 * In preparation for your interview, you should do a lot of research on the industry (if you’re switching industries), the position itself, the company, their competition, their business model, and if you're able to, you should also research the person with whom you are meeting. I’ve interviewed candidates who knew more about the company than even I did. If you’re going to research your interviewers, you’re doing so to be informed on their experience and perspectives, but also to identify potential commonalities. You may have mutual colleagues or have worked for the same company in the past, or have the same alma mater. Commonalities can help establish credibility. Word to the wise: if you’re going this route, keep it to the professional details and not the personal details because nothing screams “crazy stalker” like leading your q&a time with, “So I saw online that you have three kids…”
 
-##### Sample questions
+#### Sample questions
 - Common questions
   * What does success in this role look like to you? or How will performance be measured?
   * Why did you join this company, and what keeps you here? / What brought you to the company?
@@ -465,31 +420,70 @@ operating procedures in the evenings during that time.
   * Who else will be on my team and who outside of my team will I work with frequently
   * What growth opportunities are available for a person starting in this position? Could you give me an example?
 
-### Stories about technical experience
-* a story for each bullet point on resume
-  * Start with an overview: overview of the problem, solution, and your role - let interviewer go deeper
-  * Communicate clearly: test of communication skills and logical thinking
-  * Role in the project: identify what you are responsible for, and be prepared to give deeper details on that part. Demonstrate you worked well with your team
-  * Technical knowledge: did you make key design decisions, or did you just follow instructions? Make sure you come across as truly knowledgeable
+### Templates
+#### Thank you letter 
+* Template one
 
-#### Checklist for phone interviews
-* Have a copy of resume in front of you
-* Do not just give "yes" or "no" answers. Limit initial explanation to short summaries and allow the interviewer to ask follow up questions
-* Your tone of voice and word choice. Interviewers use voice to judge how believable you are. Posture really have impact on your mind
-* Be prepared to ask some of your own questions. Show you are dedicated to the company
-* Hold off on questions specific to salary and benefits until later interviews
-* Take notes and write a follow up thank you email with details from the discussion. They might interview a couple employees 
+> Dear Mr./Ms. XXX:
+> I would like to thank you again for the opportunity to interviewo for the XXX position with YYY company. Although I am disappointed that I was not choosen, I enjoyed meeting you and your colleagues and learning more about the company. 
+> 
+> I am still interested in opportunities with YYY and would appreciate it if you would keep me in mind for future openings in your company. 
+> 
+> Thank you again for your consideration. 
+> 
+> Sicerely,
+> ZZZ
 
-#### Checklist for onsite interviews
-* Bring extra copies of your resume with you - for the interviewer and your own reference
-* Show up 15 minutes early and have the interviewer's phone number for last minute changes
-* Do extensive research on the company, interviewers and recent relevant news
-* Research industry standards for your position
-* Be enthusiastic and positive in your interview, even if it feels repetitive
-* Express your genuine excitement to work for the company and the mission they're pursuing
-* Whiteboard pen and erasers
+* Template two
+
+> While it pains me to see this opportunity go, I want to thank you for getting back to me. I also want to thank you for taking the time to meet with me. It was such a pleasure > to meet you and your colleagues and learn about the organization. After spending the time talking with you and doing my research, I really do believe that the XXXX industry is where I want to work. I know that I am not in a position to ask for favors, but if you have a moment to spare I would love any additional feedback. Please do not feel obligated to answer this question, but if there was something you noticed, it will help me in my job search and I would be most appreciative. 
+> 
+> I hope everything works out with you and your new intern/associate. 
+> 
+> Sincerely, 
+> ZZZ
+
+#### Reschedule 
+
+> Thanks a lot for all your previous efforts in preparing me for the onsite interview at XXX. 
+> 
+> During the past half a year I have been studying and interviewing a lot to be ready for the strict interview at XXX. Originally I prefer XXX. But Reason1, Reason2, Reason3. I think all these factors will affect my onsite performance. I really want to be a member of XXX and be at my best state for the onsite interview. 
+> 
+> I understand that rescheduling a full day of interviews involves a lot of work and people's schedules being moved around. I also understand that available positions fill up pretty quickly at a highly competitive company like XXX. So I usually try to avoid rescheduling whenever possible. I really apologize for all the inconvenience and rework brought by me. I guaranteed that this is my first and last time asking for rescheduling the onsite interview at XXX.
+> 
+> If rescheduling is possible, I will be really appreciated and try my best to make all your efforts worth it. XXX
+> 
+> I will be looking forward to hearing back from you!
+> 
 
 
-#### References
-* [Salary expectation](https://biginterview.com/blog/2015/10/salary-expectations.html)
-* [10 steps to ace the phone interview](https://biginterview.com/blog/interview-questions-answers)
+
+### Company cultures
+#### Optimizely
+1. On a scale of 1-10, how lucky are you?
+  - Great companies are built by people who can embrace their humility. That’s why I ask this question — to seek out candidates who understand that our good fortune is a combination of the circumstances into which we are born, in combination with various decisions we make.
+  - Warren Buffett likes to say he won the ovarian lottery. If he had been born into another era he might have been some animal’s lunch.
+  - We need candidates who are self-aware enough to understand that hard work isn’t enough to guarantee success — we need individuals who are grateful for where they’ve landed in life. Our success is a function of being at the right place at the right time.
+
+2. What’s an opinion you hold that most people disagree with?
+  - High-growth startups need more than average. We need risk-takers who are self-assured and confident in their abilities.
+  - When I ask this question, I’m looking for people who are creative and innovative and can bring debate to the norm. If everyone agrees with everyone else, you end up with an average outcome. 
+  - As humans, we naturally strive for harmony. But I look for people who can challenge themselves enough to step out of this comfort zone — which brings me back to sentence #1 of this blog post.
+  - It’s always easy to run with what your boss tells you — even if he or she is pursuing a completely dead-end idea. That’s why this question is so important to me when I’m recruiting senior leadership. In that same vein, I also like to ask, “Tell me about a time that you disagreed with your CEO. How did you reconcile the issue?”
+  - I look for people who can tactfully disagree — without being disagreeable. We need to bring healthy debate to the table.
+
+3. If you had 10 years to live, what would you do?
+  - I’ll keep this part brief, as I don’t want to “give away” the answer to this question. But it’s one that I’ve A/B tested over and over.
+  - The answer to this third and final question is important to me because I want to make sure we hiring people who are passionate about Optimizely and our vision for the future. I want to avoid people who are on the “deferred life plan”: work at Optimizely and than do what I really want to do down the line.
+
+
+### Offer negotiation
+1. Just do it. Almost no one likes negotiating. But it's so, so worth it. Recruiters will not revoke an offer because you negotiated, so you have little to lose. This is especially true if the offer is from a larger companny. You probably won't be negotiating with your future teammates.
+2. Have a viable alternative. Fundamentally, recruiters negotiate with you because they're concerned you may not join the company otherwise. if you have alternative options, that will make their concern much more real.
+3. Have a specific ask. It's more effective to ask for an additional $7,000 in salary than to just ask for "more". After all, if you just ask for more, the recruiter could throw in another $1000 and technically have satisfied your wishes. 
+4. Overshoot. In negotiation, people usually don't agree to whatever you demand. It's a back and forth conversation. Ask for a bit more than you're really hoping to get, since the company will probably meet you in the middle.
+5. Think beyond salary: Companies are often more willing to negotiate on non-salary components, since boosting your salary too much could mean that they're paying you more than your peers. Consider asking for more equity or a bigger signing bonus. Alternatively, you may be able to ask for your relocation benefits in cash, instead of having the company pay directly for the moving fees. This is a great avenue for many college students, whose actual moving expenses are fairly cheap. 
+6. Use your best medium: Many people will advise you to only negotiate over the phone. To a certain extent, they're right; it is better to negotiate over the phone. However, if you don't feel comfortable on a phone negotiation, do it via email. 
+
+### References
+* Cracking teh coding interview 6th Edition by Gayle Laakmann Mcdowell. 
