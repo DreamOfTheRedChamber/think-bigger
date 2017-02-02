@@ -1,36 +1,38 @@
-# Distributed chatroom application
+                            Distributed Systems Final Project
+                            =================================
 
-<!-- MarkdownTOC -->
-
-	- [Tell me about this project](#tell-me-about-this-project)
-		- [Describe](#describe)
-		- [Most challenging part](#most-challenging-part)
-- [Project description](#project-description)
-	- [* The membership emulation:](#-the-membership-emulation)
-
-<!-- /MarkdownTOC -->
-
-
-## Tell me about this project
-### Describe
-* For this project I developed distributed chatroom service to support join/leave chatroom, message like/dislike and chatroom history retreival features. I implemented a reliable multicasting service with 40Mbps throughput under 5% package loss environment. Based on the multicasting service, I implemented master-to-master replication and server-side commit logs for high availability and self-recovery. Finally, I implemented anti-entropy algorithms for eventual consistency after network partitions have been merged.  
-
-### Most challenging part
-* Messaging topic design: How to send messages efficiently under cases like machine crashes and network partitions.
-
-
-# Project description
-
-* The goal of the final project is to produce a distributed software system that 
+The goal of the final project is to produce a distributed software system that 
 demonstrates what you have learned in this class and provides a useful service.
 The focus of your project should be on the distributed aspects and correctness 
 of the system and not the graphical, GUI, or other peripheral issues.
 
-* Construct a reliable and efficient chat room service for users over 
+General Requirements
+--------------------
+- Efficient use of messages - Don't send messages unnecessarily.
+
+- A detailed description of the algorithm and the system design should be
+  provided. The initial design should be in the first design document.
+  The final report should include an enhanced and updated design document.
+
+- System that produces correct results for all inputs.
+
+- An organized Makefile is required.
+
+Delivery Date
+-------------
+Initial design document is due Tuesday November 11 in class. 
+Final delivery date is Friday December 5, 10pm, 2014.
+
+=====================================================================
+Project description: Fault-tolerant distributed chat room application
+=====================================================================
+Construct a reliable and efficient chat room service for users over 
 a network of computers. The service will comprise a chat server and
 a chat client programs.
 
-* The service: Every user can connect via a chat client to any one of the replicated servers. 
+The service:
+------------
+Every user can connect via a chat client to any one of the replicated servers. 
 
 The chat service provides the following capabilities; each capability
 is one option of a client's top level menu:
@@ -108,7 +110,14 @@ is one option of a client's top level menu:
 7. Print the view (the identities) of chat servers in the current server's network 
    component. "v".
 
-* The Chat Room Servers:
+
+
+
+
+
+
+
+The Chat Room Servers:
 
 Chat room clients connect to one of the chat server processes. 
 
@@ -133,7 +142,7 @@ Note that servers can be eventually consistent even if they are never
 directly connected (think about eventual path).
 
 
-* The membership emulation:
+The membership emulation:
 --------------------------
 The membership emulation will be managed by spmonitor, an interactive program 
 provided with the Spread toolkit. spmonitor can redefine the membership 
