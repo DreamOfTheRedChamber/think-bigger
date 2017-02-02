@@ -51,6 +51,7 @@
 - [Questions to ask at the end](#questions-to-ask-at-the-end)
   - [Why ask questios](#why-ask-questios)
   - [Sample questions](#sample-questions)
+  - [Things to ask your boss](#things-to-ask-your-boss)
 - [Templates](#templates)
   - [Thank you letter](#thank-you-letter)
   - [Reschedule](#reschedule)
@@ -419,6 +420,23 @@ able to bring the same experience to your company.” OR “My qualifications an
   * What does a typical day or week look like for my position
   * Who else will be on my team and who outside of my team will I work with frequently
   * What growth opportunities are available for a person starting in this position? Could you give me an example?
+
+#### Things to ask your boss
+* Short-term goals:What's the most important achievement you hope to accomplish in your current role?
+  - This question will give you insight into your manager’s short-term motivation, which will give you a better idea of what your goals and objectives should be. Managers, unfortunately, aren’t always clear with employees on their goals and plans, but if you understand a bit more about what your boss is focused on, you can better prioritize your own responsibilities and position yourself for success in your boss’ eyes.
+  - For example, perhaps your organization is in the middle of an acquisition and your manager’s goal is to create a smooth transition for the newly merged department. With that information, you should be aiming to help her to succeed in that, whether that means spending a few weeks beefing up company documentation or simply volunteering to assist with training.
+* What are your career goals
+  - The answer to this will give you insight into your manager’s long-term goals. Does she want to be a VP by age 35? CEO by 50? Does she want to start her own business one day?
+  - Knowing her long-term plan will help you understand why she might make certain decisions. For instance, maybe she volunteers your department for a project that doesn’t seem important to you, but it puts her squarely in the visibility of top executives—which could put her in the perfect position for a promotion.
+* What Should I Know About Your Work and Management Style
+  - Does your manager expect you to be available 24/7? Respond to emails on weekends? How does he or she handle stress?
+  - Asking this straightforward question may not get you all the answers (i.e., a micromanager may not readily admit to micromanaging). But even if you get just a tiny bit of insight, you’ll have a better sense of what to expect and how to handle it.
+* What’s One Thing I Could Do Differently?
+  - Having clear expectations is the key to delivering winning performance—and this question is a sneaky way to find out those expectations. For example, if your manager says he’d like you to make more of an effort to actively participate in meetings, you’ll know that he values a collaborative environment of ideas—rather than coming up with every initiative himself. And knowing that can help you perform exactly to his expectations.
+* How Would You Like to Receive Feedback From Me?
+  - To prepare yourself for an eventual point of contention, ask how your manager prefers to get feedback—you’ll get a much better response if you play by his or her rules, whether that means scheduling a one-on-one meeting, rather than catching him or her off guard in a hallway conversation or summarizing your thoughts in an email.
+  - Once you know how to deliver your feedback, you’ll be much more prepared to ask for what you need: Whether you’d like more frequent updates on deadlines, regular one-on-one time, or faster decision-making on projects, it’s important to be able to feel comfortable making these requests.
+
 
 ### Templates
 #### Thank you letter 
