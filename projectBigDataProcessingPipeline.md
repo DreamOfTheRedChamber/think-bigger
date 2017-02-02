@@ -12,7 +12,9 @@
 	- [Read/Write process](#readwrite-process)
 - [Why did you use Apache Kafka](#why-did-you-use-apache-kafka)
 	- [Advantages](#advantages)
-	- [Comparison](#comparison)
+	- [Use case](#use-case)
+		- [What do we do with Kafka](#what-do-we-do-with-kafka)
+		- [What Kafka doesn't do](#what-kafka-doesnt-do)
 - [Why did you use Apache Spark](#why-did-you-use-apache-spark)
 - [What can be improved for the project](#what-can-be-improved-for-the-project)
 - [Redis](#redis)
@@ -89,14 +91,31 @@
 * Each of the Cassandra nodes knows the status of all other nodes and what data they are responsible for. They can delegate queries to the correct servers.	
 
 ## Why did you use Apache Kafka 
+* Kafka provides a fast, distributed, highly scalable, highly available, publish-subscribe messaging system. 
+
 ### Advantages
 * Kafka is a high throughput message broker.
 * First, Apache Kafka has high IO performance. First, audit files are written as sequential logs. Logs are written in an append-only manner to the disk. In addition, Kafka employs zero-copy API so all the data doesn't need to be copied up and down from user space to kernel spaces. 
 * Second, Apache Kafka gives higher durability guarantee. Apache Kafka is based on Pull model and has an abstract concepts called offset. You can read the data and if you fail in the middle, you can simply retry. In addition, how Kafka deals with message consumers is different. Messages are not removed from the system. Instead, they rely on consumers to keep track of the last message consumed.
+* Third, Apache Kafka can handle large number of consumers. 
+	- large number of consumers (unlimited number of consumers)
+	- Ad-hoc consumers. 
+	- Batch consumers. Consumer waking up every hour. For example, Hadoop.
 
-### Comparison
-* Compared with traditional message brokers such as ActiveMQ/RabbitMQ, it has fewer constraints on explicit message ordering to improve throughput. 
-* Compared with distributed data collection system like Flume, Kafka is a more generic message broker and Flume is a more complete Hadoop ingestion solution. Flume has good supports for writing data to Hadoop such as HDFS, HBase and Solr. If the requirements involve fault-tolerant message delivery, message reply and a large number of consumers, you should consider Kafka.
+### Use case 
+#### What do we do with Kafka
+- Messaging - communicating between apps
+- Website activity - clicks, searches
+- Metrics collection - instead of writing to logs
+- Audit
+- Source and target of stream processing
+
+#### What Kafka doesn't do
+- Its not an end-user solution. You need to write code to use it.
+- Not a drop-in JMS replacement. 
+- It doesn't have many ready-made producers and consumers.
+- No data transformations.
+- No encryption, authorization or authentication. 
 
 ## Why did you use Apache Spark 
 * Spark is a cluster computing system.
