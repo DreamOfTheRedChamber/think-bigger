@@ -1,5 +1,19 @@
 # Distributed chatroom application
 
+<!-- MarkdownTOC -->
+
+- [Tell me about this project](#tell-me-about-this-project)
+	- [Describe](#describe)
+- [Data structures](#data-structures)
+	- [Server side](#server-side)
+- [Algorithm](#algorithm)
+	- [Group structure](#group-structure)
+	- [Algorithm in the regular case](#algorithm-in-the-regular-case)
+	- [The reconciliation algorithm in the case of membership change](#the-reconciliation-algorithm-in-the-case-of-membership-change)
+- [Most challenging part](#most-challenging-part)
+- [Things to improve](#things-to-improve)
+
+<!-- /MarkdownTOC -->
 
 
 ## Tell me about this project
