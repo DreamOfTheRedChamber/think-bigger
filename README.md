@@ -52,12 +52,12 @@
   - [Why ask questios](#why-ask-questios)
   - [Sample questions](#sample-questions)
   - [Things to ask your boss](#things-to-ask-your-boss)
+- [Offer negotiation](#offer-negotiation)
 - [Templates](#templates)
   - [Thank you letter](#thank-you-letter)
   - [Reschedule](#reschedule)
-- [Company cultures](#company-cultures)
-  - [Optimizely](#optimizely)
-- [Offer negotiation](#offer-negotiation)
+  - [Ask for an extention in deadline](#ask-for-an-extention-in-deadline)
+  - [Ask for an increase in salary](#ask-for-an-increase-in-salary)
 - [References](#references)
 
 <!-- /MarkdownTOC -->
@@ -438,6 +438,15 @@ able to bring the same experience to your company.” OR “My qualifications an
   - Once you know how to deliver your feedback, you’ll be much more prepared to ask for what you need: Whether you’d like more frequent updates on deadlines, regular one-on-one time, or faster decision-making on projects, it’s important to be able to feel comfortable making these requests.
 
 
+### Offer negotiation
+1. Just do it. Almost no one likes negotiating. But it's so, so worth it. Recruiters will not revoke an offer because you negotiated, so you have little to lose. This is especially true if the offer is from a larger companny. You probably won't be negotiating with your future teammates.
+2. Have a viable alternative. Fundamentally, recruiters negotiate with you because they're concerned you may not join the company otherwise. if you have alternative options, that will make their concern much more real.
+3. Have a specific ask. It's more effective to ask for an additional $7,000 in salary than to just ask for "more". After all, if you just ask for more, the recruiter could throw in another $1000 and technically have satisfied your wishes. 
+4. Overshoot. In negotiation, people usually don't agree to whatever you demand. It's a back and forth conversation. Ask for a bit more than you're really hoping to get, since the company will probably meet you in the middle.
+5. Think beyond salary: Companies are often more willing to negotiate on non-salary components, since boosting your salary too much could mean that they're paying you more than your peers. Consider asking for more equity or a bigger signing bonus. Alternatively, you may be able to ask for your relocation benefits in cash, instead of having the company pay directly for the moving fees. This is a great avenue for many college students, whose actual moving expenses are fairly cheap. 
+6. Use your best medium: Many people will advise you to only negotiate over the phone. To a certain extent, they're right; it is better to negotiate over the phone. However, if you don't feel comfortable on a phone negotiation, do it via email. 
+
+
 ### Templates
 #### Thank you letter 
 * Template one
@@ -474,34 +483,52 @@ able to bring the same experience to your company.” OR “My qualifications an
 > I will be looking forward to hearing back from you!
 > 
 
+#### Ask for an extention in deadline
 
+> Hello XXX, 
+>
+> Thanks for your help and reminder. 
+> 
+> I am really interested in the position within YYY, especially the product I will be working on and the manager I will be working with. I have also met with many engineers coming from YYY within Silicon Valley such as WWW and ZZZ. Generally speaking, they are all really strong software engineers and benefit a lot from their past experience in YYY. From the entire hiring process, I feel that YYY really cares potential candidates, always care its employees and want to guarantee they are happy at YYY. For example, reason1. reason2.  
+>
+> In terms of preparation and planning, I have prepared a lot during the past half a year, as you can see on my github KKK. So actually it is a long long journey for me and a really really big investment for me. 
+>
+> But sometimes things just happen and go beyond people’s control. For example, I have no control on what will happen on the company sides' scheduling. Sometimes it is just really hard to arrange things in a way so that all the offers come together and I can make a more informed choice. I have one additional onsite interview with BBB this Friday and another onsite interview with CCC on the next Tuesday.
+>
+> From my perspective, this is not a simple choice because it will at least decide my life in the next coming 2-3 years, or even my entire professional career. Since YYY is in CCC, it also means a completely different friends/peers circle for me. I really want to guarantee that I am truly passionate about the work I will be doing in YYY. Then the question is: How could I persuade myself that this is the best fit for me? On one hand, I need to have an in-depth understanding about the product, manager, teammates I will be working with. On the other hand, I need to understand what other options I have. This is really not a easy choice for me. If I handle it casually, I feel that I am not really responsible for my future and the next job. 
+>
+> From YYY's perspective, I understand that this team is moving forward at a really fast pace and want to get everything ready as soon as possible. I can guarantee that once I decide to accept the offer from YYY, I will just need little time relocating or resting between the old and new jobs. 
+>
+> Could you please give me an additional week to consider this offer? I should be able to have all the options on the table by the end of next week. Once I decide, I don’t need lots of additional time to relocate or rest. I think that this is the most responsible way not only for me but also for YYY because by then I will get a better understanding about whether I truly belongs to YYY. 
+>
+> Thanks for your help, ; )
+>
 
-### Company cultures
-#### Optimizely
-1. On a scale of 1-10, how lucky are you?
-  - Great companies are built by people who can embrace their humility. That’s why I ask this question — to seek out candidates who understand that our good fortune is a combination of the circumstances into which we are born, in combination with various decisions we make.
-  - Warren Buffett likes to say he won the ovarian lottery. If he had been born into another era he might have been some animal’s lunch.
-  - We need candidates who are self-aware enough to understand that hard work isn’t enough to guarantee success — we need individuals who are grateful for where they’ve landed in life. Our success is a function of being at the right place at the right time.
+#### Ask for an increase in salary
 
-2. What’s an opinion you hold that most people disagree with?
-  - High-growth startups need more than average. We need risk-takers who are self-assured and confident in their abilities.
-  - When I ask this question, I’m looking for people who are creative and innovative and can bring debate to the norm. If everyone agrees with everyone else, you end up with an average outcome. 
-  - As humans, we naturally strive for harmony. But I look for people who can challenge themselves enough to step out of this comfort zone — which brings me back to sentence #1 of this blog post.
-  - It’s always easy to run with what your boss tells you — even if he or she is pursuing a completely dead-end idea. That’s why this question is so important to me when I’m recruiting senior leadership. In that same vein, I also like to ask, “Tell me about a time that you disagreed with your CEO. How did you reconcile the issue?”
-  - I look for people who can tactfully disagree — without being disagreeable. We need to bring healthy debate to the table.
-
-3. If you had 10 years to live, what would you do?
-  - I’ll keep this part brief, as I don’t want to “give away” the answer to this question. But it’s one that I’ve A/B tested over and over.
-  - The answer to this third and final question is important to me because I want to make sure we hiring people who are passionate about Optimizely and our vision for the future. I want to avoid people who are on the “deferred life plan”: work at Optimizely and than do what I really want to do down the line.
-
-
-### Offer negotiation
-1. Just do it. Almost no one likes negotiating. But it's so, so worth it. Recruiters will not revoke an offer because you negotiated, so you have little to lose. This is especially true if the offer is from a larger companny. You probably won't be negotiating with your future teammates.
-2. Have a viable alternative. Fundamentally, recruiters negotiate with you because they're concerned you may not join the company otherwise. if you have alternative options, that will make their concern much more real.
-3. Have a specific ask. It's more effective to ask for an additional $7,000 in salary than to just ask for "more". After all, if you just ask for more, the recruiter could throw in another $1000 and technically have satisfied your wishes. 
-4. Overshoot. In negotiation, people usually don't agree to whatever you demand. It's a back and forth conversation. Ask for a bit more than you're really hoping to get, since the company will probably meet you in the middle.
-5. Think beyond salary: Companies are often more willing to negotiate on non-salary components, since boosting your salary too much could mean that they're paying you more than your peers. Consider asking for more equity or a bigger signing bonus. Alternatively, you may be able to ask for your relocation benefits in cash, instead of having the company pay directly for the moving fees. This is a great avenue for many college students, whose actual moving expenses are fairly cheap. 
-6. Use your best medium: Many people will advise you to only negotiate over the phone. To a certain extent, they're right; it is better to negotiate over the phone. However, if you don't feel comfortable on a phone negotiation, do it via email. 
+> Hello XXX,
+> 
+> It has always been such a pleasure to work with you. You are one of my nicest HRs I have ever worked with and also one of my best friends within YYY, ; ). 
+> 
+> Yesterday I have spend the whole morning with the team, met my potential managers including AAA, BBB, CCC and all other team members. They are all really friendly and happy about the things they work on. The product also has a promising future. 
+>
+> As I mentioned in my previous email, I got an offer from the DDD team within EEE. I also get some offers from some local startups. I know that different companies' offer packages are not comparable because companies are at different locations and have different tax policies, and there are just so many other things to consider about a job offer. The reason why I mention offers is to demonstrate that I am really worth the price and this is the fact that employers should know and respect. I am not a greedy guy and all what I do is to make sure I will be happy at YYY, not feeling being treated a little unfairly. 
+> 
+> In addition, I really performed well during the onsite interviews, discussed multiple ways to solve a same problem and implemented my solutions elegantly. In terms of enthusiasm and passion for the position, I took the trouble to meet with all of my team members and managers at YYY. I believe that it will be a great fit. 
+> 
+> I mentioned all of these details just to show my level of professionalism and my competency for the job. 
+> 
+> For the offer package from YYY, I need to speak for myself. I would like to have MMM increase in annual base salary, NNN increase in sign-on bonus and WWW increase in stock options. Could you please help me re-negotiate the offer package?
+> 
+> I will be looking forward to your response, ; )
+> 
+> Best,
+> JJJ
+> 
+> 
+> Attachement for the job offer from EEE.
+> ......
+> 
 
 ### References
 * Cracking teh coding interview 6th Edition by Gayle Laakmann Mcdowell. 
