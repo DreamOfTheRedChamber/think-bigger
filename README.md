@@ -531,4 +531,4 @@ able to bring the same experience to your company.” OR “My qualifications an
 > 
 
 ### References
-* Cracking teh coding interview 6th Edition by Gayle Laakmann Mcdowell. 
+* Cracking the coding interview 6th Edition by Gayle Laakmann Mcdowell. 
