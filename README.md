@@ -21,6 +21,8 @@
   - [Interview preparation grid](#interview-preparation-grid)
   - [Think about what it says](#think-about-what-it-says)
 - [Questions Know yourself](#questions-know-yourself)
+  - [Why do you want to change the job](#why-do-you-want-to-change-the-job)
+    - [Job satisfaction standards](#job-satisfaction-standards)
   - [Tell me about yourself](#tell-me-about-yourself)
   - [What are your strengths](#what-are-your-strengths)
   - [What is your ideal working environment](#what-is-your-ideal-working-environment)
@@ -42,7 +44,7 @@
   - [Tell me about a time you failed? How did you deal with the situation](#tell-me-about-a-time-you-failed-how-did-you-deal-with-the-situation)
   - [Have your suggestion being adopted](#have-your-suggestion-being-adopted)
   - [Describe your idea boss](#describe-your-idea-boss)
-  - [What will you do if you are 100% that your boss is wrong](#what-will-you-do-if-you-are-100%-that-your-boss-is-wrong)
+  - [What will you do if you are 100% that your boss is wrong](#what-will-you-do-if-you-are-100%25-that-your-boss-is-wrong)
   - [How do you finish an impossible task](#how-do-you-finish-an-impossible-task)
   - [Have you ever did more than required](#have-you-ever-did-more-than-required)
   - [How do you compare yourself to your peers](#how-do-you-compare-yourself-to-your-peers)
@@ -160,6 +162,35 @@
 * **Teamwork/Helpfulness:** The candidate worked with the teammate to break down the project into manageable chunks. 
 
 ### Questions Know yourself 
+#### Why do you want to change the job
+##### Job satisfaction standards
+* Physical: Money + resource + experience + skills
+  - Acceptable salary
+  - Process, tools, technology
+  - What type of work it is
+* Spiritual: Sense of accomplishment, culture (social and respect)
+  - Team
+    + Shared information is the prerequisite for 
+      + Aligned goal
+      + Complementary skills
+      + Clear division
+      + Efficient communication
+      + Mutual trust
+      + Continuous improvement
+  - Manager:
+    + Expand scope
+    + Build team, evaluate people based on results instead of relationship
+    + Good coach
+* Career path: Determines your future physical and spiritual satisfaction. 
+  - A cog in a big machine? It doesn't depend on the size of the company
+    + The scope of your work? Only manage simple team and low-complexity process
+    + Challenges 
+      + require you to learn new skills;
+      + not too big that frustrate you
+      + not too frequent that you have time to think and summarize.
+    + Flexibility and degree of freedom
+      + You are a decider, designer or an implementor
+
 #### Tell me about yourself
 * **What the interviewer is really asking**: 
   * What is your career plan
