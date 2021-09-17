@@ -1,5 +1,7 @@
 # Fighting for 100 commits
 
+title: [Eric's Corner]
+description: [A short description of your site's purpose]
 
 <!-- MarkdownTOC -->
 
