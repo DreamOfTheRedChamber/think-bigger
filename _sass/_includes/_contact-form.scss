@@ -1,0 +1,107 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Contact form
+
+// - - - - - - - - - - - - - - - - - -
+
+.contact-form {
+	margin: 20px auto;
+	width: 100%;
+
+	@include mq(tabletp) {
+		margin: 30px auto;
+	}
+
+	@include mq(laptop) {
+		margin: 40px auto;
+	}
+
+	&:first-child {
+		margin-top: 0;
+	}
+}
+
+.contact-form__item {
+	margin-top: 15px;
+
+	@include mq(tabletp) {
+		margin-top: 20px;
+	}
+
+	@include mq(laptop) {
+		margin-top: 30px;
+	}
+
+	&:first-child {
+		margin-top: 0;
+	}
+}
+
+.contact-form__item--error {
+
+	.contact-form__input,
+	.contact-form__textarea {
+		border-color: $error-color;
+	}
+}
+
+.contact-form__label {
+	display: block;
+	font-size: $p-small;
+	font-weight: $bold-weight;
+	color: $text-medium-color;
+
+	@include mq(tabletp) {
+		font-size: $p-medium;
+	}
+
+	@include mq(laptop) {
+		font-size: $p-large;
+	}
+}
+
+.contact-form__input,
+.contact-form__textarea {
+	width: 100%;
+	margin-top: 8px;
+	border: 2px solid $border-color;
+	border-radius: 2px;
+	padding: 10px 12px;
+	background: $background-color;
+	font-size: $p-small;
+	line-height: 1.4;
+	color: $text-dark-color;
+	@include transition(all 0.15s ease-in-out);
+
+	@include mq(tabletp) {
+		padding: 15px 18px;
+		font-size: $p-medium;
+	}
+
+	@include mq(laptop) {
+		font-size: $p-large;
+	}
+
+	&:focus {
+		outline: none;
+		border-color: $accent-color;
+	}
+}
+
+::-webkit-input-placeholder {
+	color: lighten($text-light-color,15%);
+}
+::-moz-placeholder {
+	color: lighten($text-light-color,15%);
+}
+:-ms-input-placeholder {
+	color: lighten($text-light-color,15%);
+}
+:-moz-placeholder {
+	color: lighten($text-light-color,15%);
+}
+
+.contact-form__textarea {
+	min-height: 200px;
+	resize: none;
+}

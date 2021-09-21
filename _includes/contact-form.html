@@ -1,0 +1,30 @@
+<div class="contact-form">
+
+	<form method="post" action="{{ site.data.settings.contact_settings.form_action }}" id="contact-form">
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Email Address *</label>
+			<input type="text" name="email" placeholder="Your email address..." class="contact-form__input">
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Name *</label>
+			<input type="text" name="name" placeholder="Your name..." class="contact-form__input">
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Message *</label>
+			<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
+		</div>
+
+		<input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />
+		<input type="hidden" name="_subject" value="{{ site.data.settings.contact_settings.email_subject }}" />
+		<input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
+
+		<div class="contact-form__item">
+			<input type="submit" value="{{ site.data.settings.contact_settings.send_button_text }}" class="button button--large">
+		</div>
+
+	</form>
+
+</div>

@@ -1,0 +1,285 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Single page/post/project
+
+// - - - - - - - - - - - - - - - - - -
+
+.hero.hero--single {
+
+	p {
+		margin-top: 10px;
+	}
+}
+
+.single {
+	margin-top: 0;
+	padding-bottom: 40px;
+	background: $background-alt-color;
+
+	@include mq(tabletp) {
+		padding-bottom: 60px;
+	}
+
+	@include mq(laptop) {
+		padding-bottom: 80px;
+	}
+}
+
+.single-post {
+	position: relative;
+	margin-top: -40px;
+	background: $background-color;
+	padding: 16px 20px;
+	@include box-shadow(0, 6px, 16px, rgba(0,0,0,0.05));
+
+	@include mq(tabletp) {
+		margin-top: -60px;
+		padding: 32px 40px;
+		@include box-shadow(0, 10px, 20px, rgba(0,0,0,0.05));
+	}
+
+	@include mq(tabletl) {
+		padding: 50px 60px;
+	}
+
+	@include mq(laptop) {
+		padding: 70px 80px;
+		@include box-shadow(0, 14px, 26px, rgba(0,0,0,0.05));
+	}
+
+	hr {
+		margin: 30px auto;
+
+		@include mq(tabletp) {
+			margin-top: 40px;
+			margin-bottom: 40px;
+		}
+	}
+
+	blockquote,
+	figure {
+		margin: 20px auto;
+
+		@include mq(tabletp) {
+			margin: 30px auto;
+		}
+
+		@include mq(laptop) {
+			margin: 40px auto;
+		}
+	}
+
+	blockquote p {
+		max-width: 100%;
+		padding: 0;
+	}
+
+	p a {
+		font-weight: $bold-weight;
+		border-bottom: 2px solid $accent-color;
+	}
+
+	p .button {
+		margin-top: 10px;
+	}
+
+	ul, ol {
+		ul, ol {
+			max-width: 100%;
+			padding-left: 25px;
+		}
+	}
+
+	.highlighter-rouge,
+	table {
+		margin: 20px auto;
+		width: 100%;
+
+		@include mq(tabletp) {
+			margin: 30px auto;
+		}
+
+		@include mq(laptop) {
+			margin: 40px auto;
+		}
+	}
+
+	.highlight {
+		display: block;
+		padding: 0;
+		line-height: 1.5;
+		font-size: $p-small*0.85;
+		line-height: $p-lineheight;
+		overflow: auto;
+
+		@include mq(tabletp) {
+			font-size: $p-medium*0.85;
+		}
+
+		@include mq(laptop) {
+			font-size: $p-large*0.85;
+		}
+
+		.highlight {
+			padding: 20px;
+
+			@include mq(tabletp) {
+				padding: 30px;
+			}
+
+			@include mq(laptop) {
+				padding: 40px;
+			}
+		}
+	}
+
+	.table-wrap {
+		display: block;
+		width: 100%;
+		overflow-x: auto;
+	}
+
+	table {
+		min-width: 600px;
+		border: 2px solid $text-dark-color;
+
+		thead {
+			background: $text-dark-color;
+			color: $background-color;
+			text-align: left;
+			font-weight: $bold-weight;
+
+			th {
+				font-weight: $bold-weight;
+			}
+		}
+
+		th, td {
+			padding: 10px;
+			font-size: $p-small;
+			font-weight: $p-weight;
+
+			@include mq(tabletp) {
+				padding: 15px;
+			}
+
+			@include mq(laptop) {
+				padding: 20px;
+				font-size: $p-medium;
+			}
+		}
+		
+		tr {
+
+			&:nth-child(2n) {
+				background: $background-alt-color;
+			}
+		}
+	}
+
+	sup a.footnote {
+		display: inline-block;
+		margin-left: 5px;
+		min-width: 16px;
+		height: 16px;
+		border-radius: 100%;
+		border-bottom: none;
+		padding: 1px 3px;
+		background: $background-alt-color;
+		font-size: 10px;
+		text-align: center;
+		color: $text-light-color;
+
+		&:hover {
+			background: $text-light-color;
+			color: $background-color;
+		}
+	}
+
+	.footnotes {
+		margin-top: 40px;
+
+		@include mq(tabletp) {
+			margin-top: 60px;
+		}
+
+		@include mq(laptop) {
+			margin-top: 80px;
+		}
+
+		ol {
+			list-style: none;
+			counter-reset: footnotes;
+
+			li {
+				margin-top: 5px;
+				font-size: 13px;
+				counter-increment: footnotes;
+
+				&:before {
+					content: counter(footnotes);
+				    box-sizing: border-box;
+					display: inline-block;
+					margin-right: 3px;
+					width: 20px;
+					height: 20px;
+					border-radius: 100%;
+					border-bottom: none;
+					padding: 2px 3px;
+					background: $background-alt-color;
+					font-size: 11px;
+					font-weight: $bold-weight;
+					text-align: center;
+					color: $text-light-color;
+				}
+				
+				p {
+					display: inline;
+					max-width: 100%;
+					font-size: 13px;
+
+					a.reversefootnote {
+						border-bottom: 0;
+						vertical-align: sub;
+					}
+				}
+			}
+		}
+	}
+}
+
+.image-wrap,
+.video-wrap {
+	position: relative;
+	margin: 20px auto;
+
+	@include mq(tabletp) {
+		margin: 30px auto;
+	}
+
+	@include mq(laptop) {
+		margin: 40px auto;
+	}
+
+	&:first-child {
+		margin-top: 0;
+	}
+}
+
+.image-wrap img {
+	margin: 0 auto;
+}
+
+.video {
+	position: relative;
+	width: 100%;
+	height: 0;
+
+	iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+}

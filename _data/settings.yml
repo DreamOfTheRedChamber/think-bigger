@@ -1,0 +1,158 @@
+basic_settings:
+  site_title: Personal
+  favicon_image: /images/favicon.png
+
+header_settings:
+  logo_image: 
+  logo_width: 200
+
+menu_settings:
+  menu_items:
+    - title: 'Projects'
+      url: '/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'About'
+      url: '/about'
+    - title: 'Contact'
+      url: '/contact'
+
+footer_settings:
+  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+
+hero_settings:
+  overlay_opacity: 0.8
+
+post_settings:
+  grid_spacing: 10
+
+contact_settings:
+  form_action: ''
+  confirmation_url: '/thanks'
+  email_subject: 'Contact form submission'
+  send_button_text: 'Send Message'
+
+social_settings:
+  facebook_url: ''
+  twitter_url: ''
+  instagram_url: ''
+  snapchat_url: ''
+  youtube_url: ''
+  google-plus_url: ''
+  vimeo_url: ''
+  pinterest_url: ''
+  medium_url: ''
+  quora_url: ''
+  amazon_url: ''
+  apple_url: ''
+  android_url: ''
+  tumblr_url: ''
+  dribbble_url: ''
+  behance_url: ''
+  deviantart_url: ''
+  github_url: ''
+  reddit_url: ''
+  flickr_url: ''
+  etsy_url: ''
+  kickstarter_url: ''
+  soundcloud_url: ''
+  spotify_url: ''
+  bandcamp_url: ''
+  linkedin_url: ''
+
+color_settings:
+  background_color: '#ffffff'
+  background_alt_color: '#f4f5f6'
+  text_dark_color: '#2A2F36'
+  text_medium_color: '#6C7A89'
+  text_light_color: '#ABB7B7'
+  accent_color: '#3498db'
+  border_color: '#dddddd'
+  hero_background_color: '#132930'
+  hero_text_color: '#ffffff'
+  error_color: '#D64541'
+
+font_settings:
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
+  title_font: '"Muli", sans-serif'
+  body_font: '"Muli", sans-serif'
+  regular_weight: 400
+  bold_weight: 600
+  site_title:
+    small_size: 25
+    medium_size: 30
+    large_size: 35
+    weight: 700
+    letter_spacing: -0.02
+  menu:
+    small_size: 30
+    medium_size: 15
+    large_size: 17
+    weight: 600
+    letter_spacing: 0
+  h1:
+    small_size: 35
+    medium_size: 45
+    large_size: 60
+    weight: 700
+    letter_spacing: -0.03
+    line_height: 1.2
+  h2:
+    small_size: 22
+    medium_size: 30
+    large_size: 35
+    weight: 700
+    letter_spacing: -0.02
+    line_height: 1.2
+  h3:
+    small_size: 22
+    medium_size: 25
+    large_size: 30
+    weight: 600
+    letter_spacing: -0.02
+    line_height: 1.3
+  h4:
+    small_size: 17
+    medium_size: 22
+    large_size: 22
+    weight: 700
+    letter_spacing: 0
+    line_height: 1.6
+  h5:
+    small_size: 17
+    medium_size: 20
+    large_size: 20
+    weight: 700
+    letter_spacing: 0
+    line_height: 1.6
+  h6:
+    small_size: 17
+    medium_size: 20
+    large_size: 20
+    weight: 700
+    letter_spacing: 0
+    line_height: 1.6
+  p:
+    small_size: 18
+    medium_size: 20
+    large_size: 22
+    weight: 400
+    letter_spacing: 0
+    line_height: 1.6
+  blockquote:
+    small_size: 25
+    medium_size: 35
+    large_size: 45
+    weight: 300
+    letter_spacing: -0.02
+    line_height: 1.6
+  buttons:
+    weight: 600
+    letter_spacing: 0
+
+advanced_settings:
+  ajax_loading: true
+  analytics_code: ""
+  custom_styles: ""
+  header_js: ""
+  footer_js: ""
