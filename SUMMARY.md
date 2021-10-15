@@ -2,17 +2,22 @@
 
 * [README](README.md)
 * [Interview_BehaviorQuestions](BehaviorQuestions.md)
-* [Thoughts_Leadership](Engineering_Leadership.md)
+* [Thoughts_Leadership](thoughts_leadership.md)
 
 ## Career
 
-* [Resume_OpenTextAnalytics](career/resume_opentextanalytics.md)
-* [Resume_ResearchPapers](career/research_papers.md)
-* [Resume_MicrosoftTeams](career/resume_teams.md)
-* [Resume_FinraIntern](career/resume_finraintern.md)
+* [SWE @ MicrosoftTeams 17\~21](career/resume_teams.md)
+* [SWE @ OpenTextAnalytics 15\~16](career/resume_opentextanalytics.md)
+* [SWE Intern @ Finra 14 Summer](career/resume_finraintern.md)
+* [Researcher @USTC 12\~13](career/research_papers.md)
 
 ## Hobbies
 
 * [Phychology](hobbies/phychology/README.md)
-  * [天龙八部与执念](hobbies/phychology/tian-long-ba-bu-yu-zhi-nian.md)
-* [Fitness](hobbies/fitness.md)
+  * [佛学 - 天龙八部与执念](hobbies/phychology/fo-xue-tian-long-ba-bu-yu-zhi-nian.md)
+  * [佛学《次第花开》](hobbies/phychology/fo-xue-ci-di-hua-kai.md)
+  * [哲学 《富兰克林自传》](hobbies/phychology/zhe-xue-fu-lan-ke-lin-zi-chuan.md)
+  * [关系 红楼中的仙缘与尘缘](hobbies/phychology/guan-xi-hong-lou-zhong-de-xian-yuan-yu-chen-yuan.md)
+  * [关系 纪念父亲五十九岁生日](hobbies/phychology/guan-xi-ji-nian-fu-qin-wu-shi-jiu-sui-sheng-ri.md)
+* [Product](hobbies/product/README.md)
+  * [影响世界的发现 抗生素](hobbies/product/ying-xiang-shi-jie-de-fa-xian-kang-sheng-su.md)
