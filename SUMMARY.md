@@ -7,5 +7,3 @@
 * [Resume_FinraIntern](Resume_FinraIntern.md)
 * [Resume_OpenTextAnalytics](Resume_OpenTextAnalytics.md)
 * [Resume_MicrosoftTeams](Resume_Teams.md)
-* [Documents](documents/README.md)
-  * [I](Documents/accentReduction.md)
