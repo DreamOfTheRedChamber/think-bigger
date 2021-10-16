@@ -3,7 +3,7 @@
 * [Video denoising](research_papers.md#video-denoising)
 * [Underwater imaging](research_papers.md#underwater-imaging)
 
-##  Multimedia
+## Multimedia
 
 ### Video denoising
 
@@ -13,10 +13,9 @@
 
 * we address the challeng-ing problem of underwater stereo image enhancement. A new underwater imaging model is proposed and it can better de-scribe the degradation of underwater images including color distortion and contrast attenuation. In addition, a novel ob-servation that the intensity of the water part within the image is mainly contributed by the scattering light is also proposed. Coupling the proposed model and prior together, the param-eters of scattering light can be estimated. Then an iterative approach to process stereo matching and stereo image en-hancement alternatively is presented, which can signiﬁcantly improve the quality of the images and depth maps
 
-
-
 ## Information security
 
-### Keyboard and covert channels
+### [Slideshare link: Keyboard and covert channels](https://www.slideshare.net/ShijieZhang2/keyboard-covert-channels)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9i9JQB_hf5lRjb0MbOrr29DsyMs7TbpecJZkT5xX3idLwwy4ibqEMV6r_yJ0J30bsBi_STPzmosJw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+### [Slideshare link: Path Oram](https://www.slideshare.net/ShijieZhang2/path-oram)
+
