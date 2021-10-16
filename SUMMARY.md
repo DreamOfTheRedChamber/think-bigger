@@ -1,7 +1,6 @@
 # Table of contents
 
-* [README](README.md)
-* [Interview_BehaviorQuestions](BehaviorQuestions.md)
+* [About Me](README.md)
 
 ## Career
 
