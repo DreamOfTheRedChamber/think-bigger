@@ -19,4 +19,4 @@
 
 ### Keyboard and covert channels
 
-{% embed url="https://docs.google.com/presentation/d/1Sh-TeNFDZO2GnvG4lqmaFrKFzihzURu6_f_d0Qw4jGo/edit#slide=id.p" %}
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9i9JQB_hf5lRjb0MbOrr29DsyMs7TbpecJZkT5xX3idLwwy4ibqEMV6r_yJ0J30bsBi_STPzmosJw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
