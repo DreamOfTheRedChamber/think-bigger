@@ -1,8 +1,9 @@
-# Researcher @USTC 12\~13
+- [Researcher @USTC 12\~13](#researcher-ustc-1213)
+  - [Multimedia](#multimedia)
+  - [Information security](#information-security)
+  - [Two-wheel self balancing robot](#two-wheel-self-balancing-robot)
 
-* [Video denoising](research_papers.md#video-denoising)
-* [Underwater imaging](research_papers.md#underwater-imaging)
-* Two wheel self balancing robot
+# Researcher @USTC 12\~13
 
 ## Multimedia
 
@@ -22,8 +23,6 @@
 * [Slideshare link: Path Oram](https://www.slideshare.net/ShijieZhang2/path-oram)
 
 ## Two-wheel self balancing robot
-
-
 
 {% embed url="https://www.youtube.com/watch?ab_channel=ShijieZhang&v=vvGbLFrwLRQ" %}
 Participated in USTC Robot Game 2011 and got into final competition when I was a sophormore
