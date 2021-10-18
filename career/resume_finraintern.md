@@ -2,14 +2,12 @@
 description: 'Slideshare link: https://www.slideshare.net/ShijieZhang2/aws-64257730'
 ---
 
-# SWE Intern @ Finra 14 Summer
+# Permissions Compliance System on AWS
 
-## Permissions Compliance System on AWS
+## Featured content
 
-## Related Presentations
-
-* [Leveraging Splunk to Manage Your AWS Environment](http://technology.finra.org/articles/video/using-splunk-to-manage-aws.html)
-* [FINRA takes control of its big data challenges with Splunk Cloud](http://diginomica.com/2014/10/07/finra-takes-control-big-data-challenges-splunk-cloud/)
+* [Presentation: Leveraging Splunk to Manage Your AWS Environment](http://technology.finra.org/articles/video/using-splunk-to-manage-aws.html)
+* [News: FINRA takes control of its big data challenges with Splunk Cloud](http://diginomica.com/2014/10/07/finra-takes-control-big-data-challenges-splunk-cloud/)
 
 ## Background
 
