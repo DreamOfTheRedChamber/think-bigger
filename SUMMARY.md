@@ -13,11 +13,15 @@
 * [Researcher @USTC 12\~13](career/research_papers.md)
 
 ## Hobbies
+
 * [What if series](hobbies/WhatIfSeries/README.md)
   * [Start a SaaS company](hobbies/WhatIfSeries/StartSaaSCompany.md)
   * [Become a tech generalist](hobbies/WhatIfSeries/BecomeTechGeneralist.md)
   * [Become a tech specialist](hobbies/WhatIfSeries/BecomeTechSpecialist.md)
+  * [Become a tech manager](hobbies/WhatIfSeries/BecomeTechManager.md)
   * [Become a writer](hobbies/WhatIfSeries/BecomeWriter.md)
+  * [Become a farther](hobbies/WhatIfSeries/BecomeFather.md)
+  * [Become a husband](hobbies/WhatIfSeries/BecomeHusband.md)
   * [Have resources to travel](hobbies/WhatIfSeries/HaveResourcesToTravel.md)
 * [Writings in Chinese](hobbies/ChineseWritings/README.md)
   * [佛学 天龙八部与执念](hobbies/ChineseWritings/fo-xue-tian-long-ba-bu-yu-zhi-nian.md)
