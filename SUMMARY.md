@@ -6,7 +6,7 @@
 
 * [SWE @ MicrosoftTeams 17\~21](career/resume_teams/README.md)
   * [Project management](career/resume_teams/project-management.md)
-  * [Tech expertise](career/resume_teams/tech-expertise.md)
+  * [Cloud expertise](career/resume_teams/cloud-experiences.md)
 * [SWE @ OpenTextAnalytics 15\~16](career/resume_opentextanalytics.md)
 * [SWE Intern @ Finra 14 Summer](career/resume_finraintern.md)
 * [Researcher @USTC 12\~13](career/research_papers.md)
