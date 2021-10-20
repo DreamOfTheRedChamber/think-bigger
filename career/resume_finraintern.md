@@ -2,12 +2,21 @@
 description: A role based access control system on AWS
 ---
 
-# Permissions Compliance System on AWS
+# SWE Intern @ Finra 14 Summer
 
 ## Featured content
+
 * [SlideShare link: Intern project presentation](https://www.slideshare.net/ShijieZhang2/aws-64257730)
 * [Presentation link: Official product based on intern project: Leveraging Splunk to Manage Your AWS Environment](http://technology.finra.org/articles/video/using-splunk-to-manage-aws.html)
 * [News: FINRA takes control of its big data challenges with Splunk Cloud](http://diginomica.com/2014/10/07/finra-takes-control-big-data-challenges-splunk-cloud/)
+
+### Intern project
+
+![](../.gitbook/assets/image.png)
+
+### Final product
+
+![](<../.gitbook/assets/image (1).png>)
 
 ## Background
 
@@ -237,7 +246,7 @@ Generally speaking, the content of the policies is the same in all cases—each 
   * Groups can't be nested; they can contain only users, not other groups.
   * There's no default group that automatically includes all users in the AWS account. If you want to have a group like that, you need to create it and assign each new user to it.
   * There's a limit to the number of groups you can have, and a limit to how many groups a user can be in. For more information, see Limitations on IAM Entities and Objects.
-* [A group example](http://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html)
+* [A group example](http://docs.aws.amazon.com/IAM/latest/UserGuide/id\_groups.html)
 
 **Roles**
 
@@ -422,4 +431,3 @@ for each user
 * Advantages of CloudWatch logs: What makes CloudWatch Logs more preferable over other third party tools?
   * CloudWatch is the single platform to monitor resource usage and logs.
   * CloudWatch Logs pricing is based on pay as you use model which may turn out to be cheaper than third party tools that work on per node licence model. Here you will be paying for log storage and bandwidth used to upload the files.
-
