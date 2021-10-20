@@ -1,6 +1,7 @@
 # Table of contents
 
-* [About Me](README.md)
+* [Bio](Bio.md)
+* [Anti-Bio](Anti-Bio.md)
 
 ## Career
 
