@@ -7,13 +7,17 @@
 * [SWE @ MicrosoftTeams 17\~21](career/resume_teams/README.md)
   * [Project management](career/resume_teams/project-management.md)
   * [Tech expertise](career/resume_teams/tech-expertise.md)
-  * [Engineering leadership](career/resume_teams/engineering-leadership.md)
 * [SWE @ OpenTextAnalytics 15\~16](career/resume_opentextanalytics.md)
 * [SWE Intern @ Finra 14 Summer](career/resume_finraintern.md)
 * [Researcher @USTC 12\~13](career/research_papers.md)
 
 ## Hobbies
-
+* [What if series](hobbies/WhatIfSeries/README.md)
+  * [Start a SaaS company](hobbies/WhatIfSeries/StartSaaSCompany.md)
+  * [Become a tech generalist](hobbies/WhatIfSeries/BecomeTechGeneralist.md)
+  * [Become a tech specialist](hobbies/WhatIfSeries/BecomeTechSpecialist.md)
+  * [Become a writer](hobbies/WhatIfSeries/BecomeWriter.md)
+  * [Have resources to travel](hobbies/WhatIfSeries/HaveResourcesToTravel.md)
 * [Writings in Chinese](hobbies/phychology/README.md)
   * [佛学 天龙八部与执念](hobbies/phychology/fo-xue-tian-long-ba-bu-yu-zhi-nian.md)
   * [佛学《次第花开》](hobbies/phychology/fo-xue-ci-di-hua-kai.md)
