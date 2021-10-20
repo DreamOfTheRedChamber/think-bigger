@@ -1,2 +1,1 @@
 # Microsoft Teams
-## Challenging questions

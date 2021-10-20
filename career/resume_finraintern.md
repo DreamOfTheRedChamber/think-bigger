@@ -1,12 +1,12 @@
 ---
-description: 'Slideshare link: https://www.slideshare.net/ShijieZhang2/aws-64257730'
+description: A role based access control system on AWS
 ---
 
 # Permissions Compliance System on AWS
 
 ## Featured content
-
-* [Presentation: Leveraging Splunk to Manage Your AWS Environment](http://technology.finra.org/articles/video/using-splunk-to-manage-aws.html)
+* [SlideShare link: Intern project presentation](https://www.slideshare.net/ShijieZhang2/aws-64257730)
+* [Presentation link: Official product based on intern project: Leveraging Splunk to Manage Your AWS Environment](http://technology.finra.org/articles/video/using-splunk-to-manage-aws.html)
 * [News: FINRA takes control of its big data challenges with Splunk Cloud](http://diginomica.com/2014/10/07/finra-takes-control-big-data-challenges-splunk-cloud/)
 
 ## Background
