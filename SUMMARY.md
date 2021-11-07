@@ -23,6 +23,7 @@
   * [Become a farther](hobbies/WhatIfSeries/BecomeFather.md)
   * [Become a husband](hobbies/WhatIfSeries/BecomeHusband.md)
   * [Have resources to travel](hobbies/WhatIfSeries/HaveResourcesToTravel.md)
+  * [Become a distinguished toast master speaker](hobbies/WhatIfSeries/BecomeDistinguishedToastMaster.md)
 * [Writings in Chinese](hobbies/ChineseWritings/README.md)
   * [佛学 天龙八部与执念](hobbies/ChineseWritings/fo-xue-tian-long-ba-bu-yu-zhi-nian.md)
   * [佛学《次第花开》](hobbies/ChineseWritings/fo-xue-ci-di-hua-kai.md)
