@@ -14,6 +14,7 @@
     - [Patterns](#patterns)
     - [Example](#example)
   - [Leadership](#leadership)
+  - [Ownership / Responsibility](#ownership--responsibility)
 
 ## Tell me about yourself
 1. Assume: Interviewer has already read resume. 
@@ -81,3 +82,20 @@
   * Core values - Cost aware
 
 ## Leadership
+* Process
+  * Influence without authority
+  * Firefighter 
+  * Manage up
+  * Manage peer
+* Result: Gain the team win and get trust from peers. 
+* Provide multiple example and ask the interviewer which one he is interested. 
+
+## Ownership / Responsibility
+* Two core points:
+  * Volunteer
+  * Originally out side of your plate
+* Add more details when describing it:
+  * Evaluating the resources, prioritizing work, and communicating with partners. 
+* Red flag
+  * Not assigned to you, wait for directions
+  * Hesitated to take the action
