@@ -1,3 +1,8 @@
+- [Behavior](#behavior)
+- [Cassandra](#cassandra)
+  - [Multi-User chat room](#multi-user-chat-room)
+  - [Ticket master](#ticket-master)
+
 # Behavior
  请问亚麻recruiter嘉宾，能给个内推吗？感谢  running away what?  要慎用“running away from bad things” 吧  听众能不能mute一下  哪个老铁 mute一下啊😯  Rong Yao  弹琴的可以mu一下吗  🙏  就是可以你来我往的感觉吧  Would you please give an example of a bar raising answer example?  主持人可以先全部过一遍slice吗？而不是自己的follow up，这样子大家可以有个全局观，谢谢  money incentive 可以搞笑的方式带过 diversity and inclusion 的话题怎么回答  我就怕我吹大劲儿  我也是  一定要提team work project 嗎？還是個人開發的也可以  Frank, thank you very much! I appreciate it!  吹牛就没输过  个人开发可以，看你怎么讲了。比如说你参加solo hackathon，赢了，就很牛逼了  所以做政府项目的要怎么描述  謝謝  Q: 对于刚毕业的学生，这些话题大部分都没有经历，HR或者recruiter如果面试NG， BQ questions他们应该会怎么问呢？ 还是按部就班的念稿吗，对于NG怎么准备BQ？因为没有工作经验，这些问题大部分都没有体会  project或者side project的经验，都可以讲  NG 可以说school project，里面也涉及到collaboration、communication 哇  这种学校的东西和在工作中，完全不一样 非要硬往上帖，只能编了  实在不行参加一些hackathon吧，很真实的团队合作了，大部分hackathon 36-48小时。构思，分工，熬夜，meet deadline，pitching。等于是压缩了一个季度的工作  能举个例子吗 什么叫complex  嗯嗯 同问  Paul 说到点子上了！  Paul刚才说啥来着？ 错过了  谢谢 Paul 补充！  16 Leadership now!  Shopify的特有吧  Paul说尽量选一个大的project，能说明你的实力的，方便评级更高  Project dive deep 是主要考察技术能力吧  感谢ganxie  可以讲完slide再一起提问吗  今天有录像吗  搞过sev0 算不算 厉害厉害  可以说 没有mistake吗？说了 会很尴尬吗 ：）  如果sev0 不是你写出来的话  会  没有mistake不太真实  blame game is on  就说会尴尬么。。。这么答就挂了？ 有人这样回答我的，我选择没挂他这一题。。。  这个故事好，背下来 这个故事要强调tech context吗？  这样来说， 总体 来说， 感觉我们就会招进来 差不多的人 突然想 艺术类 面试 ，越奇葩，越个性 越好  晚了，已经背下来了。  能讲一下例子吗 fail的例子  晚了，背完了已经  不能背啥啊  没人能crash我， 算法可以。  不怕 找人多mock！ hoho  戳中了说的就是我  晚了，已经背了。  上司的话需要analyze 但是你的customer 不管说什么必须要听  例子太好了，深深印入了脑海里  只有魔法才能打败魔法  晚了，已经背下来了。  这样会不会显得manager很笨  你可以编一下，说是隔壁组的manager  同问 感觉manager听到能挣钱很难会block你  跟直接manager有conflict不太合适  正常人早就同意了 你还和我争  对啊  有conflict一般都是 clarity不够，有个人没有拿到所有信息  话说面试官是中国人的话是好事吗  解释一下就行了，但是这样没scope啊。还是之前的故事好。 都背下来背下来  "有conflict一般都是 clarity不够，有个人没有拿到所有信息"
 👍  Wendy 牛！同样一件事情说到了manager level  有没有5分钟中场休息，喝点水上个洗手间的?  现在下半场都要结束了😃  😂  确实new grad太难了，很难讲leadership的  Hr会给你发公司value  bq搞定亚麻 = 搞定一切公司  对NG要求不会很高  说实话，准备好了amazon的bq，其他公司的bq都稳了 哈哈哈，Gigas也是也么想的  上面说的可能有误导，我一会补充一下  请问有过往其他行业工作经历的转专业学生，面试讲故事可以用以前的工作经历吗？还是必须要讲和tech有关的项目或经历？  lol  爱因斯坦是谁  lol  🤣  太棒了  好像是个政客  爱泼斯坦他哥？  夸父是个好同志  大公司不需要招 那个level 的聪明人  wendy好牛啊  wendy可以考虑开个小红书账号分享职场面试信息吗  有时间的可以看看wiki和公司官网blog和公司的linkedin，然后我觉得每个glassdoor的positive评价也可以很好地看出一个公司地value  be myself 我怕没人给offer  爱因斯坦克  be best myself 不用谢～  👍 Paul Wendy 在理  大牛👍  哪家对人大于业务？  麦霸  leadership ownership ng可当作主人翁精神 肯定可以聊  大家可以读一下Ben Horowitz写的一本书叫The hard thing about hard things，里面有一章节叫Take care of the people, the products and the profits - in that order  职场俱乐部volunteer 很锻炼leadership 😀  这是回应之前的问题“哪家对人大于业务？”  又背过一个： 主动帮oncall engineer去解决livesite的incident  其实每家公司都是“人大于业务”，也是“业务大于人”，取决于您的观察点 对牛人，就是人大于业务， 如果您没有贡献，就是业务大于人，呵呵  你就说系统本身的限制，不说别人的问题 old system就是很菜  觉得ownership跟之前的第二个category “tell me a project you are proud of.” 和第五个category “leadership”都有点overlap？ 老师们的例子听起来好像是有点overlap。请问怎样解决一个例子好像可以对应很多问题的情况呢？ 谢谢大家  你还有第七页？  earn trust?  我参加的比较晚 请问能把ppt的几点title列一下吗？  +1  ppt没啥，没有老师讲的故事精彩 反客为主 6666  这就是handle ambiguity把  可以问回去  amazon的interview feedback要写的很详细的， 面试官主要是collect datapoint  但是最后也不给feedback  面试官会不会光听不写，然后回去编？😂  不可能 我从来没有见过这样的，那样问题就大了  Amazon onsite behavior question  https://www.1point3acres.com/bbs/thread-307462-1-1.html  earn trust是啥故事来着？  比如我最近面试一个SDM， 光feedback都写了近2000 words  请问我们有recording吗？来晚了，miss掉了前半部分😭  如果来面Amazon， 最好真的好好读读LP，一定要 不然很难过的  What is LP?  Leadership Principles  每个问题对应的lp在这里找：Amazon onsite behavior question  https://www.1point3acres.com/bbs/thread-307462-1-1.html 
@@ -1086,3 +1091,475 @@ From Lao luo to Everyone: (8:44 PM)
  和partion有关 
 From bernini to Everyone: (8:46 PM)
  我们都拿firebase当cache用 
+
+## Ticket master
+From Jun to Everyone: (7:17 PM)
+ 这个画图是什么网站？ 
+From Laoluo to Everyone: (7:17 PM)
+ 肯定是秒杀相关 但是是不是象12306一样有不同的站 
+From Ken to Everyone: (7:17 PM)
+ We have notes for previous meeting.  Please scan the QR code on top of the notes doc in this doc: https://docs.google.com/document/d/11hsGVxwAzfBPR6coFB-RiXmokUgqKbnFQ1R7urE6m_s/edit# to join our WeChat group 
+From Laoluo to Everyone: (7:17 PM)
+ 有不同的站会复杂不少 
+From Skit to Everyone: (7:19 PM)
+ 什么是p0, p3 
+From Qiang Lu to Everyone: (7:20 PM)
+ is it priority? 
+From Christie to Everyone: (7:20 PM)
+ Priority 0? 
+From 非洲黑猴子 to Everyone: (7:20 PM)
+ 需求是不是最急需的 
+From Eric Che to Everyone: (7:20 PM)
+ 这题的考点应该是类秒杀设计，怎么保证在大并发下能保证票不会超卖，并且能handle大并发量。 
+From 非洲黑猴子 to Everyone: (7:20 PM)
+ P0基本就是MVP了 
+From Skit to Everyone: (7:23 PM)
+ callback function? 
+From Tekken to Everyone: (7:23 PM)
+ 直接开始接口设计了吗 
+From Alan to Everyone: (7:23 PM)
+ can customer send out and order and payment info, or customer can make an order first and then pay within an hour and payment info, assume payment system 
+From Laoluo to Everyone: (7:25 PM)
+ 比较好奇最近几次好象都是男的出题，女的做题 
+From Erwin to Everyone: (7:25 PM)
+ is non functional requirements skipped for this one? 
+From Sun Anna to Everyone: (7:25 PM)
+ +1 where is the non functional requires? 
+From Jackie G to Everyone: (7:27 PM)
+ Sorry, What is “item”? 
+From Skit to Everyone: (7:28 PM)
+ i think she meant ticket "name" or description 
+From YL to Everyone: (7:28 PM)
+ 每一次order都要更新所有的ticket吗？ 
+From Yanbin Li to Everyone: (7:28 PM)
+ 请问这个ticket系统是卖什么票的，这个聊了吗 
+From Richard Tu to Everyone: (7:29 PM)
+ 同问，这个不用考虑什么座位号之类的吗 
+From bill.wang to Everyone: (7:29 PM)
+ TicketMaster--mostly they are concert tickets 
+From YL to Everyone: (7:29 PM)
+ 所有ticket都是一样的 
+From Erwin to Everyone: (7:29 PM)
+ seat num should be needed in tickermaster so that user could select the seat they want 
+From Richard Tu to Everyone: (7:30 PM)
+ 从我角度，应该有个event之类的 event table mapping multiple tickets 
+From anna to Everyone: (7:30 PM)
+ 求问个题外话，这是什么画图软件？ 感觉好好用，拖拉拽超级方便 
+From YL to Everyone: (7:30 PM)
+ 感觉可以考虑成音乐节的门票之类的，都站票 
+From Tekken to Everyone: (7:30 PM)
+ 需求分析后 直接跳到接口设计 这时候面试官是不是控场一下更好 资源预估 Data Flow, Service讨论 系统设计图 这些都是要先于接口设计做吧 
+From Richard Tu to Everyone: (7:31 PM)
+ 可以是可以，但是requirement有说过吗，是我miss了什么需求吗 针对 > 感觉可以考虑成音乐节的门票之类的，都站票 
+From YL to Everyone: (7:32 PM)
+ 所有ticket没有分级，都是一样的 
+From iPad to Everyone: (7:32 PM)
+ Requirement说all tickets are the same，是不是就是说的是没有座位的分别啊 
+From Erwin to Everyone: (7:32 PM)
+ I bought tickets from Ticketmaster and there are different types of tickets for one event 
+From Yanbin Li to Everyone: (7:32 PM)
+ 需求分析后做API design没啥问题吧，我理解首先通过API design明确你的service提供什么服务，后面才好设计为了提供这些服务怎么设计数据模型和系统架构 
+From Jilong Chen to Everyone: (7:32 PM)
+ User table should include credit card or other payment methods 
+From Christie to Everyone: (7:32 PM)
+ Ticket service, order service 分别在哪呀 
+From Yufei Qian to Everyone: (7:33 PM)
+ QPS, TPS分析了吗 
+From 非洲黑猴子 to Everyone: (7:33 PM)
+ 应该是后面的数据库表不一样，一个是ticket另一个是order 
+From Christie to Everyone: (7:34 PM)
+ 謝謝！ 
+From Yufei Qian to Everyone: (7:34 PM)
+ 这么多User直接hit relational会击穿吧 
+From YL to Everyone: (7:34 PM)
+ ACID优先 
+From Erwin to Everyone: (7:35 PM)
+ where do we store payment related info? 
+From 非洲黑猴子 to Everyone: (7:35 PM)
+ 看怎么设计了，设计好了不会击穿，多拿流量都能给你扛下来 
+From Yufei Qian to Everyone: (7:35 PM)
+ 目前的设计没有cache 
+From renyuming to Everyone: (7:37 PM)
+ cache一个需要考虑的是时效性 
+From YL to Everyone: (7:38 PM)
+ 这里加cache的话应该存啥， available ticket？ 
+From ds awsome to Everyone: (7:38 PM)
+ 10m user ～ 100 qps，这样一台server就够了吧 
+From Richard Tu to Everyone: (7:38 PM)
+ 所以这个设计，是更偏向秒杀？ 10m qps? 
+From ds awsome to Everyone: (7:38 PM)
+ 是不是根本不用分布式系统啊 
+From 非洲黑猴子 to Everyone: (7:38 PM)
+ 先看面试官咋说 
+From Shihao Zhong to Everyone: (7:38 PM)
+ 10m user应该是都在一个时间左右买票，所以可能qps要10m 吧 
+From H.B. to Everyone: (7:38 PM)
+ 一定要保证用户看到的ticket 数量是最新的？ 
+From Erwin to Everyone: (7:38 PM)
+ have we discussed peak qps before? 
+From Shihao Zhong to Everyone: (7:38 PM)
+ 10m 不是平均的啊， 
+From 非洲黑猴子 to Everyone: (7:39 PM)
+ 用户一定看到最新的，但是下单的时候一定是检查最新的 
+From leo zhang to Everyone: (7:39 PM)
+ 10m user如何推出 100 qps的? 这是秒杀10m 不是dau 
+From 非洲黑猴子 to Everyone: (7:39 PM)
+ 用户不一定看到最新的，但是下单的时候一定是检查最新的 
+From Laoluo to Everyone: (7:40 PM)
+ SQL应该可以的，Cache或读写分离 
+From Erwin to Everyone: (7:40 PM)
+ also each ticket should have a uuid? so that we could refer to the payment/user related info? 
+From v to Everyone: (7:40 PM)
+ 就算用了redis 还是有100k的qps？ 
+From 非洲黑猴子 to Everyone: (7:40 PM)
+ Reds支持秒级10万并发 
+From v to Everyone: (7:41 PM)
+ 就算用了redis 还是会有100k的qps到mysql 因为有100k的票 
+From ds awsome to Everyone: (7:41 PM)
+ 要是10m秒杀，那至少要10个 redis？ 
+From Shihao Zhong to Everyone: (7:41 PM)
+ 你可以一次发n张票到redis啊 redis不是有原子操作么 
+From iPad to Everyone: (7:41 PM)
+ 一开始都没想到这是个flash sale的题目 
+From renyuming to Everyone: (7:41 PM)
+ redis有cluster也是可以scale up的 到mysql的100K需要shard ticket了 
+From 非洲黑猴子 to Everyone: (7:42 PM)
+ 看了不一定买，写请求怎么处理且看面试者怎么设计 
+From renyuming to Everyone: (7:42 PM)
+ 每一张ticket都应该是一个record 
+From ds awsome to Everyone: (7:42 PM)
+ 那这个scale mysql撑不住吧 
+From iPad to Everyone: (7:42 PM)
+ 现在的设计怎么防止超卖呢？ 
+From renyuming to Everyone: (7:42 PM)
+ redis在前面挡着 每张ticket也会有write lock吧 
+From 非洲黑猴子 to Everyone: (7:42 PM)
+ 锁定库存 
+From Richard Tu to Everyone: (7:43 PM)
+ 至少得加个mq，异步吧 
+From v to Everyone: (7:43 PM)
+ Total quantity可以分开维护么。。这样就不用每次query 数据库来算count了？ 
+From Richard Tu to Everyone: (7:43 PM)
+ 削峰限流 
+From Jerry to Everyone: (7:43 PM)
+ 要到最后成功支付成功或者取消才算确认吧 
+From Alan to Everyone: (7:43 PM)
+ 双十一抢购 
+From renyuming to Everyone: (7:44 PM)
+ 支付和book感觉可以分成两部分，book之后有一定时间去pay 
+From Christie to Everyone: (7:44 PM)
+ 是不是可以先放 MQ ，payment 成功才更新 available_quantity? 
+From renyuming to Everyone: (7:44 PM)
+ 因为pay一般做不到ms级 
+From ds awsome to Everyone: (7:44 PM)
+ Redis的性能是每秒10万 还是1M啊？ 
+From 非洲黑猴子 to Everyone: (7:44 PM)
+ 阿里自己二开了MySQL，增加了写请求排队功能 
+From renyuming to Everyone: (7:44 PM)
+ available_quantity 我感觉可以直接用redis + lua，只跟book相关，不跟pay相关 
+From v to Everyone: (7:45 PM)
+ 这个设计会有thundering herd吧 
+From renyuming to Everyone: (7:45 PM)
+ 也只保存quantity 不是加了mq？ 
+From Jerry to Everyone: (7:46 PM)
+ pay的过程中要锁定这部分库存吧但是要加个time out 
+From Yufei Qian to Everyone: (7:46 PM)
+ thundering herd无法避免，traffic pattern就是这样，需要设计去handle 
+From Shihao Zhong to Everyone: (7:47 PM)
+ 为什么会有thundering herd，没有理解 
+From Laoluo to Everyone: (7:47 PM)
+ 掉坑里了 
+From YL to Everyone: (7:47 PM)
+ 1s就抢没了 
+From Christie to Everyone: (7:47 PM)
+ 10 sec 東西賣光了 
+From leo zhang to Everyone: (7:47 PM)
+ 抢票不刷新就没了啊 
+From Alan to Everyone: (7:47 PM)
+ request进来是不是要先做order request 然后排队 
+From Alan to Everyone: (7:48 PM)
+ 如果拿到ticket，那就create order 
+From 非洲黑猴子 to Everyone: (7:48 PM)
+ 读的时候读不到最新的没关系，pay的时候不出错就好 
+From Yufei Qian to Everyone: (7:48 PM)
+ 那样用户体验会比较差 
+From Jerry to Everyone: (7:49 PM)
+ 限购的需求是不是还没加 
+From Yufei Qian to Everyone: (7:49 PM)
+ 是的，限购需求没有讨论 
+From Alan to Everyone: (7:49 PM)
+ 每个ticket system 有个cache， ticket先产生，买个ticket 系统分配一定数量ticket在 cache 从cache拿ticket需要synchronous 如果需求不多，应该很快，需求多就要排队，因为synchrounous 
+From tomdi to Everyone: (7:51 PM)
+ payment 和 ticket count update 做一个 transaction 事务， cache write upate只在每个transcation commit之后 
+From Laoluo to Everyone: (7:51 PM)
+ cache里保证所有的ticket不断地减少，不能不变 
+From Alan to Everyone: (7:51 PM)
+ ticket是事先产生的啊 肯定不能做ticket count啊，笑死人 
+From Erwin to Everyone: (7:53 PM)
+ 如果这里ticket service的一个server挂了，有没有什么办法保证这个service对应的tickets可以被其他server利用？ 
+From Alan to Everyone: (7:53 PM)
+ data race是难点 
+From Skit to Everyone: (7:53 PM)
+ ticket先create row,然后book把 
+From tomdi to Everyone: (7:53 PM)
+ cache只读，db transaction update后再 update cache, cache读data可以有滞后 
+From Skit to Everyone: (7:54 PM)
+ 这样不需要count 
+From v to Everyone: (7:54 PM)
+ 用redis的话 如果不写到disk 会有data loss的风险。。。如果写到disk的话 write throughput会很不好吧？ 
+From Ken to Everyone: (7:54 PM)
+ 5 more minutes 
+From H.B. to Everyone: (7:54 PM)
+ 他好像没说啥时候create session ? 
+From Alan to Everyone: (7:54 PM)
+ 有，每个ticket，保存分配到哪个server信息 
+From H.B. to Everyone: (7:54 PM)
+ session 不是一个小时吗 
+From Tekken to Everyone: (7:54 PM)
+ 这是道老题目了 如果事前稍微准备下 油管上能找到很多很成熟的设计方案 
+From Alan to Everyone: (7:54 PM)
+ 如果那个server crash， 他的那些没被order的ticket从新被放回去 
+From leo zhang to Everyone: (7:55 PM)
+ 可能事先不知道题目 
+From YL to Everyone: (7:55 PM)
+ 知道吧 
+From Laoluo to Everyone: (7:56 PM)
+ cache自行减少，不用更新数据库，蛤payment的service来更新ticket 的数量就行了 payment量少很多，cache来读数据做同步 
+From H.B. to Everyone: (7:56 PM)
+ 为了读的块 
+From Kasey to Everyone: (7:57 PM)
+ 为啥不能直接用redis？ 
+From 非洲黑猴子 to Everyone: (7:57 PM)
+ 好几张表要join 
+From H.B. to Everyone: (7:57 PM)
+ 卡住了 
+From Christie to Everyone: (7:57 PM)
+ 所以不用 ticket mysql 的表了？ 
+From Kasey to Everyone: (7:57 PM)
+ 就把所有ticket 存redis里面不行么 
+From Laoluo to Everyone: (7:58 PM)
+ 关键点没有讨论，特别是怎样削峰 
+From Hao to Everyone: (7:58 PM)
+ 问个问题，应该什么时候减库存呢？是pay成功才减库存？ 
+From Kasey to Everyone: (7:58 PM)
+ 肯定吧 
+From Laoluo to Everyone: (7:59 PM)
+ +1 
+From H.B. to Everyone: (7:59 PM)
+ 肯定pay 成功后 
+From Ender Li to Everyone: (7:59 PM)
+ Pay成功才减库存不会超卖吗 
+From wantong jiang to Everyone: (7:59 PM)
+ 这怎么避免超卖呢？ 
+From leo zhang to Everyone: (7:59 PM)
+ 不会啊 
+From tomdi to Everyone: (7:59 PM)
+ pay成功和减库存是一个  transaction 
+From Kasey to Everyone: (7:59 PM)
+ pay成功和失败是两个情况 
+From H.B. to Everyone: (7:59 PM)
+ 你说的库存是mysql里的？ 
+From Zhengguan Li to Everyone: (7:59 PM)
+ pay成功前也可以呃减啊 事先锁定嘛 
+From H.B. to Everyone: (7:59 PM)
+ 还是他说redis里的 
+From leo zhang to Everyone: (7:59 PM)
+ pay的时候检查库存, 放一个tracnsaction 
+From renyuming to Everyone: (8:00 PM)
+ 应该是book就lock库存，之后pay失败了就恢复，pay成功了就减掉了 
+From leo zhang to Everyone: (8:00 PM)
+ order成功没付款还有有风险不能proceeed 
+From Kasey to Everyone: (8:00 PM)
+ 嗯 
+From renyuming to Everyone: (8:00 PM)
+ transaction感觉很慢？ 尤其带3 party的api的？ 
+From lily liu to Everyone: (8:01 PM)
+ order service的时候要减db库存并更新cache了吧，然后payment 成功的时候再调整一次 
+From H.B. to Everyone: (8:01 PM)
+ 312 
+From Zhengguan Li to Everyone: (8:01 PM)
+ 321 
+From Zidong to Everyone: (8:01 PM)
+ 321 
+From 非洲黑猴子 to Everyone: (8:01 PM)
+ 跟钱相关的不得不transaction 
+From Spin to Everyone: (8:01 PM)
+ 132 
+From leo zhang to Everyone: (8:01 PM)
+ 付款 lantency不是最紧急的需求吧? 
+From Yufei Qian to Everyone: (8:01 PM)
+ 132 
+From Simon Z to Everyone: (8:01 PM)
+ 321 
+From david to Everyone: (8:01 PM)
+ 132 
+From Christie to Everyone: (8:01 PM)
+ 312 
+From Jackie G to Everyone: (8:01 PM)
+ 132 
+From leo zhang to Everyone: (8:01 PM)
+ accuracy更重要 
+From Kj to Everyone: (8:01 PM)
+ 312 
+From x to Everyone: (8:01 PM)
+ 312 
+From xinz to Everyone: (8:02 PM)
+ 132 
+From 非洲黑猴子 to Everyone: (8:02 PM)
+ 312 
+From johnc to Everyone: (8:02 PM)
+ 312 
+From Xiaoqin Fu to Everyone: (8:02 PM)
+ 312 
+From Julie Long to Everyone: (8:02 PM)
+ 312 
+From anna to Everyone: (8:02 PM)
+ 132 
+From YL to Everyone: (8:02 PM)
+ 312 
+From Qiang Lu to Everyone: (8:02 PM)
+ 312 
+From HW to Everyone: (8:02 PM)
+ 321 
+From Peiwen Tian to Everyone: (8:02 PM)
+ 312 
+From Xuexin Chen to Everyone: (8:02 PM)
+ 312 
+From Richard Cao to Everyone: (8:02 PM)
+ 312 
+From TBL to Everyone: (8:02 PM)
+ 132 
+From christie Yu to Everyone: (8:02 PM)
+ 312 
+From lily liu to Everyone: (8:02 PM)
+ 132 
+From Ken to Everyone: (8:03 PM)
+ Hard skill 
+From Zhengguan Li to Everyone: (8:03 PM)
+ 312 
+From YL to Everyone: (8:03 PM)
+ 21 
+From christie Yu to Everyone: (8:03 PM)
+ 213 
+From H.B. to Everyone: (8:03 PM)
+ 21 
+From Jackie G to Everyone: (8:03 PM)
+ 213 
+From lining to Everyone: (8:03 PM)
+ 21 
+From Spin to Everyone: (8:03 PM)
+ 21 
+From Mark Liu to Everyone: (8:03 PM)
+ 213 
+From johnc to Everyone: (8:03 PM)
+ 21 
+From Christie to Everyone: (8:03 PM)
+ 21 
+From xinz to Everyone: (8:03 PM)
+ 21 
+From Xiaoqin Fu to Everyone: (8:03 PM)
+ 21 
+From david to Everyone: (8:03 PM)
+ 21 
+From HW to Everyone: (8:03 PM)
+ 21 
+From Shihao Zhong to Everyone: (8:04 PM)
+ 这个3还是没有了解是什么 
+From TBL to Everyone: (8:04 PM)
+ 21 
+From Charlie to Everyone: (8:04 PM)
+ 只发数字顺序看不出那个好坏程度，还是每个指标打分更合适 
+From H.B. to Everyone: (8:05 PM)
+ 嗯嗯我也觉得 每个都给1-5打分 
+From leo zhang to Everyone: (8:07 PM)
+ +1. 
+From H.B. to Everyone: (8:08 PM)
+ 考官？ 
+From Kasey to Everyone: (8:08 PM)
+ 考官哈哈哈 
+From lining to Everyone: (8:08 PM)
+ 😀 
+From Zhengguan Li to Everyone: (8:09 PM)
+ 面试者: 考官竟是我自己..哈哈 
+From Jackie G to Everyone: (8:14 PM)
+ 弱问一下： 如果所有票都一样，为什么还要一张ticket一行呢？直接一行ticket和count不行吗？ 
+From x to Everyone: (8:14 PM)
+ 对，其实面试者说的意思就是只需要一行 
+From Peijin Sun to Everyone: (8:15 PM)
+ Ticket 是不是其实是event 
+From Richard Tu to Everyone: (8:15 PM)
+ 他这个表就是event 稍微有点儿confusing 
+From lining to Everyone: (8:17 PM)
+ 对 
+From Zidong to Everyone: (8:18 PM)
+ 5000个是可以refilll吗 
+From leo zhang to Everyone: (8:19 PM)
+ 限流没问题啊 
+From Zidong to Everyone: (8:19 PM)
+ like 一个buket？ 
+From iPad to Everyone: (8:19 PM)
+ P0: buy ticket, cap = 2 tickets / user, all tickets the same 
+From leo zhang to Everyone: (8:19 PM)
+ 多放点到后面就是 但是限流可能是需要的，因为商品只有这么多 
+From Lu to Everyone: (8:20 PM)
+ 想问下大家知道newSQL吗 听说了这个concept，好像又可以ACID，又可以horizontally scale 
+From leo zhang to Everyone: (8:20 PM)
+ 放10M的流量到后面去没有意义 
+From Shihao Zhong to Everyone: (8:20 PM)
+ 面试用newsql好么。 
+From Lu to Everyone: (8:21 PM)
+ 没试过 😄 
+From Jerry to Everyone: (8:21 PM)
+ 限流的话就是假设每个request只能买一张票 
+From Brave to Everyone: (8:21 PM)
+ 搞个message queue存requests，然后异步处理，异步处理可以merge requests（比如同一类的票可以合并）避免访问太多次数据库 
+From Jerry to Everyone: (8:21 PM)
+ 多张票要多个requests吗 
+From Richard Tu to Everyone: (8:21 PM)
+ 用呗，别说什么newSQL，提具体的db名字 
+From Lu to Everyone: (8:21 PM)
+ Google Spanner？ 
+From leo zhang to Everyone: (8:22 PM)
+ 10 M限制成 120k的流量, 这就是huge win 
+From Jerry to Everyone: (8:22 PM)
+ 那面试者的POST url就不能有number_items了吧 
+From Shihao Zhong to Everyone: (8:22 PM)
+ 贵啊 
+From Jackie G to Everyone: (8:23 PM)
+ Redis 的replication支持strong consistency吗？还是eventual consistency？ 
+From Jerry to Everyone: (8:23 PM)
+ Redis 有AOF log恢复 不过这题redis好像不需要恢复 数据库重读更新就可以吧 
+From Lu to Everyone: (8:25 PM)
+ 同意 直接cache在API GATEWAY… 
+From leo zhang to Everyone: (8:27 PM)
+ 写120K /hour 只要前面filter了, 后面写不是问题 
+From Zhengguan Li to Everyone: (8:30 PM)
+ redis可以设置一个timeout? 
+From leo zhang to Everyone: (8:30 PM)
+ MQ有 exact-once sementic 跟consumer配合 
+From Ender Li to Everyone: (8:32 PM)
+ 那对redis的-1操作必须要锁redis是吗？那每次只有一个人可以update redis，这个不会成为性能瓶颈吗 
+From Shihao Zhong to Everyone: (8:32 PM)
+ redis有cas 原子操作 不会成为瓶颈这里 
+From Sean Gao to Everyone: (8:33 PM)
+ CAS 能包括 send to Kafka 么 ？ 
+From Sean Gao to Everyone: (8:33 PM)
+ 或者 CAS 包括 persistence 步骤 ？ 
+From Brave to Everyone: (8:35 PM)
+ 春节买火车票就是在那排队 
+From Ender Li to Everyone: (8:36 PM)
+ CAS不就是说大量并发去更新redis只有一个会成功，其他都需要重试吗？因为别的old value都不对，更新会失败，是吗？ 
+From Sean Gao to Everyone: (8:36 PM)
+ @ender  redis全内存操作， 性能损失不大 。 也不是完全lock，是 CAS。 
+From hobite to Everyone: (8:36 PM)
+ 输入完信用卡信息，商家完成与银行间的认证，用户点submit 的瞬间，update 
+From Mark Liu to Everyone: (8:37 PM)
+ 不对吧，Payment按照12306会给你20分钟左右的操作 Payment在20分钟内不成功，才会失败吧 
+From hobite to Everyone: (8:38 PM)
+ comit redis， 同时send payment and clean up task to queue. 这也涉及到如果放到queue里的期望，就是我们expect 送到queue里的task会99.9%的可能性成功，除非系统崩溃。 
+From Sean Gao to Everyone: (8:39 PM)
+ “comit redis， 同时send payment and clean up task to queue.” -- 这个是能全部放入 transacation么 ？ 
+From hobite to Everyone: (8:40 PM)
+ 另外一个solution, 是用户在query的时候锁住一个seat，submit的时候update或者release lock 另外一个用户在lock的期间默认这个seat不available 
+From Jerry to Everyone: (8:43 PM)
+ redis的数据定期去db里同步更新可以吗 
