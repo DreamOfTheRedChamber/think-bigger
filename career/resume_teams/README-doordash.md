@@ -13,11 +13,12 @@
       - [Go to the details](#go-to-the-details)
     - [My answer](#my-answer-1)
   - [A failure experience](#a-failure-experience)
+    - [Tips](#tips-2)
     - [My answer](#my-answer-2)
   - [Conflict management](#conflict-management)
     - [Goal](#goal-1)
     - [Patterns](#patterns)
-    - [Example](#example)
+    - [My answer](#my-answer-3)
   - [Leadership](#leadership)
   - [Ownership / Responsibility](#ownership--responsibility)
 
@@ -64,6 +65,7 @@
   * We delivered this feature within the given timeline, implemented it in a way easy for other teams to adopt, and have all the tradeoffs documented really well for future review and adoption. 
 
 ## A failure experience
+### Tips
 * Template:
   * Not perfect in the beginning. Cannot foresee the risk and dependencies of the project. 
   * In the end, 
@@ -100,12 +102,12 @@
   * Too concerned about your own needs 
   * Emotional
 
-### Example
-* Want to build a new system but there isn't much resource from manager. 
-* Gather all stakeholders and have a summit on this project. 
-  * Scope
-  * Empathy
-  * Core values - Cost aware
+### My answer
+* Situation: Our team is building a org level reusable shared libraries. While I work on the library migration project, I propose that we put the reusable components inside shared libraries so all other teams could reuse it. However, my manager said that there were not much resource, and would prefer not to invest too much into this project. 
+* Action: 
+  * I first synced with my manager / PM to make sure that I understood their priorities in the coming quarter, and who are the stakeholders for these incoming features. 
+  * Then I held a discussion for partner teams who will probably use my package if I did it in a reusable way, and understand how much they will benefit from this. 
+  * Next I hold a meeting with my manager and PM, demonstrating how much more influence we could make if we could make if we switch one project in the coming quarter. 
 
 ## Leadership
 * Process
