@@ -2,6 +2,7 @@
 - [Cassandra](#cassandra)
   - [Multi-User chat room](#multi-user-chat-room)
   - [Ticket master](#ticket-master)
+  - [Calendar](#calendar)
 
 # Behavior
  请问亚麻recruiter嘉宾，能给个内推吗？感谢  running away what?  要慎用“running away from bad things” 吧  听众能不能mute一下  哪个老铁 mute一下啊😯  Rong Yao  弹琴的可以mu一下吗  🙏  就是可以你来我往的感觉吧  Would you please give an example of a bar raising answer example?  主持人可以先全部过一遍slice吗？而不是自己的follow up，这样子大家可以有个全局观，谢谢  money incentive 可以搞笑的方式带过 diversity and inclusion 的话题怎么回答  我就怕我吹大劲儿  我也是  一定要提team work project 嗎？還是個人開發的也可以  Frank, thank you very much! I appreciate it!  吹牛就没输过  个人开发可以，看你怎么讲了。比如说你参加solo hackathon，赢了，就很牛逼了  所以做政府项目的要怎么描述  謝謝  Q: 对于刚毕业的学生，这些话题大部分都没有经历，HR或者recruiter如果面试NG， BQ questions他们应该会怎么问呢？ 还是按部就班的念稿吗，对于NG怎么准备BQ？因为没有工作经验，这些问题大部分都没有体会  project或者side project的经验，都可以讲  NG 可以说school project，里面也涉及到collaboration、communication 哇  这种学校的东西和在工作中，完全不一样 非要硬往上帖，只能编了  实在不行参加一些hackathon吧，很真实的团队合作了，大部分hackathon 36-48小时。构思，分工，熬夜，meet deadline，pitching。等于是压缩了一个季度的工作  能举个例子吗 什么叫complex  嗯嗯 同问  Paul 说到点子上了！  Paul刚才说啥来着？ 错过了  谢谢 Paul 补充！  16 Leadership now!  Shopify的特有吧  Paul说尽量选一个大的project，能说明你的实力的，方便评级更高  Project dive deep 是主要考察技术能力吧  感谢ganxie  可以讲完slide再一起提问吗  今天有录像吗  搞过sev0 算不算 厉害厉害  可以说 没有mistake吗？说了 会很尴尬吗 ：）  如果sev0 不是你写出来的话  会  没有mistake不太真实  blame game is on  就说会尴尬么。。。这么答就挂了？ 有人这样回答我的，我选择没挂他这一题。。。  这个故事好，背下来 这个故事要强调tech context吗？  这样来说， 总体 来说， 感觉我们就会招进来 差不多的人 突然想 艺术类 面试 ，越奇葩，越个性 越好  晚了，已经背下来了。  能讲一下例子吗 fail的例子  晚了，背完了已经  不能背啥啊  没人能crash我， 算法可以。  不怕 找人多mock！ hoho  戳中了说的就是我  晚了，已经背了。  上司的话需要analyze 但是你的customer 不管说什么必须要听  例子太好了，深深印入了脑海里  只有魔法才能打败魔法  晚了，已经背下来了。  这样会不会显得manager很笨  你可以编一下，说是隔壁组的manager  同问 感觉manager听到能挣钱很难会block你  跟直接manager有conflict不太合适  正常人早就同意了 你还和我争  对啊  有conflict一般都是 clarity不够，有个人没有拿到所有信息  话说面试官是中国人的话是好事吗  解释一下就行了，但是这样没scope啊。还是之前的故事好。 都背下来背下来  "有conflict一般都是 clarity不够，有个人没有拿到所有信息"
@@ -1563,3 +1564,46 @@ From hobite to Everyone: (8:40 PM)
  另外一个solution, 是用户在query的时候锁住一个seat，submit的时候update或者release lock 另外一个用户在lock的期间默认这个seat不available 
 From Jerry to Everyone: (8:43 PM)
  redis的数据定期去db里同步更新可以吗 
+
+## Calendar
+ https://docs.google.com/document/d/1Zod6Cz0-KGJ-BDeZJoqEFrMQ4sdsSiJ-qT8Jkegwd-I/edit# Meeting notes: https://docs.google.com/document/d/1Zod6Cz0-KGJ-BDeZJoqEFrMQ4sdsSiJ-qT8Jkegwd-I/edit# For friends who just joined zoom: Meeting notes: https://docs.google.com/document/d/1Zod6Cz0-KGJ-BDeZJoqEFrMQ4sdsSiJ-qT8Jkegwd-I/edit#  For friends who just joined zoom: Meeting notes: https://docs.google.com/document/d/1Zod6Cz0-KGJ-BDeZJoqEFrMQ4sdsSiJ-qT8Jkegwd-I/edit#  For friends who just joined zoom:  Interview will take 45 minutes: 6:15-7pm PST Meeting notes: https://docs.google.com/document/d/1Zod6Cz0-KGJ-BDeZJoqEFrMQ4sdsSiJ-qT8Jkegwd-I/edit#  已经30min了  For friends who just joined zoom:  Interview will take 45 minutes: 6:15-7pm PST Meeting notes: https://docs.google.com/document/d/1Zod6Cz0-KGJ-BDeZJoqEFrMQ4sdsSiJ-qT8Jkegwd-I/edit#  Are User and Calendar in one-to-one relationship?  based on the requirement, no ^  Thanks  Does the event attendance status need to be consistent? Eg user A updates yes, is it OK to sometimes get the incorrect status?  eventual consistency should be ok  Stupid idea, please critique:  When the read requests exceeds the number that a SQL server can handle. Can we split out read request to read -pnly replica instead of using a cache? Read-only*  of course yes  这是mvcc的问题，用sql的话是可以保证strongconsistency, read要么读到 A update之前的status，要么读到 A update之后的status, 取决于read的time stamp是在write commit之前还是write commit之后  客户端到现在还闲着呢，最近的事件可以缓存在客户端，可以有效减小服务端的读取压力  这里是不是会涉及 跨shard join 的问题？ 有没有什么指导原则 ？  我是觉得这个东西对一致性要求没那么高，应该问题不大 话说是不是到时间了，今天是45分钟来着？  有道理  Yes. Time is up now.  Consistency guarantees depend on which part of calendar - updating attendance might be OK with eventual but event privacy (public vs private) likely needs strong consistency.  Score比之前只打相对分的靠谱多了  稍等，投票再哪？  Where is the poll?  弹出来的  没看到  where is the poll?  没有  有看到pop up  No pop-up for me  Could you send one more time?  zoom这里是不是用的 eventual consistency....  ...  strong consistency是sql免费送的，NoSQL要考虑consistency的问题  用量的大的时候 这个就得考虑k/v storage，像 aggregation event的 join costing 就大太多了，所以SQL最好就别用了，Shard的时候我觉得Shard key 也是应该根据 event time 来做indexing  👍  1. Requirement gathering - meets  1 requirement gathering: exceed, meet, needs  1m  1 meet  2.needs  2n  n  2 n  2n  看见poll应该要升级zoom 客户端  3m  3m  3n  3m  3m  3 n  3n  看不到，被盖住了  看不到  看不到  ok  可以  ok  要不用一個poll master 做？ https://doodle.com/poll-maker  好像hard skill target L5  不一定吧  热数据相当于cache？  冷库不是还要做sharding  interview summary google doc的链接能再分享一下嘛  应该还是要做sharding  冷库也可以不走cache  Meeting notes: https://docs.google.com/document/d/1Zod6Cz0-KGJ-BDeZJoqEFrMQ4sdsSiJ-qT8Jkegwd-I/edit# 
+From Eric Che to Everyone: (7:25 PM)
+ 引用kafka？ 
+From Xinyu Zhang to Everyone: (7:26 PM)
+ shedule紧急meeting前几秒钟 延迟几秒 嗯。。 
+From Sean Gao to Everyone: (7:26 PM)
+ 小概率 
+From Richard Tu to Everyone: (7:27 PM)
+ ^sheculde meeting 几秒，这概率也太小了。那就完全可以用另一套workflow了 
+From Xinyu Zhang to Everyone: (7:28 PM)
+ 假如发一个invent, 邀请了全公司所有人，每个人点accept或者propose to new time都算修改么？ sorry, invite* 
+From Cheng Jing to Everyone: (7:29 PM)
+ 算修改吧 
+From Xinyu Zhang to Everyone: (7:29 PM)
+ 那CEO给全公司发一个，那修改量不小啊 
+From Sean Gao to Everyone: (7:29 PM)
+ batch 处理 write request，应该还好吧 
+From Xinyu Zhang to Everyone: (7:30 PM)
+ 恩恩 
+From Quan to Everyone: (7:30 PM)
+ 为什么1million的用户，有10 million的calendar 
+From Cheng Jing to Everyone: (7:30 PM)
+ 倒是不用都在同一个时间发invite，我觉得 
+From Sean Gao to Everyone: (7:30 PM)
+ 不过我也不懂， 1个 sql 改1000行， 和 1000个 sql 每个改一行，性能差别多大？ 
+From Richard Tu to Everyone: (7:31 PM)
+ accept我觉得不能算update吧？至少不会update event本身 
+From Xinyu Zhang to Everyone: (7:31 PM)
+ 对了 好奇 有必要设计calendar table么？ 直接用event table可以么？ 
+From Sean Gao to Everyone: (7:31 PM)
+ accept算吧，因为你以后还能读出来。  应该是 update 的 是  user 和 event 的 relation。 
+From Richard Tu to Everyone: (7:32 PM)
+ 那relation的表，key肯定不一样，所以应该不会造成hot key 
+From Sean Gao to Everyone: (7:33 PM)
+ 对的，不是只对着一个 event写。 如果 NoSQL 可能就不一样了。  也许用 redis ？ 
+From Zoom user to Everyone: (7:34 PM)
+ 1000 sql written in 1 batch vs 1000 sql transactions are the same from consistency guarantee perspective. But I wonder if there's perf overhead due to locks 
+From Xinyu Zhang to Everyone: (7:36 PM)
+ 感觉sql这里有很多优点， 但这个 data structure 是一定是定死的么 
+From Eric Che to Everyone: (7:42 PM)
+ 不能当做是一个event来看待吗？ 
