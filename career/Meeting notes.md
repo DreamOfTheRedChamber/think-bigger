@@ -3,6 +3,7 @@
   - [Multi-User chat room](#multi-user-chat-room)
   - [Ticket master](#ticket-master)
   - [Calendar](#calendar)
+  - [TopK](#topk)
 
 # Behavior
  请问亚麻recruiter嘉宾，能给个内推吗？感谢  running away what?  要慎用“running away from bad things” 吧  听众能不能mute一下  哪个老铁 mute一下啊😯  Rong Yao  弹琴的可以mu一下吗  🙏  就是可以你来我往的感觉吧  Would you please give an example of a bar raising answer example?  主持人可以先全部过一遍slice吗？而不是自己的follow up，这样子大家可以有个全局观，谢谢  money incentive 可以搞笑的方式带过 diversity and inclusion 的话题怎么回答  我就怕我吹大劲儿  我也是  一定要提team work project 嗎？還是個人開發的也可以  Frank, thank you very much! I appreciate it!  吹牛就没输过  个人开发可以，看你怎么讲了。比如说你参加solo hackathon，赢了，就很牛逼了  所以做政府项目的要怎么描述  謝謝  Q: 对于刚毕业的学生，这些话题大部分都没有经历，HR或者recruiter如果面试NG， BQ questions他们应该会怎么问呢？ 还是按部就班的念稿吗，对于NG怎么准备BQ？因为没有工作经验，这些问题大部分都没有体会  project或者side project的经验，都可以讲  NG 可以说school project，里面也涉及到collaboration、communication 哇  这种学校的东西和在工作中，完全不一样 非要硬往上帖，只能编了  实在不行参加一些hackathon吧，很真实的团队合作了，大部分hackathon 36-48小时。构思，分工，熬夜，meet deadline，pitching。等于是压缩了一个季度的工作  能举个例子吗 什么叫complex  嗯嗯 同问  Paul 说到点子上了！  Paul刚才说啥来着？ 错过了  谢谢 Paul 补充！  16 Leadership now!  Shopify的特有吧  Paul说尽量选一个大的project，能说明你的实力的，方便评级更高  Project dive deep 是主要考察技术能力吧  感谢ganxie  可以讲完slide再一起提问吗  今天有录像吗  搞过sev0 算不算 厉害厉害  可以说 没有mistake吗？说了 会很尴尬吗 ：）  如果sev0 不是你写出来的话  会  没有mistake不太真实  blame game is on  就说会尴尬么。。。这么答就挂了？ 有人这样回答我的，我选择没挂他这一题。。。  这个故事好，背下来 这个故事要强调tech context吗？  这样来说， 总体 来说， 感觉我们就会招进来 差不多的人 突然想 艺术类 面试 ，越奇葩，越个性 越好  晚了，已经背下来了。  能讲一下例子吗 fail的例子  晚了，背完了已经  不能背啥啊  没人能crash我， 算法可以。  不怕 找人多mock！ hoho  戳中了说的就是我  晚了，已经背了。  上司的话需要analyze 但是你的customer 不管说什么必须要听  例子太好了，深深印入了脑海里  只有魔法才能打败魔法  晚了，已经背下来了。  这样会不会显得manager很笨  你可以编一下，说是隔壁组的manager  同问 感觉manager听到能挣钱很难会block你  跟直接manager有conflict不太合适  正常人早就同意了 你还和我争  对啊  有conflict一般都是 clarity不够，有个人没有拿到所有信息  话说面试官是中国人的话是好事吗  解释一下就行了，但是这样没scope啊。还是之前的故事好。 都背下来背下来  "有conflict一般都是 clarity不够，有个人没有拿到所有信息"
@@ -1607,3 +1608,56 @@ From Xinyu Zhang to Everyone: (7:36 PM)
  感觉sql这里有很多优点， 但这个 data structure 是一定是定死的么 
 From Eric Che to Everyone: (7:42 PM)
  不能当做是一个event来看待吗？ 
+
+## TopK
+ https://docs.google.com/document/d/1YYrcTZ5Spbz2gauu-U8PgZLv7bsQuH69kml8cY3hO38/edit  high availability是指时间上的概念（i.e. 24/7 available）还是multiplatform？  24/7  high availability是service  availability吧？ 500ms 不算low latency了吧？  这里的low latency是啥意思。。。 一个trending service关心的不都是real time的trending吗。。 不懂这个low latency在这干嘛的。。。 模版吗。。  好像所有的面试回答第一条都是high availability,然后就没有下文了，就是保证server 24/7运行 + backup server in case primary server failure?  感觉从头到尾都是模板  这几个term好像都是模板  感觉design还没开始  打开YouTube之后需要加载五秒钟还是挺影响体验的  是0.5s吧？  开始了喊我  0.5s  我的意思是这道题low latency还是很有必要的  Target是l4 大牛们稍安勿躁  请教一下： high available和fault-tolerent是不是重复的概念？  estimation这里是不是时间花太多了  我觉得是 保证server不断电  low latency是 get topk的时候 快速返回 还是说 我的last 24 hrs trending是 real time的 还是 有1-2 小时延迟。。  后者是consistency吧  这种情况design一个function in existing system，我们是不是需要先问问什么已经有了  low latency是 get top的时候 快速返回  fault tolerance  = high availability + proper failure handling  谢谢  同意 我觉得是不是能assume已经有了一个counting system  感觉模板不好用了 连观众都不买帐了  我感觉，last 24hrs trending，经常可以延迟产生的
+我觉得没人会关心这个trending是不是实时刷新  500ms不是low latency了吧  500ms 也能算low吧。  500ms对这个top k应该够了，个人意见吧  I see  感觉500ms有点卡  对于YouTube是有点卡，哈哈  100m的 dau 然后每个人的点击都会影响trending。。 如何收集 咋收集。。都是个问题 😂  无所谓了，你说500ms，100ms最后design出来不都是一套系统。。  24hours trending看你用batch还是streaming processing, 一般5到10分钟的delay是可以实现的  其实没有必要在意这些细节，毕竟这只是设计，不是实现  trending不用实时更改，观众不会那么关心试试更改Trending  其实我一直没搞懂traffic estimate的意义在哪里  这个时间安排45分钟不够了吧  traffic estimation是grokking模版里，我个人认为性价比最低的part，聊胜于无  没有意义，只要问一下每秒有多少个view就行了  traffic estimation是grokking模版里，我个人认为性价比最低的part，聊胜于无
+
+同意  大家面试会跳过么？  还行dau开始算，没必要 traffic estimation是grokking模版里，我个人认为性价比最低的part，聊胜于无
+
+同意‘  所以面试的时候 如果考官没有提，是不是可以直接略过这个traffic estimation? 不会成为扣分点吧？  有大神指导我说，traffix estimation的一个意义是：
+选择哪种数据库，是选择sql或nosql  我个人，一般traffic大概估算一下，还有storage那块，主要是数据库怎么设计  .... 爲啥traffic 和 db選擇 有關係啊  estimation 3-5分钟快速搞完？  完全沒有關聯啊  求细节，怎么个估算法？怎么选数据库？  不会真的有面试官期望你设计一个not distributed system吧  数据多就NoSQL？  看 read 和 write的啊 怎麽可能是看traffic  视频基数到底多大 才是top k的基本问题吧。。 nlogk 你好歹要知道n是多少呀。。 难不成30亿的n吗。。  事务多就SQL?  对，是Read write  怎么看read write选数据库？  这里的count min是count min sketch吗  簡直了  嗯，事物也是  誰亂講的  哪种数据库不能read  write呢？  重点是ratio  去看ddia  streaming system 都有log的，如果从existing system开始讲， 可能会容易点  lol ddia万能啊 面试时候我也这么说  哈哈，我瞎讲，多半我就记得不对  我感覺top video 可以用 url在 redis 存 你想想disk IO，write heavy 做sql 刺激嗎？ schema on write 的時候用sql 是什麽體驗  payment service: ??  所以如果用NoSQL会比较好嘛  不用sql用啥  如果能用的话  选择NoSQL的原因是什么？  如果做olap，用 NoSQL 的 join 是不是很刺激  因为别人都说用nosql，所以大部分人选了nosql  讲道理，你distributed sql的join和nosql join有什么区别。。  Count-min 中间插个storage是干什么用的。  data collection phase -》 data calculation phase -〉 result read phase。。 这道题是想考的到底是哪几个？  NoSQL写的快，但是无法join，事务性也比较难
+
+sql最容易，最好用，但不能handle那么多write  “这里的count min是count min sketch吗” - count min sketch一般用来统计频率，unique topk一般用hyperloglog  👍  只要sql shard出现，就跟joint没啥关系了  东欧大哥的topK用的count min sketch  东欧大哥，哈哈哈  东欧大哥是？ LOL  youtuber  东欧大哥是？  请教Chanel名字 谢谢  Shouldn’t we have a data schema, then API?  這個 fast processors Count-Min 我看不懂  https://www.youtube.com/watch?v=kx-XDoPjoHw  那是top K的频率 而不是view count,否则数学上推到不了  谢谢楼上 有点像伯恩 LOL  我最近看了一篇google napa data warehousing的paper。主要就是根据不同时间片段来分级aggregate。感觉能用在topK的case。http://vldb.org/pvldb/vol14/p2986-sankaranarayanan.pdf  fast processors是什么，是个service吗？  data warehouse，就不是实时了吧  5 mins is a good choice  我看里面ingestion是可以streaming进来的，应该可以保证个near-realtime  Napa supports database freshness of near-real time to a few hours 小时级别是不是不大够用  这5 mins的 设计不cover很多corner case吧  Schema感觉又问题，应该存frequency吧  trending这种那就1 min 更新一次？ micro batch应该也行  我感觉B站大概30s一次？  real time那更好了 这个distributed MQ 是干啥的  Update latest view  奥，makes sense  这个也需要设计吗？existing system不就有吗  这在东欧大哥视频里是重点  只有fast的吗？  求个东欧大哥的link 我去听听正确答案睡觉去了  https://www.youtube.com/watch?v=kx-XDoPjoHw  感谢女神  我一直以为他是毛子  帮我留个feedback，感谢。1. load estimate 时间太长了 后面也没用到 2.面试加油。  這也是我的問題 到底這是count 啥，爲啥是 min  Count-min要花点时间解释的  面试环境和自己想还是不一样的。林老师已经给了很多hint了，但面试的人太紧张就会get不到。也许换一个环境他就会说的很好，但面试的时候难说了。  L4不用考system design，能做到这样，我觉得可以了  只是谷歌不考而已  只是google不考吧，别的公司还考呢  时间真快，45min了  amazon L4 SD不考  Amzn L4 = Google L5 Sry  反了哥  這個接近L5 水品了  Amzn L4 = Google L3  這已經很厲害了  一般这个群备注的等级，都是按google来的  我觉得这题应该有个MR的solution吧？？  我面某家公司，就给的是spark solution  MR是啥  map reduce  地图-降低  这题跟collect metric的区别在哪里  Which one is for senior level, L4 or L5 ?  https://docs.google.com/document/d/1YYrcTZ5Spbz2gauu-U8PgZLv7bsQuH69kml8cY3hO38/edit#  如何体现project lifecycle awareness?  加monitoring?  metrics? 怎么evaluate project lifecycle awareness?  如何iterate project ?  系统不可能3个月就做完了是吧  alarm metrics  agree  @Ken林老师待会儿可以讲讲project awareness 吗  能给个例子么？怎么计算机器数量？  怎么根据qps估算机器数量？有公式吗？  dau --> qps --> 根据一台机器的qps处理能力，来估计需要几台机器  1000 qps你就算一台 一般都没问题  所以要背mongoDB, Cassandra的throughput？ 太卷了吧  这个只是算的web server吧  nosql 10k tps ， sql 1k tps ， memory 100k 不需额外背吧  1000 QPS is a lambda, 一台机大概50000  ‘1000 qps你就算一台’多大RAM?几个Core?  Kafka, SQS?  你真的要把时间放在 machine几个core上吗。。。  我刚才没听见fast processor是run在什么东西上的  直接说 10k qps 我给30台机器你觉得行吗；； 没人会纠结这个的。。 没人会卡你这个 给你ram 给你core然后让你算他的capability。。  我没听明白他这个是怎么calculate top K viewed videos  这个design真的是workable的吗。。  cross team dependency 
+handling unusal spike of traffic 
+scale up  read flow没有讲过  这种情况下面试官会期望答案跟组里一致么  能走一个case吗。。 就是他如何读topk的？ YouTube有30亿个video 假设1个亿的video 在过去5分钟被人view过。。 nlogk的n是1个亿啊。咋store 咋sort。 
+From Liang Tan to Everyone: (8:24 PM)
+ 请教一下如果用了MR了, 这里的 MQ 还是需要的嘛， 是不是放在GFS上就行了。 
+From Zhao to Everyone: (8:28 PM)
+ Batch处理可以直接读log file，结果会比较准确。实时的request话不需要每一个都处理，可以做一下sampling，比如从1亿个request降到1M，然后接一个queue来处理 
+From Weizhe Liang to Everyone: (8:29 PM)
+ 也有道理 多一個queue 去reduce queue 的話會好做點 
+From bambloo to Everyone: (8:33 PM)
+ LRU 
+From Zhao to Everyone: (8:34 PM)
+ redes 
+From bambloo to Everyone: (8:34 PM)
+ 可不可以用LFU？ 
+From ningdi to Everyone: (8:36 PM)
+ 终于有人问这个了。。 
+From Spin to Everyone: (8:36 PM)
+ 这样没法防刷单吧？ 
+From ningdi to Everyone: (8:36 PM)
+ Sampling 确实是个解决办法。。。 能大量减少unique id 只有一个1 view 
+From james to Everyone: (8:41 PM)
+ Mongo DB seems a good choice 
+From Zhao to Everyone: (8:42 PM)
+ 我觉得DB里可以分级存，比如daily数据可以留365的，一天，hourly的留24*30的，5min的留一周的，这样无论你要什么granularity 都能满足 
+From admin to Everyone: (8:42 PM)
+ 离线+实时计算  hive+flink 
+From james to Everyone: (8:42 PM)
+ Each video has its own document 
+From jao to Everyone: (8:42 PM)
+ 要求多长时间刷新排行榜？每五分钟吗 
+From Spin to Everyone: (8:43 PM)
+ 怎样保证一个unique user的count只计算一回？ 
+From ningdi to Everyone: (8:44 PM)
+ unique user的count 值计算一次 可以在client 端做去重比较简单 会不准确 但是我觉得most case应该是work的 
+From admin to Everyone: (8:46 PM)
+ Click事件可以异步发送kafka 然后保存数仓里面 
+From Zhao to Everyone: (8:46 PM)
+ 同意tomdi说的 系统设计不是唯一解，没必要争论，我看scott shi的mock里面只要能讲的通好像就可以 
+From Lixuan Zhu to Everyone: (8:54 PM)
+ https://www.youtube.com/watch?v=kx-XDoPjoHw 
+From Ender to Everyone: (9:00 PM)
+ 请教一下topK这个问题有什么点或者follow up是俄罗斯大哥的视频没cover到的吗？ 
