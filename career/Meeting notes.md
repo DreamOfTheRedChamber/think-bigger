@@ -4,6 +4,7 @@
   - [Ticket master](#ticket-master)
   - [Calendar](#calendar)
   - [TopK](#topk)
+  - [Youtube](#youtube)
 
 # Behavior
  请问亚麻recruiter嘉宾，能给个内推吗？感谢  running away what?  要慎用“running away from bad things” 吧  听众能不能mute一下  哪个老铁 mute一下啊😯  Rong Yao  弹琴的可以mu一下吗  🙏  就是可以你来我往的感觉吧  Would you please give an example of a bar raising answer example?  主持人可以先全部过一遍slice吗？而不是自己的follow up，这样子大家可以有个全局观，谢谢  money incentive 可以搞笑的方式带过 diversity and inclusion 的话题怎么回答  我就怕我吹大劲儿  我也是  一定要提team work project 嗎？還是個人開發的也可以  Frank, thank you very much! I appreciate it!  吹牛就没输过  个人开发可以，看你怎么讲了。比如说你参加solo hackathon，赢了，就很牛逼了  所以做政府项目的要怎么描述  謝謝  Q: 对于刚毕业的学生，这些话题大部分都没有经历，HR或者recruiter如果面试NG， BQ questions他们应该会怎么问呢？ 还是按部就班的念稿吗，对于NG怎么准备BQ？因为没有工作经验，这些问题大部分都没有体会  project或者side project的经验，都可以讲  NG 可以说school project，里面也涉及到collaboration、communication 哇  这种学校的东西和在工作中，完全不一样 非要硬往上帖，只能编了  实在不行参加一些hackathon吧，很真实的团队合作了，大部分hackathon 36-48小时。构思，分工，熬夜，meet deadline，pitching。等于是压缩了一个季度的工作  能举个例子吗 什么叫complex  嗯嗯 同问  Paul 说到点子上了！  Paul刚才说啥来着？ 错过了  谢谢 Paul 补充！  16 Leadership now!  Shopify的特有吧  Paul说尽量选一个大的project，能说明你的实力的，方便评级更高  Project dive deep 是主要考察技术能力吧  感谢ganxie  可以讲完slide再一起提问吗  今天有录像吗  搞过sev0 算不算 厉害厉害  可以说 没有mistake吗？说了 会很尴尬吗 ：）  如果sev0 不是你写出来的话  会  没有mistake不太真实  blame game is on  就说会尴尬么。。。这么答就挂了？ 有人这样回答我的，我选择没挂他这一题。。。  这个故事好，背下来 这个故事要强调tech context吗？  这样来说， 总体 来说， 感觉我们就会招进来 差不多的人 突然想 艺术类 面试 ，越奇葩，越个性 越好  晚了，已经背下来了。  能讲一下例子吗 fail的例子  晚了，背完了已经  不能背啥啊  没人能crash我， 算法可以。  不怕 找人多mock！ hoho  戳中了说的就是我  晚了，已经背了。  上司的话需要analyze 但是你的customer 不管说什么必须要听  例子太好了，深深印入了脑海里  只有魔法才能打败魔法  晚了，已经背下来了。  这样会不会显得manager很笨  你可以编一下，说是隔壁组的manager  同问 感觉manager听到能挣钱很难会block你  跟直接manager有conflict不太合适  正常人早就同意了 你还和我争  对啊  有conflict一般都是 clarity不够，有个人没有拿到所有信息  话说面试官是中国人的话是好事吗  解释一下就行了，但是这样没scope啊。还是之前的故事好。 都背下来背下来  "有conflict一般都是 clarity不够，有个人没有拿到所有信息"
@@ -1661,3 +1662,426 @@ From Lixuan Zhu to Everyone: (8:54 PM)
  https://www.youtube.com/watch?v=kx-XDoPjoHw 
 From Ender to Everyone: (9:00 PM)
  请教一下topK这个问题有什么点或者follow up是俄罗斯大哥的视频没cover到的吗？ 
+
+## Youtube
+
+From Ken to Everyone: (6:16 PM)
+ Starting around: 6:15 Approximate completion time: 7:00 Welcome to our event.  I am taking notes in https://docs.google.com/document/d/1XLpTHQxYaZBDJzRTyVgfHFfxBHD9G79hNFDvNlRwty4/edit# 
+From Ken to Everyone: (6:20 PM)
+ If you have not joined Ming Dao WeChat group, you can join using the QR code on the top of the document Approximate Start time: 6:15. End time: 7:00 
+From Ken to Everyone: (6:24 PM)
+ Welcome to our event.  I am taking notes in https://docs.google.com/document/d/1XLpTHQxYaZBDJzRTyVgfHFfxBHD9G79hNFDvNlRwty4/edit# If you have not joined Ming Dao WeChat group, you can join using the QR code on the top of the document Approximate Start time: 6:15. End time: 7:00 
+From Jackie G to Everyone: (6:27 PM)
+ Does “width” mean “throughput”? 
+From Bam to Everyone: (6:27 PM)
+ Bandwidth I guess 
+From Jackie G to Everyone: (6:27 PM)
+ thanks 
+From A to Everyone: (6:28 PM)
+ 感谢楼主算算术，来晚了，设计还没开始 
+From ningdi to Everyone: (6:28 PM)
+ Hahah :) 
+From Yue's iPad to Everyone: (6:30 PM)
+ 7G per second for video upload 是怎么来的? 
+From Ken to Everyone: (6:30 PM)
+ Welcome to our event.  I am taking notes in https://docs.google.com/document/d/1XLpTHQxYaZBDJzRTyVgfHFfxBHD9G79hNFDvNlRwty4/edit# If you have not joined Ming Dao WeChat group, you can join using the QR code on the top of the document Approximate Start time: 6:15. End time: 7:00 
+From Bot to Everyone: (6:30 PM)
+ 这estimate那个1:200让我想到了educative.io那个 
+From Jackie G to Everyone: (6:31 PM)
+ Why does uploadVideo accept a videoId? I thought video id is generated by the system when the video is uploaded. Does he mean “video title” instead? Thanks 
+From ningdi to Everyone: (6:31 PM)
+ 压根没有downloading的 req 但是模版背多了直接就来了个ratio。。 
+From Charlie to Everyone: (6:31 PM)
+ storage 683T/day 是根据什么算的 
+From 非洲黑猴子 to Everyone: (6:32 PM)
+ 传offset可能不太行。一旦传了offset给服务端，那不就意味着文件上传下载就需要经过服务端server？其网关或者LB的网卡可能成为瓶颈 
+From Charles  to Everyone: (6:33 PM)
+ Upload rate 
+From A to Everyone: (6:33 PM)
+ 这是在背诵educative的solution吗 
+From Spin to Everyone: (6:33 PM)
+ 这是指对client的，last viewed position? 
+From A to Everyone: (6:33 PM)
+ 我去看看答案 
+From ningdi to Everyone: (6:33 PM)
+ 一个3小时长的视频，后段可能是cut成很多小的chunks,然后offset可以快速定位到具体哪个chunk你要去load 
+From ningdi to Everyone: (6:33 PM)
+ 我觉得是这样吧。。 
+From A to Everyone: (6:35 PM)
+ 啥av 
+From Sean Gao to Everyone: (6:35 PM)
+ @猴子哥   offset 我感觉 GFS 类似系统可以提供吧？  或者 server 先把 offset 在 metadata 里面 解析成 GFS 的chunk 地址，再从 GFS 传。 
+From Bot to Everyone: (6:35 PM)
+ avi 
+From Sean Gao to Everyone: (6:36 PM)
+ 这里 aws 提供 api 来fetch 一部分的 file： https://stackoverflow.com/questions/36436057/s3-how-to-do-a-partial-read-seek-without-downloading-the-complete-file 
+From Ken to Everyone: (6:36 PM)
+ Welcome to our event.  I am taking notes in https://docs.google.com/document/d/1XLpTHQxYaZBDJzRTyVgfHFfxBHD9G79hNFDvNlRwty4/edit# If you have not joined Ming Dao WeChat group, you can join using the QR code on the top of the document Approximate Start time: 6:15. End time: 7:00 
+From Robin to Everyone: (6:37 PM)
+ 是的，我觉得(videoID + offset) 对应到一小段视频，这个offset是某种预设的granularity，比如可能后端只支持按分钟分块 
+From Yi to Everyone: (6:37 PM)
+ 不需要offset, client 直接chunk 成小块，upload这些data blob，服务器对每一个blob返回一个hash id，然后client把这些id 拼接起来commit到metadata service 
+From Erwin to Everyone: (6:38 PM)
+ client不是用presigned url upload到s3吗？ 
+From ningdi to Everyone: (6:38 PM)
+ 这里只是再说 play video需要offset 
+From Sean Gao to Everyone: (6:38 PM)
+ 那你 getVideo 要从中间chunk读起来， server 怎么知道从哪个 blob 开始传给你 ？ 
+From Yi to Everyone: (6:38 PM)
+ 看错了，我以为是upload。。 
+From Sean Gao to Everyone: (6:38 PM)
+ ack 
+From ningdi to Everyone: (6:40 PM)
+ 这个encode service在这里是干嘛的请问。。。 都用了s3了。。。 s3直接返回video地址了不是吗。。 
+From Robin to Everyone: (6:41 PM)
+ 或许支持多种分辨率？ 
+From Sean Gao to Everyone: (6:41 PM)
+ post processing 
+From Erwin to Everyone: (6:41 PM)
+ 应该是encode到不同的resolution 
+From Shihao Zhong to Everyone: (6:41 PM)
+ 应该是把视频转换成不同的格式或者分辨率以方便不同的设备吧 
+From ningdi to Everyone: (6:41 PM)
+ 啊 那确实可能。。 
+From Zhengguan Li to Everyone: (6:41 PM)
+ 各种不同的播放格式和分辨率吧 手机格式 电脑模式 
+From Robin to Everyone: (6:41 PM)
+ 但是确实requirement里没提到多种分辨率这点 
+From 非洲黑猴子 to Everyone: (6:41 PM)
+ S3能把文件翻译成消息发到MQ？S3这么听话吗？ 
+From Shihao Zhong to Everyone: (6:42 PM)
+ 说到了各种不同的设备嘛 
+From ningdi to Everyone: (6:42 PM)
+ 这是典型的 知道答案来考试。 然后题目跟答案有点不搭了 😂 
+From Shihao Zhong to Everyone: (6:42 PM)
+ 刚才说的是双写，不是S3给发消息，而且MQ应该也可以用SQS来做，这样S3的消息也可以监控到 
+From 非洲黑猴子 to Everyone: (6:43 PM)
+ 还不如直接用国内的七牛云，人家自带各种视频转码和图片缩放 
+From Shihao Zhong to Everyone: (6:43 PM)
+ S3的事件，比如get put 
+From Erwin to Everyone: (6:43 PM)
+ s3本身就可以generate event到sqs/sns 
+From Sean Gao to Everyone: (6:43 PM)
+ change capture 
+From Erwin to Everyone: (6:43 PM)
+ https://docs.aws.amazon.com/AmazonS3/latest/userguide/notification-how-to-event-types-and-destinations.html#supported-notification-destinations 
+From ningdi to Everyone: (6:43 PM)
+ 系统设计面试中能用这么多aws全家桶吗？ 基本啥都傻瓜化了。。。 储存s3 通知sqs。。。 基本没啥需要设计的吧。。 
+From Shihao Zhong to Everyone: (6:44 PM)
+ 不知道啊，我也很好奇这个问题。 但如果用别的组host的infra其实也差不多吧，无非就变成了hdfs和Kafka？ 
+From Laoluo to Everyone: (6:44 PM)
+ 不建议，除非你面的是AWS，然后迎合面试官。但你要说得出所以然来 
+From Kasey to Everyone: (6:44 PM)
+ 一般是先设计完然后一些具体实现之后可以细致的说 
+From Richard Tu to Everyone: (6:44 PM)
+ 当然可以用，面试官也会问你了不了解里面的细节 
+From tomdi to Everyone: (6:44 PM)
+ s3只是storage, mq应该是upload service trigger 
+From Kasey to Everyone: (6:44 PM)
+ 不然不用上 
+From 非洲黑猴子 to Everyone: (6:44 PM)
+ 哈哈，个人感觉国内的水平更高，毕竟并发啥的不是跟北美一个量级的，而且那边粥少僧多，竞争激烈 
+From ningdi to Everyone: (6:44 PM)
+ 主要是我没用过aws的全家桶。。 在考虑要不要去补一套。。 
+From Sean Gao to Everyone: (6:44 PM)
+ 这里 metadata svc 和 s3 的consistency 如何保证 ？ ？ 
+From Richard Tu to Everyone: (6:44 PM)
+ 不然，就知道个名词就不好了 
+From Ken to Everyone: (6:45 PM)
+ Welcome to our event.  I am taking notes in https://docs.google.com/document/d/1XLpTHQxYaZBDJzRTyVgfHFfxBHD9G79hNFDvNlRwty4/edit# If you have not joined Ming Dao WeChat group, you can join using the QR code on the top of the document Approximate Start time: 6:15. End time: 7:00 About 15 minutes to go. 
+From Sean Gao to Everyone: (6:45 PM)
+ 这里 metadata svc 和 s3 的consistency 如何保证 ？ ？ 要重试么如果 s3 fail 
+From 蔡海林 to Everyone: (6:46 PM)
+ meta service 保存的是video的meta信息，和original s3之间的关系是通过返回给client段的upload url来联系在一起的 
+From ningdi to Everyone: (6:46 PM)
+ 我唯一用过的就是s3  s3上传不成功会告诉你上传失败的。。 
+From Kasey to Everyone: (6:46 PM)
+ 不用S3 用hdfs一样的吧 
+From 蔡海林 to Everyone: (6:46 PM)
+ upload部分一定有重试机制的 
+From Kasey to Everyone: (6:46 PM)
+ hdfs都是storage服务有什么不同么 
+From 蔡海林 to Everyone: (6:46 PM)
+ 而且upload的时候基本要进行chunk话，否则很难在upload partial fail之后重新传 
+From Kasey to Everyone: (6:47 PM)
+ 他这里很重要的CDN没说吧。。。 
+From 蔡海林 to Everyone: (6:47 PM)
+ 还早呢 lb也都没有 
+From Sean Gao to Everyone: (6:47 PM)
+ @蔡 谢谢。  meta db 里面应该也有 upload status， 然后如果完全失败了，提醒用户手动重试。 
+From 蔡海林 to Everyone: (6:48 PM)
+ 嗯， 
+From Sean Gao to Everyone: (6:48 PM)
+ YouTube 网页关闭后，不然没法retry 
+From ningdi to Everyone: (6:49 PM)
+ 请问 用了s3了 还需要cdn？ 
+From Laoluo to Everyone: (6:49 PM)
+ 要的 
+From Sean Gao to Everyone: (6:49 PM)
+ 需要 
+From 蔡海林 to Everyone: (6:49 PM)
+ upload状态实际上可以考虑在本地localstorage保存一份，在上传完成之后通知服务端就好 
+From Kasey to Everyone: (6:49 PM)
+ 嗯要的 
+From 蔡海林 to Everyone: (6:49 PM)
+ s3速度不行的 前面一定要cdn 
+From Ryan to Everyone: (6:49 PM)
+ s3 bucket 有region 
+From Kasey to Everyone: (6:49 PM)
+ 而且CDN可以用多级的 
+From Sean Gao to Everyone: (6:49 PM)
+ localstorage 的问题是，multi device 无法 sync 
+From ningdi to Everyone: (6:49 PM)
+ 那么cdn在这里是 client端去做 还是 s3去做？ 
+From Richard Tu to Everyone: (6:49 PM)
+ CloudFront + S3 
+From Kai Z. to Everyone: (6:50 PM)
+ storage需要节省吗 
+From Ryan to Everyone: (6:50 PM)
+ +1 cloudfront 
+From Yumin Gui to Everyone: (6:50 PM)
+ 真的不考虑成本吗？你用aws s3，你怕不会一天花掉10亿美元。都有100M的active user了，这种情况下还不自建存储服务？ 
+From Sean Gao to Everyone: (6:50 PM)
+ 需要节省吧 storage 
+From Yi to Everyone: (6:50 PM)
+ 自建不一定比s3 便宜 
+From Ryan to Everyone: (6:51 PM)
+ s3 glacier 
+From ningdi to Everyone: (6:51 PM)
+ S3不是有一个什么叫 glacier吗 
+From Laoluo to Everyone: (6:51 PM)
+ glacier是archive 
+From Kasey to Everyone: (6:51 PM)
+ glacier是做archive的 
+From ningdi to Everyone: (6:51 PM)
+ 长时间没有read的 只寸low resolution的version在s3 其他的放进glacier。。。 算是省钱的一种吧。。。 
+From Kasey to Everyone: (6:52 PM)
+ 你可以设置life cycle的 
+From ningdi to Everyone: (6:52 PM)
+ 还真就aws全家桶设计一切了。。。 😂 
+From Sean Gao to Everyone: (6:52 PM)
+ glacier 意思是 压缩存储么 ? 
+From Shihao Zhong to Everyone: (6:52 PM)
+ 不至于吧 这个700T /天 纯粹S3的话现在0.02 gb/M 如果按里面存5年的data来算2500w/月左右 
+From ningdi to Everyone: (6:52 PM)
+ 据说是 响应速度满。 
+From Richard Tu to Everyone: (6:52 PM)
+ glacier用的hdd 
+From ningdi to Everyone: (6:53 PM)
+ 请问视频播放有cache吗？ 
+From Sean Gao to Everyone: (6:53 PM)
+ cdn 
+From ningdi to Everyone: (6:53 PM)
+ 这种file 文件的cache。。。 
+From Kasey to Everyone: (6:53 PM)
+ cloudfront不就是CDN 
+From Shihao Zhong to Everyone: (6:53 PM)
+ 如果你80%放到archive的话大概600万/月 好像也没有特别高 
+From ningdi to Everyone: (6:54 PM)
+ 看来我需要好好查查看cdn了。。 
+From A to Everyone: (6:54 PM)
+ s3 glacier是cold storage，存在锤子 
+From Zhengguan Li to Everyone: (6:54 PM)
+ 600w不高嘛？ 
+From Sean Gao to Everyone: (6:55 PM)
+ 对 youtube不高吧 
+From Bam to Everyone: (6:55 PM)
+ 居然只有五分钟了 
+From Ender Li to Everyone: (6:56 PM)
+ search是不是还没design呢 
+From Richard Tu to Everyone: (6:56 PM)
+ Glacier的get SLA是按小时来的。视频文件从里面取，估计用户都跑光了 
+From Ryan to Everyone: (6:56 PM)
+ tiktok 好像是自建的storage 
+From Kasey to Everyone: (6:57 PM)
+ non popular可以设置life cycle么 
+From Mossaka to Everyone: (6:57 PM)
+ CDN会自动提供DASH服务吗？ 
+From Ender Li to Everyone: (6:57 PM)
+ 请教下是所有视频都放CDN吗？还是只有hot/popular的放在cdn 
+From 蔡海林 to Everyone: (6:58 PM)
+ 不可能所有放到cdn storage, cdn storage也是很贵的 :) 
+From Ken to Everyone: (6:58 PM)
+ 2 minutes to go Start time: 6:15, end time ~7:00pm 
+From Ryan to Everyone: (6:58 PM)
+ 为啥要cache comments... 
+From Kasey to Everyone: (6:58 PM)
+ 看用户对延迟的要求 
+From Ryan to Everyone: (6:59 PM)
+ loading video 肯定latency 更高呀 
+From Kasey to Everyone: (6:59 PM)
+ youtube这种的话我觉得要放挺多在CDN的 
+From 蔡海林 to Everyone: (6:59 PM)
+ comments如果需要broadcast到所有看同样视频的用户，那个就是另外的设计了 
+From Shihao Zhong to Everyone: (6:59 PM)
+ 一个很复杂的comment 用什么数据库存比较好呢，尤其是很多层的那种？ 
+From Zhengguan Li to Everyone: (6:59 PM)
+ “Glacier的存档检索延迟（档案在3-5小时后可用）“意思是找一个东西要3-5小时 
+From Erwin to Everyone: (6:59 PM)
+ S3 Glacier Instant Retrieval 的get latency也是miliseconds级别的 
+From Zhengguan Li to Everyone: (6:59 PM)
+ ？ 
+From Zhao to Everyone: (6:59 PM)
+ 如何决定什么视频存在哪个CDN? 
+From Ken to Everyone: (7:00 PM)
+ Time is up 
+From Sean Gao to Everyone: (7:00 PM)
+ youtube 的comment 应该不是 broadcast 的 
+From 蔡海林 to Everyone: (7:00 PM)
+ 有几种方法，1）统计视频播放的热度；2）根据预先的估计，比如很热门的电视剧出了新的season，那么就一定要搞到cdn去了 
+From Sean Gao to Everyone: (7:01 PM)
+ reddit 的 comment好像直接存的 MySQL ？ 
+From Ryan to Everyone: (7:01 PM)
+ broadcast 完全是另一个topic了吧 
+From 非洲黑猴子 to Everyone: (7:01 PM)
+ Redis有RDB和AOF可以落盘 
+From Shihao Zhong to Everyone: (7:01 PM)
+ 那comment要是叠个很多层岂不是query mysql直接挂了 还是他业务上就不允许很多层的comment 
+From 蔡海林 to Everyone: (7:02 PM)
+ 3）还可以根据不同地域用户的观看习惯把video push到相应地域的cdn去 
+From 非洲黑猴子 to Everyone: (7:02 PM)
+ 给面试官说，Redis可以做缓存 数据库个MQ 
+From First Last to Everyone: (7:02 PM)
+ time is over. 
+From 非洲黑猴子 to Everyone: (7:03 PM)
+ 主从复制 
+From Jerry to Everyone: (7:03 PM)
+ getVideo的服务是不是还没设计 
+From 蔡海林 to Everyone: (7:03 PM)
+ 是啊 
+From Bam to Everyone: (7:03 PM)
+ 设计了，CDN 
+From 蔡海林 to Everyone: (7:03 PM)
+ 漏掉了不少东西 
+From Jerry to Everyone: (7:04 PM)
+ 怎么记录播放进度的 
+From Yi to Everyone: (7:04 PM)
+ 主要面试官也没有深入问那里 
+From Bam to Everyone: (7:04 PM)
+ 这个没提 
+From Charlie to Everyone: (7:04 PM)
+ 系统设计到什么程度算是过关呢？ 
+From Sean Gao to Everyone: (7:04 PM)
+ 感觉应该过关了吧  ？ 
+From 蔡海林 to Everyone: (7:04 PM)
+ 至少能够自圆其说 no, 我觉得没过关 
+From kevin to Everyone: (7:05 PM)
+ 这个最好能讨论一下bar 
+From 蔡海林 to Everyone: (7:05 PM)
+ 毕竟是l5 
+From Sean Gao to Everyone: (7:05 PM)
+ 哪里不够格？ 
+From Kasey to Everyone: (7:05 PM)
+ L5的话有点困难 
+From kevin to Everyone: (7:05 PM)
+ 我觉得很vague 这个bar 
+From Spin to Everyone: (7:05 PM)
+ 差不多吧 
+From kevin to Everyone: (7:05 PM)
+ 有没有资深的给个hint 过没过bar 
+From Kasey to Everyone: (7:05 PM)
+ 但首先YouTube就是hard system design question 
+From J to Everyone: (7:06 PM)
+ 那哪些question是简单 哪些是hard 求问 
+From Shihao Zhong to Everyone: (7:06 PM)
+ 可以说下easy system design和hard system design的例子么 
+From Bam to Everyone: (7:06 PM)
+ tinyurl 
+From Kasey to Everyone: (7:06 PM)
+ tinyurl 
+From Ping Lu to Everyone: (7:09 PM)
+ 请问一下，这个画图软件是什么？ 
+From Kai Z. to Everyone: (7:12 PM)
+ decision呢 
+From Shihao to Everyone: (7:13 PM)
+ 这个选什么云的服务怎么回答啊 S3 啊 azure blob不都差不多 
+From J to Everyone: (7:14 PM)
+ L5 这题如果答得好应该是怎么用的 样* 
+From Liang Tan to Everyone: (7:14 PM)
+ 请问db design 应该放在是跟service上边画图边做，还是放到service前或者后比较好。  是不是用一个upload service就好了  猴子哥说的网卡是什么呢？  实际的production上没有从orginal取的，全都是从cdn取。cdn费用肯定比 server便宜。  如果是冷门视频呢 ？  如果upload或者download的数据经过自己的service，则会打满后者的网卡的风险  牛  upload和download数据和信令都是分离的。 冷门数据也要用cdn  CDN上啥都有，那为啥还要S3呢  Xing Wang 大佬🐂🍺  s3存orignal  👍  牛  面试官期待面试者自己deep dive topic吗，我觉得deep dive是需要面试官去问出来的吧  Jane Liu 您的建议是先口述一个user journey，再问面试官面试关注的feature是吗  streaming基本上都是从cdn从streaming的，建议看看dash和hls streaming arc  S3 good for video streaming:  https://stackoverflow.com/questions/3505612/amazon-s3-hosting-streaming-video  You can send 3,500 PUT/COPY/POST/DELETE or 5,500 GET/HEAD requests per second per prefix in an Amazon S3 bucket. There are no limits to the number of prefixes that you can have in your bucket. https://aws.amazon.com/premiumsupport/knowledge-center/s3-request-limit-avoid-throttling/  你们都过于依赖aws了，事实上所有的video chunks都是依赖于cdn的。netflix的核心竞争力是他的自建cdn，而不是依赖在aws上。  冷门视频如何处理呢 ？  所有的streaming相关的公司，cdn都是他们成本考虑的最重要因素。  CDN 挡了90%的流量  aws只handle信令和meta data，video chunk从来都不经过micro seevices  taotao 说  “所有chunks”  从ops角度讲，cdn得挡99%的流量 
+From Sean Gao to Everyone: (7:42 PM)
+ true 
+From Ning to Everyone: (7:42 PM)
+ 记得看过Netflix 说是90% 
+From Joselyn phone to Everyone: (7:42 PM)
+ 如果冷门的视频，是不是也是从cdn读比较好 
+From Sean Gao to Everyone: (7:43 PM)
+ 冷门视频可能不在cdn里面 
+From Jia to Everyone: (7:43 PM)
+ 有大神能recap下upload，download该如何scale吗？sorry刚没听清。download用自建的cdn cache或aws cloudfront类似的service，upload用queue？ 
+From Joselyn phone to Everyone: (7:43 PM)
+ 那冷门视频从哪里读，就是直接分布文件系统吗？ 
+From Bam to Everyone: (7:44 PM)
+ 肯定有视频不在CDN里，比如刚上传的视频，或者10年没人看的视频 
+From nz to Everyone: (7:44 PM)
+ you drive 
+From kabuka to Everyone: (7:45 PM)
+ 我面过一个公司的SD 其中一个feedback就是面试者要proactively drive interview 
+From Taotao to Everyone: (7:48 PM)
+ netflix关于视频所有的存储都是自建的， 
+From Richard Tu to Everyone: (7:48 PM)
+ 碰肯定能碰到 概率问题 
+From nz to Everyone: (7:49 PM)
+ communication skill 
+From Sean Gao to Everyone: (7:49 PM)
+ 👍 
+From Zhao to Everyone: (7:51 PM)
+ 我觉得可以把design 面试看成你跟自己公司architect review design的过程。一般先说一下high level, 然后deep dive，中间经常问问feedback，Qs, etc. 然后说说 positive path，negative path，如何scale up 
+From nz to Everyone: (7:53 PM)
+ no right or wrong answer. you should present solution and alternative solutions. what are the tradeoff 
+From Sean Gao to Everyone: (7:53 PM)
+ 解耦，异步，削峰，填谷 
+From Shihao Zhong to Everyone: (7:54 PM)
+ 削峰填谷英文咋说 
+From Sean Gao to Everyone: (7:54 PM)
+ shift loading 
+From kabuka to Everyone: (7:54 PM)
+ 上传视频怎么async? 例如上传一个1GB的视频。带宽是1MB/s 的话怎么样也要等1024秒吧 
+From 非洲黑猴子 to Everyone: (7:54 PM)
+ 解耦异步、削峰填谷 
+From Shihao Zhong to Everyone: (7:54 PM)
+ 可以的 
+From nz to Everyone: (7:54 PM)
+ buffer 
+From Ning to Everyone: (7:55 PM)
+ 这个有专门的协议来处理吧 
+From Zhao to Everyone: (7:56 PM)
+ 推荐去看看微信的技术类公众号，有很多好的文章，特别适合了解国内高并发处理的常用方案，大厂案例 
+From Bam to Everyone: (7:57 PM)
+ 求推荐公众号 
+From Laoluo to Everyone: (7:57 PM)
+ 可以发上来给大家参考一下 大家都提高了以后讨论的水平就慢慢上来了 
+From Zhao to Everyone: (7:57 PM)
+ 我经常看51CTO技术栈的 
+From Sean Gao to Everyone: (7:57 PM)
+ google 就能搜到很多 
+From Taotao to Everyone: (7:57 PM)
+ 因该叫transcoding 才对 
+From 石登辉 to Everyone: (8:02 PM)
+ 视频再用http的gzip没啥意义了 
+From 石登辉 to Everyone: (8:02 PM)
+ 一般是文本文件 
+From Zhao to Everyone: (8:06 PM)
+ 问一下大家，是不是可以把一些细节讨论放后面。在讲完HLD后，可以把Failure Handling 和scale up 先大致讲讲，然后再看面试官态度决定深挖哪个，以及schema design，etc? 有没有人用过这个策略？ 
+From Taotao to Everyone: (8:06 PM)
+ 现在讨论的这些都没啥意义，去看看dash 和hls的规范才好。 现在的设计更像是民科 有专门的协议的 
+From First Last to Everyone: (8:07 PM)
+ 求link 
+From Sean Gao to Everyone: (8:07 PM)
+ 关键面试不考 dash 
+From Zhao to Everyone: (8:07 PM)
+ 😅 
+From Taotao to Everyone: (8:13 PM)
+ bookmark的sync也是重点考察的一方面 
+From xing wang to Everyone: (8:14 PM)
+ 多谢分享！ 
+From Sean Gao to Everyone: (8:14 PM)
+ 谢谢大家 
+From John to Everyone: (8:14 PM)
+ 谢谢！ 
+From Laoluo to Everyone: (8:14 PM)
+ 谢谢！ 
+From Yvonne to Everyone: (8:14 PM)
+ 谢谢 
+From 非洲黑猴子 to Everyone: (8:14 PM)
+ 谢谢 
