@@ -24,6 +24,7 @@
 - [Project deepdive](#project-deepdive)
   - [Token acquisition library migration](#token-acquisition-library-migration)
 - [References](#references)
+- [Questions to ask back](#questions-to-ask-back)
 
 ## Tell me about yourself
 ### Tips
@@ -166,3 +167,6 @@
 * [SAML2 vs JWT: Apigee & Azure Active Directory Integration — A JWT Story](https://medium.com/levvel-consulting/saml2-vs-jwt-apigee-azure-active-directory-integration-a-jwt-story-a3eb00769a1f)
 * [Keeping Your APIs Secure for Multiple User Types](https://medium.com/@robert.broeckelmann/keeping-your-apis-secure-for-multiple-user-types-d5c627793c4c)
 * [Sample: WSO2 EI Cache Mediator based Token Caching](https://medium.com/@chamilad/sample-wso2-ei-cache-mediator-based-token-caching-3036f2e7e6eb)
+
+# Questions to ask back
+* tech stack, roadmap, team structure, current challenge, etc.
