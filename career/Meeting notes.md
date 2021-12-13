@@ -5,6 +5,7 @@
   - [Calendar](#calendar)
   - [TopK](#topk)
   - [Youtube](#youtube)
+  - [Donation](#donation)
 
 # Behavior
  请问亚麻recruiter嘉宾，能给个内推吗？感谢  running away what?  要慎用“running away from bad things” 吧  听众能不能mute一下  哪个老铁 mute一下啊😯  Rong Yao  弹琴的可以mu一下吗  🙏  就是可以你来我往的感觉吧  Would you please give an example of a bar raising answer example?  主持人可以先全部过一遍slice吗？而不是自己的follow up，这样子大家可以有个全局观，谢谢  money incentive 可以搞笑的方式带过 diversity and inclusion 的话题怎么回答  我就怕我吹大劲儿  我也是  一定要提team work project 嗎？還是個人開發的也可以  Frank, thank you very much! I appreciate it!  吹牛就没输过  个人开发可以，看你怎么讲了。比如说你参加solo hackathon，赢了，就很牛逼了  所以做政府项目的要怎么描述  謝謝  Q: 对于刚毕业的学生，这些话题大部分都没有经历，HR或者recruiter如果面试NG， BQ questions他们应该会怎么问呢？ 还是按部就班的念稿吗，对于NG怎么准备BQ？因为没有工作经验，这些问题大部分都没有体会  project或者side project的经验，都可以讲  NG 可以说school project，里面也涉及到collaboration、communication 哇  这种学校的东西和在工作中，完全不一样 非要硬往上帖，只能编了  实在不行参加一些hackathon吧，很真实的团队合作了，大部分hackathon 36-48小时。构思，分工，熬夜，meet deadline，pitching。等于是压缩了一个季度的工作  能举个例子吗 什么叫complex  嗯嗯 同问  Paul 说到点子上了！  Paul刚才说啥来着？ 错过了  谢谢 Paul 补充！  16 Leadership now!  Shopify的特有吧  Paul说尽量选一个大的project，能说明你的实力的，方便评级更高  Project dive deep 是主要考察技术能力吧  感谢ganxie  可以讲完slide再一起提问吗  今天有录像吗  搞过sev0 算不算 厉害厉害  可以说 没有mistake吗？说了 会很尴尬吗 ：）  如果sev0 不是你写出来的话  会  没有mistake不太真实  blame game is on  就说会尴尬么。。。这么答就挂了？ 有人这样回答我的，我选择没挂他这一题。。。  这个故事好，背下来 这个故事要强调tech context吗？  这样来说， 总体 来说， 感觉我们就会招进来 差不多的人 突然想 艺术类 面试 ，越奇葩，越个性 越好  晚了，已经背下来了。  能讲一下例子吗 fail的例子  晚了，背完了已经  不能背啥啊  没人能crash我， 算法可以。  不怕 找人多mock！ hoho  戳中了说的就是我  晚了，已经背了。  上司的话需要analyze 但是你的customer 不管说什么必须要听  例子太好了，深深印入了脑海里  只有魔法才能打败魔法  晚了，已经背下来了。  这样会不会显得manager很笨  你可以编一下，说是隔壁组的manager  同问 感觉manager听到能挣钱很难会block你  跟直接manager有conflict不太合适  正常人早就同意了 你还和我争  对啊  有conflict一般都是 clarity不够，有个人没有拿到所有信息  话说面试官是中国人的话是好事吗  解释一下就行了，但是这样没scope啊。还是之前的故事好。 都背下来背下来  "有conflict一般都是 clarity不够，有个人没有拿到所有信息"
@@ -2085,3 +2086,338 @@ From Yvonne to Everyone: (8:14 PM)
  谢谢 
 From 非洲黑猴子 to Everyone: (8:14 PM)
  谢谢 
+
+## Donation
+From Ken to Everyone: (7:12 PM)
+ 7:12 Meeting notes: https://docs.google.com/document/d/19wMqh91tdvcTw9UqeWljFZSxbVVl2KRw_FX2ZC13974/edit 
+From ningdi to Everyone: (7:14 PM)
+ 原来是 round up amount 捐钱啊 😂 以为是捐食物呢 
+From Ken to Everyone: (7:18 PM)
+ Interview 7:12->7:57.  Meeting notes: https://docs.google.com/document/d/19wMqh91tdvcTw9UqeWljFZSxbVVl2KRw_FX2ZC13974/edit 
+From ningdi to Everyone: (7:25 PM)
+ Hahah food order基本就集中在某几个小时 
+From james to Everyone: (7:25 PM)
+ 1M/Day = 12qps ! 
+From ningdi to Everyone: (7:25 PM)
+ Qps不应该这么算，很容易爆 
+From shawnzheng to Everyone: (7:26 PM)
+ 刚加入 donation和doordash有什么关系？ 
+From ningdi to Everyone: (7:26 PM)
+ Check out的时候给选项想你要钱捐给你指定的charities 
+From shawnzheng to Everyone: (7:28 PM)
+ Hmm 但是很多人都不会捐款吧 算order的qps我有点confuse 
+From ningdi to Everyone: (7:28 PM)
+ 😂 是的 
+From Cheng Jing to Everyone: (7:28 PM)
+ 有道理唉，我基本没捐过🤦‍♂️ 
+From ningdi to Everyone: (7:29 PM)
+ 建议面试前捐一点。。 
+From kevin to Everyone: (7:29 PM)
+ shawnzheng说到点子上了 
+From Hu to Everyone: (7:29 PM)
+ 没懂为什么除以3600就行了 不需要除以24 
+From fengxiong to Everyone: (7:29 PM)
+ 因为peak hour才有人要吃饭 
+From ningdi to Everyone: (7:29 PM)
+ 这个还是比较好理解的吧，虽然不代表每个order都会有捐款，但是这个不就是跟order分不开的。 
+From Cheng Jing to Everyone: (7:30 PM)
+ 是说，doordash的order，基本都集中在饭点，而不是平均到每个小时 
+From Yanbin Li to Everyone: (7:30 PM)
+ 面试官刚才纠正了，是每小时3million，只不过note上没改 
+From ningdi to Everyone: (7:30 PM)
+ 。。。 dd用户量这么大了？ 
+From kevin to Everyone: (7:31 PM)
+ 假设 
+From Yanbin Li to Everyone: (7:31 PM)
+ 感觉问qps这部分，有一个很重要的数没问，就是第三方payment能承受的qps是多少，这个直接影响solution 还有第三方的latency 
+From fengxiong to Everyone: (7:32 PM)
+ 既然可以承受 点单，那么donation也可以 
+From ningdi to Everyone: (7:32 PM)
+ 你是第三方的client， latency你需要关心，但是第三方的qps又不是你一个人在用，关心他干嘛。。 
+From kevin to Everyone: (7:32 PM)
+ Yanbin给你加分 
+From Yanbin Li to Everyone: (7:32 PM)
+ 这种集成一般都有SLA，不是你想怎么call就怎么call的 
+From kevin to Everyone: (7:32 PM)
+ 说的非常好 
+From Ken to Everyone: (7:32 PM)
+ Interview 7:12->7:57.  Meeting notes: https://docs.google.com/document/d/19wMqh91tdvcTw9UqeWljFZSxbVVl2KRw_FX2ZC13974/edit 
+From ningdi to Everyone: (7:33 PM)
+ Sla是 latency， 第三方支持的qps不是你一个人独享，你拿到了也没用吧？ 
+From Ender Li to Everyone: (7:34 PM)
+ 一般大客户都是要说好的，我大概每秒会call多少，银行payment这种api和普通面向网站的是不一样的，不是假设多少量都要接着的 
+From claire lin to Everyone: (7:35 PM)
+ 你这个怎么告诉饭店 订单下了，啥时候饭菜送到？ 
+From ningdi to Everyone: (7:35 PM)
+ 那在这道题里面，会出现 难点 第三方qps不支持你的order量？ emmmm。。 
+From kevin to Everyone: (7:36 PM)
+ 一般来说都假设第三方能够承受这样的流量，但是面试者最好问一下，这样说明面试者考虑比较周全 
+From ningdi to Everyone: (7:37 PM)
+ 话两头说吧。。。 思虑周全 跟 over design 之间，没有界限 😂 
+From claire lin to Everyone: (7:37 PM)
+ 如果用async call，那你怎么confirm ？ 
+From Bam to Everyone: (7:38 PM)
+ 所以订菜和捐款是两个API么？ 
+From kevin to Everyone: (7:38 PM)
+ 没有design的事情，就是说一下你assume第三方api能够handle，仅此而已，除非面试官说不是这样告诉你具体的信息 
+From ningdi to Everyone: (7:38 PM)
+ 看起来是把 food order跟 donation order彻底分开了。 
+From Bam to Everyone: (7:38 PM)
+ 我感觉不大好，应该一起来，both or nothing 
+From ningdi to Everyone: (7:39 PM)
+ 前面verify了 不能让donation amount 影响regular order 
+From Ender Li to Everyone: (7:39 PM)
+ 你在澄清需求的时候考虑到了问出来，就叫思虑周全。问都没问就假设第三方支持不了，然后一顿设计，就叫over design 
+From kevin to Everyone: (7:39 PM)
+ ender说的对 
+From ningdi to Everyone: (7:39 PM)
+ 啊对对对 
+From Ender Li to Everyone: (7:40 PM)
+ 个人感觉第三方支持不了你的qps是个很好的follow up 
+From kevin to Everyone: (7:40 PM)
+ 是的可以是个follow up 而且不仅仅是技术方面 可以涉及到产品的设计 
+From Bam to Everyone: (7:41 PM)
+ 话说订菜失败，捐款成功的话怎么办 
+From Ender Li to Everyone: (7:42 PM)
+ 定菜成功后再place捐款的订单 做成workflow 
+From Bam to Everyone: (7:42 PM)
+ 这个可以有 
+From kevin to Everyone: (7:42 PM)
+ 非常好 
+From fengxiong to Everyone: (7:42 PM)
+ nb 
+From kevin to Everyone: (7:43 PM)
+ 处理这个case会加分 说明有深入的思考 
+From claire lin to Everyone: (7:44 PM)
+ 一般是先hold钱，然后order，order成功charge，否则cancel hold 
+From Ender Li to Everyone: (7:45 PM)
+ 不好意思没听到，payment method是个啥 
+From Sebastian Su to Everyone: (7:45 PM)
+ apiToken 是JWT之类的嘛 
+From Laoluo to Everyone: (7:45 PM)
+ 是不是原则上订餐和捐款同一个transaction? 
+From Bam to Everyone: (7:46 PM)
+ 不是，只有捐款失败则不rollback 
+From Kai’s iPhone to Everyone: (7:46 PM)
+ 不应该啊吧 
+From Peng Su to Everyone: (7:46 PM)
+ 请问apiToken是干啥用的 
+From s to Everyone: (7:46 PM)
+ donation 的qps应该远小于订餐qps吧，这样的话第三方handle不了的可能性是不是不大 ？ 
+From kevin to Everyone: (7:46 PM)
+ 可以是，但不是必须 
+From ningdi to Everyone: (7:46 PM)
+ 这个design目前看起来像我们面试experience的rest api 的考点。。 
+From Laoluo to Everyone: (7:46 PM)
+ API token实际上没有必要单独列出来，不同的实现会有不同的参数象secretkey 
+From Kai’s iPhone to Everyone: (7:46 PM)
+ 你捐款不能影响主业务啊 万一捐款api挂了 你order不就全挂了 
+From Laoluo to Everyone: (7:46 PM)
+ 有道理，订餐为主 
+From kevin to Everyone: (7:47 PM)
+ 这个要clarify，是不是捐款失败，订餐还可以成功 
+From Ender Li to Everyone: (7:47 PM)
+ 感觉是不是一个transaction取决于agreement怎么写的，不过一般公司都会倾向于用户接受订餐成功捐款失败的条款吧。这个面试的时候推荐问一下面试官 
+From Laoluo to Everyone: (7:47 PM)
+ 这里讨论是订餐后，单独把捐款另外做？ 
+From Ken to Everyone: (7:48 PM)
+ Interview 7:12->7:57.  Meeting notes: https://docs.google.com/document/d/19wMqh91tdvcTw9UqeWljFZSxbVVl2KRw_FX2ZC13974/edit 
+From Zhao to Everyone: (7:48 PM)
+ 捐款不一定需要当场实现，可以是公司每个周/月汇总了再捐。所以点菜+捐款做成一个transaction，只要记录一下捐款量就好。 
+From xiao to Everyone: (7:48 PM)
+ Update_ts用来干嘛呀 
+From james to Everyone: (7:49 PM)
+ Sql能处理多少ups? pqs 
+From Dingwen Chen to Everyone: (7:49 PM)
+ 订餐transaction包括了payment和donation了吗？ 
+From Ender Li to Everyone: (7:49 PM)
+ 我觉得面试题如果这样问比较有意思：现在doordash想增加donation功能，你怎么设计？ 
+From fengxiong to Everyone: (7:49 PM)
+ 用到消息队列了 
+From ningdi to Everyone: (7:49 PM)
+ 代码实现的时候 可不想把 donation的代码写进 正常food order的code里面， 出了问题一起完蛋。 还是从系统上去区分跟互相影响吧。 额外做个mq去坚挺payment success 的消息 然后去get order里面有没有捐款，做aysnc捐款 
+From james to Everyone: (7:49 PM)
+ 多少qps以上就不能用sql? 
+From kevin to Everyone: (7:50 PM)
+ Zhao说的太好了，能从业务角度去思考，大加分 
+From Cheng Jing to Everyone: (7:50 PM)
+ 1000qps以上吧 
+From Dingwen Chen to Everyone: (7:50 PM)
+ 放在payment里面，有cash back， donation， tips选项 
+From Pu Wang to Everyone: (7:50 PM)
+ 没有这种说法，1000QPS是single node的sql db，sql db也是scable的 
+From ningdi to Everyone: (7:50 PM)
+ Sql一个是1000 如果读写都有的话 纯写的话不知道了 
+From Ken to Everyone: (7:51 PM)
+ Interview 7:12->7:57.  Meeting notes: https://docs.google.com/document/d/19wMqh91tdvcTw9UqeWljFZSxbVVl2KRw_FX2ZC13974/edit 
+From Kai’s iPhone to Everyone: (7:51 PM)
+ 有道理 因为order可能被取消 
+From Dingwen Chen to Everyone: (7:51 PM)
+ 加多一个VIP ID for donation 
+From Kai’s iPhone to Everyone: (7:51 PM)
+ 所以donate可能被rollbqck 
+From ningdi to Everyone: (7:52 PM)
+ 其实你们下单donate了之后，你们银行里面是几个transaction？ 
+From Shihao Zhong to Everyone: (7:52 PM)
+ 肯定是俩啊 
+From kevin to Everyone: (7:52 PM)
+ Ender的想法非常好，算是给面试官的feedback 
+From Bam to Everyone: (7:52 PM)
+ 这个图是怎么生成的？ 
+From Dingwen Chen to Everyone: (7:52 PM)
+ 一个吧 
+From ningdi to Everyone: (7:52 PM)
+ 这个说 肯定是俩的 是真的例子 还是想当然啊。。。 没捐过目前 不知道到底是几个 
+From Ender Li to Everyone: (7:53 PM)
+ 收款人一个是doordash，一个是慈善组织，没法一个吧 
+From Shihao Zhong to Everyone: (7:53 PM)
+ 对啊。 
+From ningdi to Everyone: (7:53 PM)
+ 都是doordash hold钱 月底结账给商家。。 
+From Bam to Everyone: (7:53 PM)
+ 也可以dd汇总之后每月打款 
+From Pu Wang to Everyone: (7:54 PM)
+ 是的，一般只是record下，再处理donate 
+From ningdi to Everyone: (7:54 PM)
+ 直接给钱的话，投诉啥的，扣不了钱。。 
+From Bam to Everyone: (7:54 PM)
+ 那一笔转账更好点，否则transaction fee受不了 捐2毛，被银行收1毛 
+From kevin to Everyone: (7:55 PM)
+ 是的 
+From Dingwen Chen to Everyone: (7:55 PM)
+ 类似tips， 如果不是不同的payment method， 就是一个transaction 
+From Bam to Everyone: (7:55 PM)
+ 而且可以assume用户用的是同一张卡吧，要么一起成功一起失败 
+From Ender Li to Everyone: (7:55 PM)
+ 这个点很赞，所以doordash按月汇总捐款更合理 
+From Shihao Zhong to Everyone: (7:56 PM)
+ 有道理诶 
+From Bam to Everyone: (7:56 PM)
+ 应该不会有人特地用两张卡结账吧 
+From kevin to Everyone: (7:56 PM)
+ 给zhao点赞 
+From Ender Li to Everyone: (7:56 PM)
+ 前面做成一个给doordash的transaction就可以，逻辑还简单了 
+From Eric Che to Everyone: (7:56 PM)
+ 为什么要用kafka，而不是mq？ Kafka虽然可以当mq，但并不能完全取代mq 
+From kevin to Everyone: (7:57 PM)
+ 一种实现二用 
+From christie Yu to Everyone: (7:57 PM)
+ SQL db 是不是不容易做sharding啊？ 
+From kevin to Everyone: (7:57 PM)
+ 一种实现而已 
+From ningdi to Everyone: (7:57 PM)
+ zhao 到底说了啥。。 
+From ningdi to Everyone: (7:57 PM)
+ 啥一种实现2用。。。 我还往上翻。。 
+From Jing to Everyone: (7:58 PM)
+ 为什么read heavy？order应该是write heavy吧 
+From kevin to Everyone: (7:58 PM)
+ Zhao说捐款是每月汇总结算 
+From tomdi to Everyone: (7:58 PM)
+ order cache 不太需要 
+From xiao to Everyone: (7:58 PM)
+ Order cache怎么用啊这里 
+From Sebastian Su to Everyone: (7:59 PM)
+ order cache 确实不太需要。 
+From Sean Gao to Everyone: (7:59 PM)
+ 查询order ？ 
+From ningdi to Everyone: (7:59 PM)
+ 读status的时候 尤其是recent status 读比较频繁 
+From tomdi to Everyone: (7:59 PM)
+ 1 master 
+From Yibin to Everyone: (7:59 PM)
+ 1 master for consistency 
+From Shihao Zhong to Everyone: (7:59 PM)
+ 用mysql怎么俩master啊。 
+From Sean Gao to Everyone: (7:59 PM)
+ 多数据中心的话，是不是 1 master per colo ? 
+From ningdi to Everyone: (8:00 PM)
+ 2个master也可以多consistency 只需要你保证某个信息 只会被/永远只会 被其中一个master update 对于某个record他是 single master就行。。 
+From Shihao Zhong to Everyone: (8:01 PM)
+ 喔，那需要加个中间件 
+From Bam to Everyone: (8:01 PM)
+ Mysql 有Read/Quorum么？ 
+From christie Yu to Everyone: (8:01 PM)
+ 没有吧 read/write quorum 只有leaderless replication 有吧 
+From Am to Everyone: (8:02 PM)
+ L4是sde2？ 
+From ningdi to Everyone: (8:02 PM)
+ 他说的都是gg的 
+From Am to Everyone: (8:02 PM)
+ thx 
+From Ken to Everyone: (8:06 PM)
+ https://docs.google.com/document/d/19wMqh91tdvcTw9UqeWljFZSxbVVl2KRw_FX2ZC13974/edit# 
+From Yibin to Everyone: (8:09 PM)
+ 考官可以讲一下如果是L5的话还有哪方面需要改进的吗 
+From Sean Gao to Everyone: (8:11 PM)
+ +1 
+From Kai’s iPhone to Everyone: (8:13 PM)
+ +1 
+From Jiayue(Hubert) Wu to Everyone: (8:18 PM)
+ Database hook是什么呀，搜了一下好像没搜到 
+From kevin to Everyone: (8:18 PM)
+ 我猜是数据库触发器 
+From Cheng Jing to Everyone: (8:18 PM)
+ sql triggers? 
+From Sebastian Su to Everyone: (8:20 PM)
+ +1 没懂db hook 是什么，做什么的 
+From Mark to Everyone: (8:23 PM)
+ 如果是L5 是hire吗？ 
+From Lucas Li to Everyone: (8:23 PM)
+ 这位美女可以上L5么 
+From Chris to Everyone: (8:23 PM)
+ 题目太简单了 
+From tomdi to Everyone: (8:23 PM)
+ L5可以加面一轮 
+From Chris to Everyone: (8:23 PM)
+ l5会问比较难的 idempotency 
+From Kai’s iPhone to Everyone: (8:26 PM)
+ 面试官经验丰富 
+From Mark to Everyone: (8:26 PM)
+ 一般考官都不知道 
+From ningdi to Everyone: (8:27 PM)
+ debrief的时候 那个图内容这么少 能back up吗。。 
+From james to Everyone: (8:29 PM)
+ 能谈谈sql还是no-sql的选择吗？ 
+From Joselyn phone to Everyone: (8:30 PM)
+ 同问db hook 
+From Jiashen to Everyone: (8:31 PM)
+ 可以share 一下总结的doc吗 
+From Savannah Tong to Everyone: (8:32 PM)
+ https://docs.google.com/document/d/19wMqh91tdvcTw9UqeWljFZSxbVVl2KRw_FX2ZC13974/edit# 
+From ningdi to Everyone: (8:32 PM)
+ 😂 茶壶煮饺子 
+From Sean Gao to Everyone: (8:32 PM)
+ 👍 
+From ningdi to Everyone: (8:32 PM)
+ 好比喻啊 
+From Taotao to Everyone: (8:32 PM)
+ 当前这瓢冷水泼的很好，这些点说的都挺好，听得很有帮助。 但是我觉得面试者communication很好了 
+From Yibin to Everyone: (8:33 PM)
+ 谢谢分享！很有帮助！ 
+From Kai’s iPhone to Everyone: (8:33 PM)
+ 感谢 
+From Mark to Everyone: (8:34 PM)
+ 谁知道面试官看重什么 
+From Sean Gao to Everyone: (8:37 PM)
+ 但是涉及 分布式事务吧 
+From ningdi to Everyone: (8:37 PM)
+ 面试前没题啊。 😂 我以为最好的面试flow是 high level图画出来 然后面试官想展开那个module 再详细讲。。 不知道对不对。。。 
+From Mark to Everyone: (8:39 PM)
+ 从business角度上看 哪些材料更好学习 
+From Chris to Everyone: (8:48 PM)
+ 看题目 有些题目需要estimate 
+From s to Everyone: (8:48 PM)
+ 跟solution还是有关系的 qps很小的话，可能都不需要你scale的 
+From Sebastian Su to Everyone: (8:50 PM)
+ 一般多少qps 以内是不用distributed 
+From s to Everyone: (8:50 PM)
+ 这个很容易考察你是不是真有经验 
+From Chris to Everyone: (8:51 PM)
+ qps 不高，都不用queue了 spof active passive 
+From Savannah Tong to Everyone: (8:56 PM)
+ db hook https://orientdb.com/docs/2.2.x/Hook.html 
+From Lucas Li to Everyone: (9:09 PM)
+ 不能用异步的队列吧
+万一信用卡信息不对呢 
