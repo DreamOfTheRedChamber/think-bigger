@@ -29,6 +29,8 @@
 
 ![](../../.gitbook/assets/msalMigrationProjectScope.png)
 
+![](../../.gitbook/assets/msalNetFlowchart.png)
+
 # References
 * https://medium.com/@chamod.14_80003/token-caching-wso2-api-manager-5c5b3d6ddd09
 * https://www.pingidentity.com/en/company/blog/posts/2021/ultimate-guide-token-based-authentication.html
