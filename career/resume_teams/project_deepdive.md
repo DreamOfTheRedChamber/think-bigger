@@ -6,6 +6,8 @@
   - [Design](#design)
     - [Redis vs memcached](#redis-vs-memcached)
     - [Redis data structure design for token cache](#redis-data-structure-design-for-token-cache)
+    - [Shared library structure](#shared-library-structure)
+      - [Resilience](#resilience)
 - [References](#references)
 
 # Token acquisition library migration
@@ -59,6 +61,14 @@
 ### Redis data structure design for token cache
 
 ![](../../.gitbook/assets/redisTokenCacheDS.png)
+
+### Shared library structure
+
+![](../../.gitbook/assets/msalSharedLibraryStructure.png)
+
+#### Resilience
+
+![](../../.gitbook/assets/msalMultiLayerResilience.png)
 
 # References
 * https://medium.com/@chamod.14_80003/token-caching-wso2-api-manager-5c5b3d6ddd09
