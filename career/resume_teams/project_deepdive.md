@@ -1,7 +1,7 @@
 - [Token acquisition library migration](#token-acquisition-library-migration)
   - [Motivation](#motivation)
   - [Success matrix](#success-matrix)
-  - [High level overview](#high-level-overview)
+  - [Project scope](#project-scope)
 - [References](#references)
 
 # Token acquisition library migration
@@ -25,7 +25,9 @@
 | [Security] Dynamic consent | Not needed | NA |
 | [Telemetry] Enrich token fetch telemetry | Nice to have | NA |
 
-## High level overview
+## Project scope
+
+![](../../.gitbook/assets/msalMigrationProjectScope.png)
 
 # References
 * https://medium.com/@chamod.14_80003/token-caching-wso2-api-manager-5c5b3d6ddd09
