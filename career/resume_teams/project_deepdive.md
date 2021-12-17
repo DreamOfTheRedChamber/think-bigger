@@ -5,6 +5,7 @@
   - [Project scope](#project-scope)
   - [Design](#design)
     - [Redis vs memcached](#redis-vs-memcached)
+    - [Redis data structure design for token cache](#redis-data-structure-design-for-token-cache)
 - [References](#references)
 
 # Token acquisition library migration
@@ -54,6 +55,10 @@
 | `Pub/Sub`  | No | Yes  | No  |
 | `Lua scripting`  | No | Yes  | Nice to have  |
 | `Geospatial support`  | No | Yes  | No  |
+
+### Redis data structure design for token cache
+
+![](../../.gitbook/assets/redisTokenCacheDS.png)
 
 # References
 * https://medium.com/@chamod.14_80003/token-caching-wso2-api-manager-5c5b3d6ddd09
