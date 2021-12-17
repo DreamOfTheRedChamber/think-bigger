@@ -76,6 +76,7 @@
 
 ## Rollout
 
+![](../../.gitbook/assets/msalRollout.png)
 
 
 # References
