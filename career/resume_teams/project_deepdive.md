@@ -3,6 +3,8 @@
   - [Motivation](#motivation)
   - [Success matrix](#success-matrix)
   - [Project scope](#project-scope)
+  - [Design](#design)
+    - [Redis vs memcached](#redis-vs-memcached)
 - [References](#references)
 
 # Token acquisition library migration
@@ -34,6 +36,24 @@
 ## Project scope
 
 ![](../../.gitbook/assets/msalMigrationProjectScope.png)
+
+## Design
+### Redis vs memcached
+
+|   | `Redis`  | `Memcached` | `Needed for the project`  |
+|---|---|---|---|
+| `Sub-millisecond latency`  | Yes  | Yes  |  Required |
+| `Developer ease of use`  | Yes  | Yes  |  Required |
+| `Data partitioning`  | Yes  | Yes  |  Required |
+| `Support for a broad set of programming languages`  | Yes  | Yes  | Optional  |
+| `Advanced data structures`  | No  | Yes  | Nice to have |
+| `Multithreaded architecture`  | No | Yes  | No  |
+| `Snapshots`  | No | Yes  | No  |
+| `Replication`  | No | Yes  | Nice to have  |
+| `Transactions`  | No | Yes  | No  |
+| `Pub/Sub`  | No | Yes  | No  |
+| `Lua scripting`  | No | Yes  | Nice to have  |
+| `Geospatial support`  | No | Yes  | No  |
 
 # References
 * https://medium.com/@chamod.14_80003/token-caching-wso2-api-manager-5c5b3d6ddd09
