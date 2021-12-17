@@ -1,10 +1,16 @@
 - [Token acquisition library migration](#token-acquisition-library-migration)
+  - [Project context](#project-context)
   - [Motivation](#motivation)
   - [Success matrix](#success-matrix)
   - [Project scope](#project-scope)
 - [References](#references)
 
 # Token acquisition library migration
+
+## Project context
+
+![](../../.gitbook/assets/msalNetFlowchart.png)
+
 ## Motivation
 * Migrate from [ADAL.Net](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet) to [MSAL.Net](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet)
 
@@ -28,8 +34,6 @@
 ## Project scope
 
 ![](../../.gitbook/assets/msalMigrationProjectScope.png)
-
-![](../../.gitbook/assets/msalNetFlowchart.png)
 
 # References
 * https://medium.com/@chamod.14_80003/token-caching-wso2-api-manager-5c5b3d6ddd09
