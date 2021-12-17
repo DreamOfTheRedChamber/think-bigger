@@ -8,11 +8,15 @@
     - [Redis data structure design for token cache](#redis-data-structure-design-for-token-cache)
     - [Shared library structure](#shared-library-structure)
       - [Resilience](#resilience)
+  - [Rollout](#rollout)
 - [References](#references)
 
 # Token acquisition library migration
 
 ## Project context
+* Average RPS: 30K / s
+* Peak RPS: 60K / s
+* Distributed token cache hit rate: 80%
 
 ![](../../.gitbook/assets/msalNetFlowchart.png)
 
@@ -69,6 +73,10 @@
 #### Resilience
 
 ![](../../.gitbook/assets/msalMultiLayerResilience.png)
+
+## Rollout
+
+
 
 # References
 * https://medium.com/@chamod.14_80003/token-caching-wso2-api-manager-5c5b3d6ddd09
