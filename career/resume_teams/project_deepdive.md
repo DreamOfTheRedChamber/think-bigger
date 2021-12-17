@@ -1,5 +1,31 @@
-# Project deepdive
-## Token acquisition library migration
+- [Token acquisition library migration](#token-acquisition-library-migration)
+  - [Motivation](#motivation)
+  - [Success matrix](#success-matrix)
+  - [High level overview](#high-level-overview)
+- [References](#references)
+
+# Token acquisition library migration
+## Motivation
+* Migrate from [ADAL.Net](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet) to [MSAL.Net](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet)
+
+![](../../.gitbook/assets/adalNetVsMsalNet.png)
+
+![](../../.gitbook/assets/adalNetVsMsalNetAPI.png)
+
+## Success matrix
+
+| `MSAL benefit` | `Decision` | `Measurement` |
+|--|--|--|
+| [Security] ADAL.NET support deprecation in June 2022 | Needed | A central dashboard showing services still using ADAL.NET |
+| [Resiliency] Proactively refresh token (usually valid for 24h) in background 8h before expiration | Need | Telemetry around token lifetime |
+| [Resiliency] Regional token issuing service support | Take as a follow-up item | NA |
+| [Resiliency] Fallback service for extending token lifetime in case of token service outage  | Get automatically, only telemetry needed | NA |
+| [Performance] Improvemnt gains against ADAL.NET | Get automatically / with best practices | Perf or load testing, CPU, latency monitor |
+| [Security] Proof of possession token minting | Not needed | NA |
+| [Security] Dynamic consent | Not needed | NA |
+| [Telemetry] Enrich token fetch telemetry | Nice to have | NA |
+
+## High level overview
 
 # References
 * https://medium.com/@chamod.14_80003/token-caching-wso2-api-manager-5c5b3d6ddd09
