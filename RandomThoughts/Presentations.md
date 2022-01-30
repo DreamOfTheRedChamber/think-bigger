@@ -5,8 +5,6 @@ At that moment something is wrong with both my physical and mental health. I tri
 
 Finally I encountered phychology which works slowly but lasts. It resonated with me so much !!! Phychology is such a subject that I want whenever I face challenging situations or changes in my life. It is also a subject that teaches me much about human nature and society. It helped me so much. 
 
-# Communication
-* [铭道Speech幻灯片](https://docs.google.com/presentation/d/1NNR1clHXNSblyHjh_91sou_gQ71_QNIYEkUWpKAjeZI/edit#slide=id.geb2638ccd6_0_0)
-* [铭道Public speak website](https://www.mingdaoschool.com/publicspeaking)
-* [Evaluation form]()
-
+# Presentations
+## [Gestures in presentation](https://docs.google.com/presentation/d/1dXOwDSuaVHY33dRAp3Rd0Z-SRHwpstcuUMCczjFRBAs/edit?usp=sharing)
+## [拖延心理学](https://docs.google.com/presentation/d/1Ur8_y3Egzg4c0UipQ1OYe7Mm5vCTH6tp/edit?usp=sharing&ouid=117883747511694701500&rtpof=true&sd=true)

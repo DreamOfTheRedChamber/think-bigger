@@ -13,5 +13,5 @@
 ## Random thoughts
 * [Path in corporation](RandomThoughts/PathInCorporation.md)
 * [Path in entrepreneurship](RandomThoughts/PathInEntrepreneurship.md)
-* [Path in community](RandomThoughts/PathInCommunity.md)
+* [Presentations](RandomThoughts/Presentations.md)
 * [Path in people skills](RandomThoughts/behavioral_questions.md)
