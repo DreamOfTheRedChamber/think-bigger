@@ -1,14 +1,8 @@
-- [Product - Micrsoft Teams](#product---micrsoft-teams)
-  - [Highlight slides: Design group chat](#highlight-slides-design-group-chat)
 - [Project deepdive: Auth library migration](#project-deepdive-auth-library-migration)
   - [Highlight slides: Overview slides](#highlight-slides-overview-slides)
   - [Project context](#project-context)
   - [Motivation](#motivation)
   - [TODO](#todo)
-
-# Product - Micrsoft Teams
-## [Highlight slides: Design group chat](https://docs.google.com/presentation/d/1USZsFZDCY9kUosPrSSI4WaDN4koqe801p0MjPV_1n5U/edit?usp=sharing)
-* To be a good architect, you always want to think about how things work behind scenes 
 
 # Project deepdive: Auth library migration
 
