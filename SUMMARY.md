@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Bio](Bio.md)
-* [Anti-Bio](Anti-Bio.md)
 
 ## Career
 
