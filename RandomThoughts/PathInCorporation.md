@@ -1,12 +1,30 @@
-# Generalist
+- [Career models](#career-models)
+  - [Generalist](#generalist)
+  - [Specialist](#specialist)
+  - [Manager](#manager)
+  - [References](#references)
+- [Next companies](#next-companies)
+  - [Where am I now](#where-am-i-now)
+  - [What are my fellow folks doing](#what-are-my-fellow-folks-doing)
+  - [Standards](#standards)
+    - [1. High growth](#1-high-growth)
+    - [2. Job and scope](#2-job-and-scope)
+    - [3. Interesting domain](#3-interesting-domain)
+    - [4. Culture and diversity](#4-culture-and-diversity)
+    - [5. Compensation](#5-compensation)
+    - [Candidate dimensions](#candidate-dimensions)
+  - [Next companies](#next-companies-1)
+
+# Career models
+## Generalist
 * Joel Spolsky: https://www.joelonsoftware.com/about-me/
 * David Heinemeier Hansson: https://dhh.dk/
 
-# Specialist
+## Specialist
 * Brendan Gregg: https://www.brendangregg.com/
 * Glen Kohl: https://www.linkedin.com/in/glen-kohl-25bb0a29/
 
-# Manager
+## Manager
 * Julia H Grace: http://www.juliahgrace.com/
 
 ## References
