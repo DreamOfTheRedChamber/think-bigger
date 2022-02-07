@@ -6,6 +6,7 @@
   - [TopK](#topk)
   - [Youtube](#youtube)
   - [Donation](#donation)
+  - [Google drive](#google-drive)
 
 # Behavior
  请问亚麻recruiter嘉宾，能给个内推吗？感谢  running away what?  要慎用“running away from bad things” 吧  听众能不能mute一下  哪个老铁 mute一下啊😯  Rong Yao  弹琴的可以mu一下吗  🙏  就是可以你来我往的感觉吧  Would you please give an example of a bar raising answer example?  主持人可以先全部过一遍slice吗？而不是自己的follow up，这样子大家可以有个全局观，谢谢  money incentive 可以搞笑的方式带过 diversity and inclusion 的话题怎么回答  我就怕我吹大劲儿  我也是  一定要提team work project 嗎？還是個人開發的也可以  Frank, thank you very much! I appreciate it!  吹牛就没输过  个人开发可以，看你怎么讲了。比如说你参加solo hackathon，赢了，就很牛逼了  所以做政府项目的要怎么描述  謝謝  Q: 对于刚毕业的学生，这些话题大部分都没有经历，HR或者recruiter如果面试NG， BQ questions他们应该会怎么问呢？ 还是按部就班的念稿吗，对于NG怎么准备BQ？因为没有工作经验，这些问题大部分都没有体会  project或者side project的经验，都可以讲  NG 可以说school project，里面也涉及到collaboration、communication 哇  这种学校的东西和在工作中，完全不一样 非要硬往上帖，只能编了  实在不行参加一些hackathon吧，很真实的团队合作了，大部分hackathon 36-48小时。构思，分工，熬夜，meet deadline，pitching。等于是压缩了一个季度的工作  能举个例子吗 什么叫complex  嗯嗯 同问  Paul 说到点子上了！  Paul刚才说啥来着？ 错过了  谢谢 Paul 补充！  16 Leadership now!  Shopify的特有吧  Paul说尽量选一个大的project，能说明你的实力的，方便评级更高  Project dive deep 是主要考察技术能力吧  感谢ganxie  可以讲完slide再一起提问吗  今天有录像吗  搞过sev0 算不算 厉害厉害  可以说 没有mistake吗？说了 会很尴尬吗 ：）  如果sev0 不是你写出来的话  会  没有mistake不太真实  blame game is on  就说会尴尬么。。。这么答就挂了？ 有人这样回答我的，我选择没挂他这一题。。。  这个故事好，背下来 这个故事要强调tech context吗？  这样来说， 总体 来说， 感觉我们就会招进来 差不多的人 突然想 艺术类 面试 ，越奇葩，越个性 越好  晚了，已经背下来了。  能讲一下例子吗 fail的例子  晚了，背完了已经  不能背啥啊  没人能crash我， 算法可以。  不怕 找人多mock！ hoho  戳中了说的就是我  晚了，已经背了。  上司的话需要analyze 但是你的customer 不管说什么必须要听  例子太好了，深深印入了脑海里  只有魔法才能打败魔法  晚了，已经背下来了。  这样会不会显得manager很笨  你可以编一下，说是隔壁组的manager  同问 感觉manager听到能挣钱很难会block你  跟直接manager有conflict不太合适  正常人早就同意了 你还和我争  对啊  有conflict一般都是 clarity不够，有个人没有拿到所有信息  话说面试官是中国人的话是好事吗  解释一下就行了，但是这样没scope啊。还是之前的故事好。 都背下来背下来  "有conflict一般都是 clarity不够，有个人没有拿到所有信息"
@@ -2421,3 +2422,1039 @@ From Savannah Tong to Everyone: (8:56 PM)
 From Lucas Li to Everyone: (9:09 PM)
  不能用异步的队列吧
 万一信用卡信息不对呢 
+
+## Google drive
+From Tekken to Everyone: (7:06 PM)
+ 第一次做mock面试官 做的不足的地方 大家多指教 🙏 
+From 老黄瓜 to Everyone: (7:06 PM)
+ 老哥谦虚了 请开始你的表演！ 
+From Ken to Everyone: (7:15 PM)
+ https://docs.google.com/document/d/19WtV88EbH8_t5J8bxZ6tAbMJz0iO6EtsKetzun55UC8/edit# 
+From Yu Zheng to Everyone: (7:17 PM)
+ google drive has desktop version too... 
+From Li to Everyone: (7:17 PM)
+ +1 
+From jun to Everyone: (7:17 PM)
+ +1 
+From Xinyu Zhang to Everyone: (7:17 PM)
+ +1 
+From 老黄瓜 to Everyone: (7:17 PM)
+ So what’s the difference between dropbox vs google drive? In terms of user functionality 
+From Ken to Everyone: (7:18 PM)
+ https://docs.google.com/document/d/19WtV88EbH8_t5J8bxZ6tAbMJz0iO6EtsKetzun55UC8/edit# includes meeting notes and QR code Time: 7:16-8:01 
+From jun to Everyone: (7:19 PM)
+ Thanks 
+From Ken to Everyone: (7:19 PM)
+ Calendar for future events: https://www.designclub.mingdaoschool.com/calendar.html 
+From HW to Everyone: (7:20 PM)
+ Tom是interviewee吗？ 
+From jun to Everyone: (7:20 PM)
+ Delete files? 
+From 老黄瓜 to Everyone: (7:20 PM)
+ Update files? 
+From Xinyu Zhang to Everyone: (7:20 PM)
+ 多人实时更新文件功能 为什么算是bonus部分啊？ 
+From Yu Zheng to Everyone: (7:20 PM)
+ 是啊。。为啥都是面试人自己写 functionality 
+From EE to Everyone: (7:21 PM)
+ 这个设计更像是file system 
+From xiaonan to Everyone: (7:21 PM)
+ 因为卷... 
+From Zhengguan Li to Everyone: (7:22 PM)
+ ... 
+From HW to Everyone: (7:22 PM)
+ req collection应该是考察的一部分 
+From jun to Everyone: (7:22 PM)
+ +1 
+From Yu Zheng to Everyone: (7:22 PM)
+ 是啊。。 
+From James to Everyone: (7:22 PM)
+ share files 不管了？面试官提了好几回 
+From 应Jianghong to Everyone: (7:22 PM)
+ 3个9也太低了 
+From EE to Everyone: (7:22 PM)
+ Drive also makes it easy for others to edit and collaborate on files 
+From Tony Y to Everyone: (7:22 PM)
+ 面试的小伙不要看chat哈 
+From Xinyu Zhang to Everyone: (7:23 PM)
+ 而且多人会同时修改文件 还要处理consistent 
+From Peng Su to Everyone: (7:23 PM)
+ 真实的面试我从来没碰到过严格按照这套流程走的 都是有来有往的讨论 
+From Yu Zheng to Everyone: (7:23 PM)
+ 因为这个题目是提前知道的。。所以准备的时候倾向过了点 
+From jun to Everyone: (7:23 PM)
+ It is driven by the interviewee now 
+From 老黄瓜 to Everyone: (7:23 PM)
+ @Peng Su 能说下是咋样的来往讨论呢？ 
+From Peng Su to Everyone: (7:23 PM)
+ 一开始给的题目也会有更多的细节，不会是就给个5个单词的题目 
+From la s er to Everyone: (7:24 PM)
+ 面试者 是不是 比较太 aggressive了？还是我的错觉 
+From lw to Everyone: (7:24 PM)
+ 要我没用过难道不让面了。。 
+From EE to Everyone: (7:24 PM)
+ mock的senior level？ 
+From Yu Zheng to Everyone: (7:24 PM)
+ 没用过就去跟面试官聊 user case 
+From James to Everyone: (7:24 PM)
+ +1 没用过就去跟面试官聊 user case 
+From Ken to Everyone: (7:24 PM)
+ https://docs.google.com/document/d/19WtV88EbH8_t5J8bxZ6tAbMJz0iO6EtsKetzun55UC8/edit# includes meeting notes and QR code Time: 7:16-8:01 
+From lw to Everyone: (7:24 PM)
+ 对呀。感觉还是和面试官聊吧。 
+From xiaonan to Everyone: (7:25 PM)
+ 根据我的经验，没用过基本就是挂了。除非你是天才 
+From 老黄瓜 to Everyone: (7:25 PM)
+ 啊 没用过正常吧 design tinder 你咋说 
+From lw to Everyone: (7:25 PM)
+ 那没用的多了。投票里不是还有stock exchange么。 
+From 应Jianghong to Everyone: (7:26 PM)
+ tinder还是有可能用过的 
+From Yu Zheng to Everyone: (7:26 PM)
+ 因为 feature 是对方给的。。你只要知道 feature 对应的 user case 就可以了。。。 
+From Ken to Everyone: (7:26 PM)
+ Ming Dao School event calendar: https://www.designclub.mingdaoschool.com/calendar.html  Vote for popular questions https://www.designclub.mingdaoschool.com/popular-interview.html https://docs.google.com/document/d/19WtV88EbH8_t5J8bxZ6tAbMJz0iO6EtsKetzun55UC8/edit# includes meeting notes and QR code Time: 7:16-8:01 
+From iPad to Everyone: (7:26 PM)
+ 没用过很正常 
+From 应Jianghong to Everyone: (7:26 PM)
+ 有的面试题就是没productionize的feature 
+From EE to Everyone: (7:26 PM)
+ cloud storage和Google drive的痛点不一样 
+From Peng Su to Everyone: (7:27 PM)
+ 一般是先设计一个MVP，不考虑scale，然后再根据面试官的提问，往不同的方向走 
+From xiaonan to Everyone: (7:27 PM)
+ 没用过你基本上只能往通用的一些点靠，从而失去了特定题目的特点。往往要考察的通常是这些特点 
+From Peng Su to Everyone: (7:27 PM)
+ 比如有的会问resiliency，有的问scale 
+From Xinyu Zhang to Everyone: (7:27 PM)
+ 这个bandwidth没必要算的具体吧 和interviewer聊聊差不多的级别就可以了吧 
+From xiaonan to Everyone: (7:27 PM)
+ 不是所有面试官都有来有往的 
+From lw to Everyone: (7:27 PM)
+ 可以问面试官吧。这才是沟通。不然不是背答案。。 
+From Yu Zheng to Everyone: (7:27 PM)
+ 没用过产品不代表没用过类似的。。我没用过 pin 但是可以用过竞争对手的 
+From xiaonan to Everyone: (7:27 PM)
+ L5基本上你要drive整个过程 你当然可以问does it make sense这种问题 
+From Cory Wang to Everyone: (7:28 PM)
+ drive没错，但是scope requirements的时候还是要问问interviewer吧 
+From xiaonan to Everyone: (7:28 PM)
+ 但是我遇到的考官就是不给你任何提示 
+From Yu Zheng to Everyone: (7:28 PM)
+ drive 的是 design。。不是 requirement 吧。。 
+From xiaonan to Everyone: (7:29 PM)
+ 咱得做好最坏的打算 
+From Peng Su to Everyone: (7:29 PM)
+ 对，drive的意思是有很多条路，根据需求选一条 
+From EE to Everyone: (7:29 PM)
+ 这就是了cloud file system不是Google drive 
+From jun to Everyone: (7:29 PM)
+ 20 files 
+From Yu Zheng to Everyone: (7:29 PM)
+ drive 的是 conversion。。不是说脑补需求。。这个有区别的。。 
+From Peng Su to Everyone: (7:29 PM)
+ Drive的意思不是我就按照我自己的路线开车 
+From jun to Everyone: (7:29 PM)
+ 1024/50 
+From Xinyu Zhang to Everyone: (7:29 PM)
+ （requirement7分钟 + capacity6分钟） 
+From Ken to Everyone: (7:30 PM)
+ Time: 7:16-8:01 Meeting notes and QR code https://docs.google.com/document/d/19WtV88EbH8_t5J8bxZ6tAbMJz0iO6EtsKetzun55UC8/edit# 
+From jun to Everyone: (7:31 PM)
+ permission is at the front 
+From 老黄瓜 to Everyone: (7:31 PM)
+ CRUD 每个功能一个Service? 
+From Kun Zhang to Everyone: (7:32 PM)
+ As a serverless? 
+From jun to Everyone: (7:32 PM)
+ no cache? 
+From Eric Haung to Everyone: (7:32 PM)
+ Auth service 不是应该在Upload, download, delete, list files service etc的前面吗？ 
+From 老黄瓜 to Everyone: (7:33 PM)
+ 感觉我已经confuse了 
+From Xinyu Zhang to Everyone: (7:33 PM)
+ DB 
+From Tony Y to Everyone: (7:33 PM)
+ 冷静。。可能只是general api 
+From James to Everyone: (7:33 PM)
+ 不理hint。不太好吧 
+From 应Jianghong to Everyone: (7:33 PM)
+ Eric说得对 
+From Xinyu Zhang to Everyone: (7:33 PM)
+ 连DB都没有 
+From Yu Zheng to Everyone: (7:33 PM)
+ 的确是。。忽视 hint 貌似是个常见错误 
+From 应Jianghong to Everyone: (7:33 PM)
+ Auth service应该是一个截面 
+From jun to Everyone: (7:34 PM)
+ Google drive shall use single-signon, right? 
+From Li to Everyone: (7:34 PM)
+ “连DB都没有” +1 
+From Kai to Everyone: (7:34 PM)
+ Is it overkill to build once service  for each upload/download/delete action? 
+From Eric Haung to Everyone: (7:35 PM)
+ could file storage应该是他想表达的DB cloud* 
+From Tong Liu to Everyone: (7:35 PM)
+ Cache可以先不设计吗，到scale那步再加？ 
+From Li to Everyone: (7:35 PM)
+ DB需要存metadata 
+From Kai to Everyone: (7:35 PM)
+ Metadata +1 
+From jun to Everyone: (7:35 PM)
+ metadata+1 
+From Vivian huai to Everyone: (7:35 PM)
+ interviewee好像不需要interviewer讲话就好的感觉 >_< 
+From Li to Everyone: (7:35 PM)
+ file的metadata, user的metadata， 各个device的metadata， etc 
+From 应Jianghong to Everyone: (7:35 PM)
+ 理论上的话one service per each crud operation可以horizonal scaling 
+From 老黄瓜 to Everyone: (7:35 PM)
+ 感觉可以稍微更high-level，比如 user -> API gateway -> CRUD service -> DB. etc 然后每个部分细节再展开，可能让观众更容易跟上 
+From 应Jianghong to Everyone: (7:36 PM)
+ 实际上嘛我估计代码会很bloated 
+From Xinyu Zhang to Everyone: (7:36 PM)
+ DB要存的东西挺多的 那个FS和DB完全是不一样的东西 
+From Qiqi to Everyone: (7:36 PM)
+ 存metadata为啥不能直接用cloud? 
+From jun to Everyone: (7:36 PM)
+ It does not have a big picture 
+From Eric Haung to Everyone: (7:36 PM)
+ 感觉走太快了 应该把各个component 说一次，make sure 和面试官是same page 
+From Tony Y to Everyone: (7:36 PM)
+ 先写一个mvp然后再考虑scale呢？ 
+From Xinyu Zhang to Everyone: (7:36 PM)
+ 而且这个API很不rest 
+From James to Everyone: (7:36 PM)
+ 感觉沟通有点脱节 
+From Eric Haung to Everyone: (7:36 PM)
+ 现在面试官可能很多问题，但是已经开始写API了。。 
+From Cory Wang to Everyone: (7:36 PM)
+ +1 沟通脱节 
+From lw to Everyone: (7:37 PM)
+ api需要写这么细嘛（是一个问题）？能不能不写这么多args。 
+From 应Jianghong to Everyone: (7:37 PM)
+ 其实中间的service应该整合成一个application layer 
+From Kd to Everyone: (7:37 PM)
+ 觉得是面试不太够，没有把一个深度的东西画出来。 那个图可能没有任何信息量 
+From Eric Haung to Everyone: (7:37 PM)
+ +1 
+From jun to Everyone: (7:37 PM)
+ +1 
+From Yu Zheng to Everyone: (7:37 PM)
+ do you know that....very bad wording lol 
+From Vivian huai to Everyone: (7:37 PM)
+ +1 沟通脱节 
+From xiaonan to Everyone: (7:37 PM)
+ 面试者过会应该会更新他的图吧 
+From Tony Y to Everyone: (7:38 PM)
+ offline sync 是个functional requiremnet 
+From Xinyu Zhang to Everyone: (7:38 PM)
+ 这个API要写的话可以 file/  GET/PUT/DELETE 
+From jun to Everyone: (7:38 PM)
+ drive to details too fast 
+From Eric Haung to Everyone: (7:38 PM)
+ POST,GET,Delete 
+From jun to Everyone: (7:38 PM)
+ HEAD? 
+From Tony Y to Everyone: (7:38 PM)
+ api我经常不写。。。 
+From jun to Everyone: (7:39 PM)
+ no user db? 
+From 应Jianghong to Everyone: (7:39 PM)
+ 我突然意识到一个问题，这个里头是不是缺了个front end? 
+From jun to Everyone: (7:39 PM)
+ web/client app 
+From 应Jianghong to Everyone: (7:39 PM)
+ 要不然你怎么sync呢？ 
+From iPhone to Everyone: (7:39 PM)
+ 是不是他画的User？被挡住了… 
+From Eric Haung to Everyone: (7:40 PM)
+ 好像面试的哥哥想一次性把自己的想法写出来 再慢慢讲解 这个缺点是 如果一开始就是错了 那么就浪费非常多时间 
+From Qi Wang to Everyone: (7:40 PM)
+ service的划分好像不太对，应该是读写service分离，然后用cache解决读的问题。 
+From jun to Everyone: (7:40 PM)
+ It looks like user call rest api directly 
+From James to Everyone: (7:40 PM)
+ 我觉得可以在functional requirement的时候就写APIs 
+From Li to Everyone: (7:41 PM)
+ table存在了file system里面了，这明显错误了 
+From Xinyu Zhang to Everyone: (7:41 PM)
+ 这个为啥要transaction啊 
+From Yu Zheng to Everyone: (7:42 PM)
+ 哈哈太自信了 
+From emma to Everyone: (7:42 PM)
+ seems like the candidate doesn't know the difference between db and file storage 
+From Li to Everyone: (7:42 PM)
+ “seems like the candidate doesn't know the difference between db and file storage” +1 
+From Yu Zheng to Everyone: (7:42 PM)
+ indeed 
+From I to Everyone: (7:42 PM)
+ +1 
+From 老黄瓜 to Everyone: (7:42 PM)
+ 感觉这个设计比较难collect signals 
+From jun to Everyone: (7:42 PM)
+ The question is too big to answer in 1 hour 
+From xiaonan to Everyone: (7:43 PM)
+ +1 
+From Vivian huai to Everyone: (7:43 PM)
+ 感觉有点像背答案，不是真的理解 
+From Ming to Everyone: (7:43 PM)
+ Meta data 一般存db，对吧？ 
+From Phia to Everyone: (7:43 PM)
+ 不是应该follow interviewer direction吗？ 感觉小哥就是想把自己想讲的讲了 
+From jun to Everyone: (7:43 PM)
+ NOSQL DB 
+From Yu Zheng to Everyone: (7:43 PM)
+ 恩，从 feature 开始就是很明显背答案了。。所以都在往自己准备过的上面去套。。。 
+From iPhone to Everyone: (7:43 PM)
+ 先设计出个MVP感觉比较安全 
+From Jinmin’s iPad to Everyone: (7:43 PM)
+ I’d like to see the relationship between the permission service and the other services. I’d like to see a workflow about how permission service, upload service and db work together. 
+From 老黄瓜 to Everyone: (7:43 PM)
+ File blob 和 metadata 是存在一起吗？transaction 保证 metadata 就行了吧？ 
+From Huimin Yang to Everyone: (7:44 PM)
+ 怎么突然跳到chunk了。。 
+From Shihao Zhong to Everyone: (7:44 PM)
+ 有个问题，这个题目的核心应该是做一个分布式文件系统还是说product的功能？ 
+From Xinyu Zhang to Everyone: (7:44 PM)
+ 而且直接就nosql了，每个api的qps全没用到。之前说了6分钟的capacity几乎没用到 
+From First Last to Everyone: (7:44 PM)
+ 背答案 + 1 
+From Kd to Everyone: (7:44 PM)
+ 感觉就是没有什么节奏可言 
+From Ming to Everyone: (7:44 PM)
+ 因为要讲multi part upload 
+From 老黄瓜 to Everyone: (7:44 PM)
+ 感觉pick too many small things 
+From Kd to Everyone: (7:44 PM)
+ 整个flow没走通就已经开始detail了 
+From Ming to Everyone: (7:44 PM)
+ 的确是太跳跃了 
+From Eric Haung to Everyone: (7:44 PM)
+ 背答案 + 1 
+From First Last to Everyone: (7:44 PM)
+ 感觉面试者不理解这个东西 
+From Li to Everyone: (7:44 PM)
+ 这个设计没法做到多个device之间sync file change。需要大改。 
+From Yu Zheng to Everyone: (7:45 PM)
+ 因为找到的答案就是这样。。。 
+From Jay to Everyone: (7:45 PM)
+ lol 
+From 老黄瓜 to Everyone: (7:45 PM)
+ Compression/chunk + zip 一句话可以带过的 
+From lw to Everyone: (7:45 PM)
+ 可是答案也不是这样的。。 
+From iPhone to Everyone: (7:45 PM)
+ Chunks是哪里来的？ 
+From First Last to Everyone: (7:45 PM)
+ 图的component，完全不是这样的，答案也不是这样的。。 
+From jun to Everyone: (7:45 PM)
+ +1 
+From Kd to Everyone: (7:45 PM)
+ 有好答案链接推荐吗 
+From Xinyu Zhang to Everyone: (7:45 PM)
+ “可是答案也不是这样的。” + 1 
+From Tony Y to Everyone: (7:45 PM)
+ 感觉讲回来点了，先说chunk然后就可以推到为什么需要metadata了 
+From 应Jianghong to Everyone: (7:45 PM)
+ 我是觉得最好还是top down drive的 
+From Kd to Everyone: (7:45 PM)
+ YouTube link? Web link? 
+From Ming to Everyone: (7:45 PM)
+ s3就是有用chunk。 
+From Yu Zheng to Everyone: (7:45 PM)
+ 一会可以看看面试官准备的参考答案 
+From Ken to Everyone: (7:45 PM)
+ meeting notes and QR code  https://docs.google.com/document/d/19WtV88EbH8_t5J8bxZ6tAbMJz0iO6EtsKetzun55UC8/edit#  Time: 7:16-8:01  Ming Dao School event calendar: https://www.designclub.mingdaoschool.com/calendar.html  Vote for popular questions https://www.designclub.mingdaoschool.com/popular-interview.html 
+From 应Jianghong to Everyone: (7:45 PM)
+ 面试官可能不care chunk 
+From Catherine zhang to Everyone: (7:45 PM)
+ 大家不要做太多假设 再说本来来这里面试就是会提前做准备的啊 
+From Esther to Everyone: (7:46 PM)
+ 面试官可能不care chunk +1 
+From Li to Everyone: (7:46 PM)
+ +1 
+From lw to Everyone: (7:46 PM)
+ 背答案ok的呀。 
+From Zhengguan Li to Everyone: (7:46 PM)
+ (为啥我感觉说的还行...) 
+From First Last to Everyone: (7:46 PM)
+ 参考答案：https://www.youtube.com/watch?v=PE4gwstWhmc Dropbox Senior Engineer design at Stanford University. 
+From lw to Everyone: (7:46 PM)
+ 一样的题当然是背咯。 
+From Xinyu Zhang to Everyone: (7:46 PM)
+ 30min了  7min requirement+6min capacity + 17min后来的这些 基本上真正面试已经结束了 
+From 老黄瓜 to Everyone: (7:46 PM)
+ Data estimation 也没说大文件，chunks 可能也不需要 
+From kk to Everyone: (7:46 PM)
+ 那咱们讲点建设性的 怎样才能减少背答案的印象啊，有啥方法技巧需要注意吗 
+From jun to Everyone: (7:46 PM)
+ suppose u r a user 
+From Yu Zheng to Everyone: (7:47 PM)
+ 碰到准备过的题目不要高兴得太早。。去挖掘对方感兴趣的考点。。而不是自己硬套 
+From lw to Everyone: (7:47 PM)
+ 我觉得就是和面试官聊出来。 
+From Li to Everyone: (7:47 PM)
+ 同一用户多个客户端/设备之间保持local的文件一致，这点完全没有谈 
+From lw to Everyone: (7:47 PM)
+ 来出来就是自然的。 聊 
+From iPhone to Everyone: (7:47 PM)
+ 理解原理的话背答案没问题啊，面试官的问题都能处理好就行 
+From Yu Zheng to Everyone: (7:47 PM)
+ 比如 feature 你可以说自己准备的，然后问他想要看到什么。。 
+From 应Jianghong to Everyone: (7:47 PM)
+ 这个sync还是有一定技术难度的 
+From lw to Everyone: (7:47 PM)
+ 而且面试官也知道你学过。。 
+From Vivian huai to Everyone: (7:47 PM)
+ 和面试官聊和沟通很重要 
+From Kd to Everyone: (7:47 PM)
+ 感觉主要是得刚开始先跟着面试官的要求走，然后再往自己的去套 
+From Yu Zheng to Everyone: (7:47 PM)
+ 不要去 challenge interviewer。。去 合作解决问题。。 
+From Ming to Everyone: (7:48 PM)
+ +1 
+From DEFA WANG to Everyone: (7:48 PM)
+ 开5个services 。。。。 
+From Kd to Everyone: (7:48 PM)
+ 就是一开始太根据自己的想法走，不理面试官的feeback，就会有种背答案的感觉了。 
+From Yu Zheng to Everyone: (7:48 PM)
+ 比如面试官刚才说 meta db 和 file db 是不是要分开？你回答分开就是了。。 
+From Vivian huai to Everyone: (7:48 PM)
+ 而且确实没听面试官在说啥 
+From lw to Everyone: (7:49 PM)
+ 感觉这些service之后可以分开。一开始这么多，而且很相似，没啥必要。 
+From Cory Wang to Everyone: (7:49 PM)
+ high level design完成了吗？  这个图不是high level design吧 
+From 老黄瓜 to Everyone: (7:49 PM)
+ 我没理解 他的数据是咋存的 NoSQL 是metadata 还是both 
+From jun to Everyone: (7:49 PM)
+ Sometimes interviewers work like that 
+From Cory Wang to Everyone: (7:49 PM)
+ Not workable solution 
+From Vivian huai to Everyone: (7:49 PM)
+ 很多该说清楚的都没说清楚 
+From Xinyu Zhang to Everyone: (7:49 PM)
+ 其实不带chunker也没问题 就是效率低呗  关键的file-detecter和每个file的version怎么查搞个minimal working solution 然后再说怎么不同用户sync， resolve conflict 
+From iPhone to Everyone: (7:49 PM)
+ 为啥引入MQ？好像没做太多tradeoff的讨论和原因解释 
+From kk to Everyone: (7:49 PM)
+ 感谢各位大佬的举例！ 
+From First Last to Everyone: (7:49 PM)
+ Not workable solution + 1 
+From 老黄瓜 to Everyone: (7:50 PM)
+ 还有一些 fail case 能讨论估计能更清晰，比如用户传到一半失败了，后面是重新来还是有checkpoint？用户 pull 最新的文件允许lag吗？用户2个手机，一个删文件一个加文件咋handle？ 
+From Catherine zhang to Everyone: (7:50 PM)
+ MQ 在这里干什么 没听明白 
+From Huimin Yang to Everyone: (7:51 PM)
+ 面试的时候跟面试官在same page很重要吧。。感觉不能各说各的 
+From tom to Everyone: (7:51 PM)
+ MQ在实时共享编辑的时候是需要的 
+From jun to Everyone: (7:51 PM)
+ If you delete a file, the operation will go to a mq 
+From Catherine zhang to Everyone: (7:52 PM)
+ 这个chat里的tom是interviewee? 
+From Kevin to Everyone: (7:52 PM)
+ @Catherine，是的 
+From iPhone to Everyone: (7:52 PM)
+ 不是说MQ在这里用的完全不对，是觉得应该解释下，否则就可能有点跳跃了 
+From Vivian huai to Everyone: (7:52 PM)
+ 感觉interviewee就是把各种东西七拼八凑在一起，撞到关键词就算 
+From Kd to Everyone: (7:52 PM)
+ 一般MQ是什么时候需要？解耦？ 
+From Anony to Everyone: (7:52 PM)
+ Tom & Jerry 
+From Cory Wang to Everyone: (7:52 PM)
+ 😂 
+From Catherine zhang to Everyone: (7:52 PM)
+ 太厉害了 mutli-tasking 
+From jun to Everyone: (7:53 PM)
+ multi operation on a single resource 
+From 应Jianghong to Everyone: (7:53 PM)
+ MQ肯定是少不了的，但是没有讲service 和storage architecture就显得很跳脱 
+From Jerry to Everyone: (7:53 PM)
+ 怎么解决version conflict 
+From Anony to Everyone: (7:53 PM)
+ 还真有jerry呀 
+From Huimin Yang to Everyone: (7:54 PM)
+ ... 
+From Vivian huai to Everyone: (7:54 PM)
+ 没有给面试官深入探讨的机会。面试官一问就转移话题 
+From Shihao Zhong to Everyone: (7:54 PM)
+ 别搞这个啊老哥 
+From christie Yu to Everyone: (7:54 PM)
+ 为什么要讨论client connection option? 
+From emma to Everyone: (7:54 PM)
+ a walk through of a single flow is necessary 
+From christie Yu to Everyone: (7:54 PM)
+ 这是在讨论 同时编辑一个文件嘛？ 
+From Kd to Everyone: (7:54 PM)
+ https://www.youtube.com/watch?v=PE4gwstWhmc 这个就没有MQ呀？ 
+From 老黄瓜 to Everyone: (7:54 PM)
+ 感觉讨论都很细节 high-level不是很多 
+From Tony Y to Everyone: (7:54 PM)
+ 就很真实。。。我第一次面亚麻就这样没准备好 亚麻直接给了一年半冷冻期 
+From emma to Everyone: (7:55 PM)
+ 感觉讨论都很细节 high-level不是很多 +1 
+From Dingwen Chen to Everyone: (7:55 PM)
+ 好像用不上MQ， 至少没解释清楚 
+From 应Jianghong to Everyone: (7:55 PM)
+ network latency呢 
+From Hao Wu to Everyone: (7:55 PM)
+ 感觉真实面试不需要这么多细节吧 
+From Li to Everyone: (7:55 PM)
+ “没有给面试官深入探讨的机会。面试官一问就转移话题” +1 
+From Xinyu Zhang to Everyone: (7:55 PM)
+ fifo? 放queue里的先后也有网络延时 
+From Qi Wang to Everyone: (7:55 PM)
+ 为啥要用websocket，有啥场景需要么， 
+From jun to Everyone: (7:56 PM)
+ The interview do watch chats! 
+From Ming to Everyone: (7:56 PM)
+ 我觉得细节也不够。很多东西刚开始讲，就没很detail就下一个了 
+From Tony Y to Everyone: (7:56 PM)
+ 面试的人别看chats哈 会被影响的 
+From iPhone to Everyone: (7:56 PM)
+ 权限还没检查呢，User有没有资格上传？ 
+From ZZB to Everyone: (7:56 PM)
+ I think the permission/auth layer will not work in this design. It can not be parallel with other ops 
+From Catherine zhang to Everyone: (7:57 PM)
+ 这个问题就是很大 都讲时间肯定不够 要先抓住一个feature 讲清楚 再说别的 
+From Ping Lu to Everyone: (7:57 PM)
+ 系统是不是太大太复杂了，该怎么取舍才能把问题讲清楚，觉的遇到这样的系统设计题，挺难面的。 
+From Kd to Everyone: (7:57 PM)
+ 是个好策略 
+From Xinyu Zhang to Everyone: (7:57 PM)
+ 这个题要fanout么？ 
+From Yu Zheng to Everyone: (7:57 PM)
+ 一定要挖掘大概也可以。。但是没必要吧 
+From xiaonan to Everyone: (7:57 PM)
+ chunk check在client端做是不是更容易一些？ 
+From Huimin Yang to Everyone: (7:57 PM)
+ 问面试官想dive deep哪里，然后讲那一块就好了 
+From Xinyu Zhang to Everyone: (7:57 PM)
+ pull mode不行么？ 
+From ZZB to Everyone: (7:57 PM)
+ MQ 为啥做的？ 
+From Ming to Everyone: (7:58 PM)
+ 面试官会guide的，跟着面试官就好。大部分时候说完high level，抓一两个深入讨论。 
+From Vivian huai to Everyone: (7:58 PM)
+ 铺的很大，但是都没讲清楚 
+From jun to Everyone: (7:58 PM)
+ +1 
+From First Last to Everyone: (7:58 PM)
+ 逻辑很混乱 
+From Ping Lu to Everyone: (7:59 PM)
+ 也有面试官让你自己决定， 
+From Yu Zheng to Everyone: (7:59 PM)
+ 先有个 mvp 比较好。。。 hint 一直在给 
+From 老黄瓜 to Everyone: (7:59 PM)
+ 感觉应该把核心数据流走完 能满足用户需求 再去加cache或者别的 
+From Kevin Li to Everyone: (7:59 PM)
+ 面试官第三次说run a use case了 。。 
+From Cory Wang to Everyone: (7:59 PM)
+ +1 
+From 老黄瓜 to Everyone: (7:59 PM)
+ 先满足 functional 再去想 non-functional 
+From jun to Everyone: (7:59 PM)
+ 面试官已经尽力了 
+From Cory Wang to Everyone: (7:59 PM)
+ 同意老黄瓜讲的 
+From Jerry to Everyone: (7:59 PM)
+ MQ应该是上传的时候时间太长的情况用吧，其它操作感觉都要很强很及时的consistency 
+From Ken to Everyone: (8:00 PM)
+ meeting notes and QR code  https://docs.google.com/document/d/19WtV88EbH8_t5J8bxZ6tAbMJz0iO6EtsKetzun55UC8/edit#  Time: 7:16-8:01 
+From Vivian huai to Everyone: (8:00 PM)
+ interviewer可以控制下时间了 
+From First Last to Everyone: (8:00 PM)
+ 时间到了！ 
+From Neng Wang to Everyone: (8:00 PM)
+ 时间到了吧 
+From iPad to Everyone: (8:00 PM)
+ 面试官说了一万次放下手下的..跑跑usecase 
+From iPhone to Everyone: (8:00 PM)
+ 名词有点多，有俩MQ吗？不好意思，有点跟不上了 
+From Ken to Everyone: (8:00 PM)
+ 30 seconds.. 
+From jun to Everyone: (8:00 PM)
+ 上传的时候mq里面的命令已经执行了 
+From Li to Everyone: (8:00 PM)
+ 彻底的混乱了。。。。。。 
+From Yu Zheng to Everyone: (8:00 PM)
+ 杯具。。时间到了，还没 workable 
+From Huimin Yang to Everyone: (8:01 PM)
+ 。。。 
+From Li to Everyone: (8:01 PM)
+ 因为最简单的case都跑不通，不停的加/改，设计已经失控了 
+From ZZB to Everyone: (8:01 PM)
+ 为啥还有dedupe? 
+From lw to Everyone: (8:01 PM)
+ dedup也没那么重要。。 
+From iPhone to Everyone: (8:01 PM)
+ 待会儿能让面试官和面试者领着大家过一遍这个解法吗？ 
+From 老黄瓜 to Everyone: (8:01 PM)
+ 感觉Tom同学还是有知识储备的 如果能自己给自己mock训练一下面试技巧会更好 
+From jun to Everyone: (8:01 PM)
+ 感觉背了一堆细节 
+From Tony Y to Everyone: (8:01 PM)
+ dedupe is optmization 
+From Vivian huai to Everyone: (8:01 PM)
+ 把背过的知识点都拿出来说一下。。。 
+From Kd to Everyone: (8:01 PM)
+ 感觉Tom是看过DDIA的 
+From Vivian huai to Everyone: (8:02 PM)
+ ddia是啥 
+From Xinyu Zhang to Everyone: (8:02 PM)
+ dup是啥dup啊？ 同样的file么？ （存储便宜） 
+From lw to Everyone: (8:02 PM)
+ 细节是ok。但是要面试官问吧。面试官都不想听这个。 
+From Ping Lu to Everyone: (8:02 PM)
+ 看过能用上，很牛 
+From kk to Everyone: (8:02 PM)
+ 待会能让面试官带着讲讲合理的时间分配吗 
+From iphone to Everyone: (8:02 PM)
+ Dedupe： remove duplicate 
+From Jerry to Everyone: (8:02 PM)
+ merle hash tree可以用来dedup吗 merkle * 
+From Vivian huai to Everyone: (8:03 PM)
+ 请问DDIA是什么 
+From Selena to Everyone: (8:03 PM)
+ 野猪头 
+From Catherine zhang to Everyone: (8:03 PM)
+ dedup可以有很多很多方式 要based on use case 
+From Jerry to Everyone: (8:03 PM)
+ Designing Data-Intensive Applications (DDIA)书 
+From Vivian huai to Everyone: (8:03 PM)
+ 谢谢 
+From jun to Everyone: (8:04 PM)
+ 能给下slides？谢谢 
+From Neng Wang to Everyone: (8:04 PM)
+ 没收到问卷 
+From Vivian huai to Everyone: (8:04 PM)
+ 没收到问卷 
+From 老黄瓜 to Everyone: (8:04 PM)
+ 同没收到 
+From 老黄瓜 to Everyone: (8:06 PM)
+ Hard skill 问卷收到了。。 
+From Vivian huai to Everyone: (8:07 PM)
+ +1 
+From Qi Wang to Everyone: (8:07 PM)
+ 没收到问卷的是因为zoom client 版本没有升级到最新 
+From iPad to Everyone: (8:07 PM)
+ ipad的话貌似打开了chat poll就不popup* 
+From Neng Wang to Everyone: (8:07 PM)
+ 我也是这次收到了 
+From 应Jianghong to Everyone: (8:07 PM)
+ 下次应该让设计一个zoom poll system 
+From iPhone to Everyone: (8:07 PM)
+ 能让面试官和面试者领着大家过一遍这个解法吗？谢谢 
+From 老黄瓜 to Everyone: (8:08 PM)
+ 哈哈 下次来个 design zoom poll feature 
+From Ken to Everyone: (8:08 PM)
+ https://www.designclub.mingdaoschool.com/popular-interview.html 
+From Xinyu Zhang to Everyone: (8:08 PM)
+ 是个fanout lol 
+From tom to Everyone: (8:08 PM)
+ tinder system design 
+From 老黄瓜 to Everyone: (8:09 PM)
+ @tom tinder 系统设计不简单的 😅 
+From HW to Everyone: (8:09 PM)
+ 会有machine learning system design吗？ 
+From ZZB to Everyone: (8:10 PM)
+ I can not see the screen Now I can 
+From ggg to Everyone: (8:11 PM)
+ 问题是有点复杂  太general了  我印象中tinder要做geofencing还有一个分发机制吧  YouTube 上有个简单的 mock tinder  tinder的主要的问题，是不是推荐系统？  看面试官具体问什么。。。  Tiner 没用过， 能假名要注册一么？  面试官比较nice 
+From Catherine zhang to Everyone: (8:14 PM)
+ 都要 
+From Xinyu Zhang to Everyone: (8:14 PM)
+ 都要 
+From Esther to Everyone: (8:15 PM)
+ 不打断 +1 
+From Yu Zheng to Everyone: (8:15 PM)
+ 给 hint 不接受也没辙。。。 
+From Kd to Everyone: (8:15 PM)
+ 我是面试者我肯定想让面试官打断我的，但我遇到的面试官都是很nice的，让我在错误的道路上越来越远 
+From Cory Wang to Everyone: (8:15 PM)
+ 不打断然后最后给个no hire? 
+From Huimin Yang to Everyone: (8:15 PM)
+ 我也觉得适当打断比较好 
+From jun to Everyone: (8:15 PM)
+ 这个是捧杀 
+From Huimin Yang to Everyone: (8:16 PM)
+ 不然最后都讲飞了 
+From jun to Everyone: (8:16 PM)
+ 打断是棒杀 
+From 老黄瓜 to Everyone: (8:16 PM)
+ Tinder 1. 发现附近的人 2. 每个用户有自己的主页，能上传照片 3. 匹配上的人能发起(实时)对话 4. 能解除匹配 
+From Cory Wang to Everyone: (8:16 PM)
+ 不打断是捧杀，打断是棒杀 😂 
+From 应Jianghong to Everyone: (8:16 PM)
+ ？？？ 
+From emma to Everyone: (8:16 PM)
+ omg 
+From Qi Wang to Everyone: (8:16 PM)
+ 这一点面试官很对， 
+From Xinyu Zhang to Everyone: (8:16 PM)
+ 画图最好还是分着画 
+From iPhone to Everyone: (8:17 PM)
+ 面试官应该是说画在两个框框里就比较清楚 
+From Ming to Everyone: (8:17 PM)
+ 都是分开放的 
+From Yu Zheng to Everyone: (8:17 PM)
+ 这个所有 mock interview 都是分开画得吧。。 
+From 1705081 Shimingyi Chen to Everyone: (8:17 PM)
+ db和file storage 都是分开的吧 
+From Qi Wang to Everyone: (8:17 PM)
+ 逻辑上的cloud file storage 和db不是一回事 
+From Cory Wang to Everyone: (8:18 PM)
+ 不打断但是design的不是我想要的，那给hire还是 no hire 
+From iphone to Everyone: (8:18 PM)
+ The purpose of interview is to please the interviewer(boss) 
+From Cory Wang to Everyone: (8:18 PM)
+ +1 
+From Yu Zheng to Everyone: (8:18 PM)
+ and provide enough signal for hire.. 
+From emma to Everyone: (8:19 PM)
+ 逻辑上的cloud file storage 和db不是一回事 +1 
+From Cory Wang to Everyone: (8:19 PM)
+ 😂 
+From NL to Everyone: (8:19 PM)
+ 愿意打断的都是好心的 
+From Vivian huai to Everyone: (8:19 PM)
+ 面试官这个没法控制，每个人都有不同风格 
+From Catherine zhang to Everyone: (8:19 PM)
+ 是的 
+From Jenny Xu to Everyone: (8:19 PM)
+ 面试官逐渐安静不是啥好信号 
+From Cory Wang to Everyone: (8:20 PM)
+ 面试官默默打开自己的电脑开始干自己的活 
+From Tony Y to Everyone: (8:20 PM)
+ 嗯 可以马上聊sync 
+From 老黄瓜 to Everyone: (8:20 PM)
+ 赞同 @panfeng 说的 很对 
+From 应Jianghong to Everyone: (8:20 PM)
+ 在service level可能是同一个service你能够拿到metadata和文件，但是绝对不意味db和filestorage是一个logical  component 
+From Cory Wang to Everyone: (8:21 PM)
+ 哈哈哈 
+From Xinyu Zhang to Everyone: (8:21 PM)
+ 不clear要问面试官 +1 
+From Jenny Xu to Everyone: (8:22 PM)
+ +1 
+From iPhone to Everyone: (8:22 PM)
+ 问面试官+1 
+From Yu Zheng to Everyone: (8:22 PM)
+ 不要去 challenge 面试官。。。 
+From NL to Everyone: (8:22 PM)
+ 面试者超级自信👍 
+From Vivian huai to Everyone: (8:22 PM)
+ 不要去 challenge 面试官+1 
+From Ming to Everyone: (8:22 PM)
+ 都是分开放的 面试者不太尊重面试官。我们原来碰到过一次，直接pass。 
+From Cory Wang to Everyone: (8:22 PM)
+ 不要去challenge面试官+1 
+From yao yao to Everyone: (8:22 PM)
+ 那你可能是超级面试者。。。 
+From Qi Wang to Everyone: (8:22 PM)
+ 面试官问sync是很正常的，也是很好心。 
+From lw to Everyone: (8:23 PM)
+ 考点是sync。。 怎么能不问呢。 
+From Li to Everyone: (8:23 PM)
+ “面试者不太尊重面试官。我们原来碰到过一次，直接pass。” +1 
+From Qi Wang to Everyone: (8:23 PM)
+ sync或者写锁是这个题的重要考点之一 
+From lw to Everyone: (8:23 PM)
+ deupe这种都是小事。 
+From First Last to Everyone: (8:24 PM)
+ 面试者不太尊重面试官。我们原来碰到过一次，直接pass。” +1 
+From emma to Everyone: (8:24 PM)
+ 面试者不太尊重面试官。我们原来碰到过一次，直接pass。” +1 
+From Esther to Everyone: (8:24 PM)
+ 面试者不太尊重面试官。我们原来碰到过一次，直接pass。” +1 
+From Xinyu Zhang to Everyone: (8:24 PM)
+ pass是给过了？ 
+From Catherine zhang to Everyone: (8:24 PM)
+ 不能follow hint的 在我们这里 属于not a team player lol 
+From lw to Everyone: (8:24 PM)
+ pass是下一个。 
+From Cory Wang to Everyone: (8:24 PM)
+ pass是给挂了 
+From jun to Everyone: (8:24 PM)
+ 太幽默了 
+From Yu Zheng to Everyone: (8:24 PM)
+ pass candidate, next one lol 
+From Xinyu Zhang to Everyone: (8:24 PM)
+ lol 
+From Ming to Everyone: (8:24 PM)
+ 当然是fail，连feedback都省了 
+From First Last to Everyone: (8:24 PM)
+ pass掉，就是不理会，挂掉！ 
+From Xinyu Zhang to Everyone: (8:25 PM)
+ 一亩三分地耍久了 面经pass是过。。 
+From lw to Everyone: (8:25 PM)
+ 提醒了吧。。 
+From Esther to Everyone: (8:26 PM)
+ 提醒了吧。。 +1 
+From Jenny Xu to Everyone: (8:26 PM)
+ 提醒挺多次了😂 
+From Cory Wang to Everyone: (8:26 PM)
+ 提醒了 +1 
+From lw to Everyone: (8:26 PM)
+ 主要没时间。 只能看面试官想考啥。 
+From Xinyu Zhang to Everyone: (8:26 PM)
+ 而且qps说了半天也没说到一个具体的数量级 比如多少k，而且最后api和DB选择也没用到 
+From Jenny Xu to Everyone: (8:27 PM)
+ 面试者像极了几年前找工作的我。。。自嗨得不行 
+From iPhone to Everyone: (8:27 PM)
+ MVP先设计出来会比较安全 
+From Kd to Everyone: (8:27 PM)
+ MVP是什么？ 
+From Xinyu Zhang to Everyone: (8:27 PM)
+ 求面试官带着讲一个答案 
+From Jenny Xu to Everyone: (8:27 PM)
+ Minimun Variable Product 
+From Vivian huai to Everyone: (8:27 PM)
+ 可以讨论下这个题目该怎么解答吗 
+From lw to Everyone: (8:28 PM)
+ 告诉我9999我也没办法量化。 
+From jun to Everyone: (8:28 PM)
+ 这个问题单讲可能需要100个小时 
+From lw to Everyone: (8:28 PM)
+ 对的。 
+From Shihao Zhong to Everyone: (8:28 PM)
+ 同样有这种怡文 疑问 
+From emma to Everyone: (8:29 PM)
+ 我觉得面试官可以更自信一些 
+From Vivian huai to Everyone: (8:29 PM)
+ +1 
+From Huimin Yang to Everyone: (8:29 PM)
+ 这里说的L4是Google的L4嘛 
+From Cory Wang to Everyone: (8:29 PM)
+ 当面试官也不容易 
+From 老黄瓜 to Everyone: (8:29 PM)
+ L4不是不考系统设计吗😂 
+From lw to Everyone: (8:30 PM)
+ avaiability有不需要的么。主要看面试官考不考。 
+From Panfeng Xue to Everyone: (8:30 PM)
+ L4 也会考 
+From ZZ to Everyone: (8:30 PM)
+ 要考的 
+From Catherine zhang to Everyone: (8:30 PM)
+ 会比较简单 
+From 201703005 Di Ha to Everyone: (8:30 PM)
+ 只有Google的L4不考sd，其它公司的mid senior都考sd 
+From Yue to Everyone: (8:31 PM)
+ MLE的话考sd吗 
+From Yu Zheng to Everyone: (8:32 PM)
+ 考的。。 只是侧重点不太一样 
+From Catherine zhang to Everyone: (8:32 PM)
+ 考ml sd 
+From lw to Everyone: (8:33 PM)
+ kafka consumer group？ 
+From Tony Y to Everyone: (8:33 PM)
+ 书似乎实在有kafka之前写的 
+From HW to Everyone: (8:33 PM)
+ 其实有点想了解ml sd的interview，不知道铭道会有这方面的计划没有 
+From Shihao Zhong to Everyone: (8:33 PM)
+ 感觉这个有一致性的问题把 
+From jun to Everyone: (8:33 PM)
+ 这个是没办法的 
+From Tony Y to Everyone: (8:34 PM)
+ 这里说的是每个user要有一个queue, 我看的时候觉得不一定是最优的 
+From Xinyu Zhang to Everyone: (8:34 PM)
+ 不同client同时写 怎么handel啊？ 
+From emma to Everyone: (8:34 PM)
+ dropbox好像用的是long polling 
+From Yu Zheng to Everyone: (8:34 PM)
+ google drive 其实本身还真有不少一致性问题没解决 
+From Tony Y to Everyone: (8:34 PM)
+ 一致性书里也问题没讲 我的想法是有conflict就算一个新的branch 算一个文件的副本 
+From Jerry to Everyone: (8:37 PM)
+ 应该是先建metadata再传文件chunk最后完成在更新metadata吗 
+From 老黄瓜 to Everyone: (8:37 PM)
+ 感觉需要 checksum，metadata 每个文件有状态，保证chunk 不完整的时候 metadata 状态不是 complete 
+From Jerry to Everyone: (8:38 PM)
+ drive属于object storage吗 
+From 老黄瓜 to Everyone: (8:38 PM)
+ 比如 file_123, in-progress, 5/8, 同时维护 file_123 -> {chunk_123_0, …} 的映射 
+From Li to Everyone: (8:38 PM)
+ “应该是先建metadata再传文件chunk最后完成在更新metadata吗” +1 
+From Tekken to Everyone: (8:38 PM)
+ https://whimsical.com/google-drive-BBsXFU8DQX7tp9CMyTXASs 
+From Jerry to Everyone: (8:39 PM)
+ 一次传不完，还要断点续传 
+From Kd to Everyone: (8:39 PM)
+ 上传失败了可 
+From jun to Everyone: (8:40 PM)
+ 你在硬盘上是连续存的？  本地要存metadata, 然后比较哪个chuck被改了  chunker切的。  client里有chunker  感觉就是性能好 但不是最基本所需要的  对，应该不是 mvp 的  图中的 workspace 是啥意思？  赞同 可以假设用户只能上传 <10MB 的文件 然后完成MVP  @Ming, 说得对  在前端就block了 
+From iPhone to Everyone: (8:42 PM)
+ 肯定是先访问Metadata Service啊，权限不得先检查才能忘File Server里写 
+From Qi Wang to Everyone: (8:43 PM)
+ 我觉得这个图的基本思路没啥问题。 
+From Tony Y to Everyone: (8:44 PM)
+ 查重可能是个花时间的活 所以先存cloud storage再去重？ 
+From Xinyu Zhang to Everyone: (8:44 PM)
+ 好奇 这个从cloud往本地sync的过程，假设download很慢，本地就是先存file, 然后改本地DB,是吧 
+From jun to Everyone: (8:45 PM)
+ 我觉得太抠细节了 
+From Shihao Zhong to Everyone: (8:45 PM)
+ 我觉得太抠细节了
++1 
+From Randy to Everyone: (8:45 PM)
+ “应该是先建metadata再传文件chunk最后完成在更新metadata吗” +1
+client 先post https://FQDN/files/upload
+拿到短期的storage URI， 然后client对内容进行分块，往storage URI里一块一块upload 
+结束了，再把metadata改成 upload finished 
+From iPhone to Everyone: (8:45 PM)
+ 安浏览器插件吧 
+From Shihao Zhong to Everyone: (8:45 PM)
+ @Randy甚至还是幂等操作 
+From Catherine zhang to Everyone: (8:46 PM)
+ 同意 @randy solution 
+From lw to Everyone: (8:46 PM)
+ 这个属于同步编辑了。 
+From Qi Wang to Everyone: (8:46 PM)
+ 一开始提需求的时候不要提merge冲突的问题，这是个坑 
+From 老黄瓜 to Everyone: (8:46 PM)
+ 感觉可以稍微优化，支持乱序并行批量上传 
+From iphone to Everyone: (8:46 PM)
+ Google drive and google doc is a different topic 
+From Qi Wang to Everyone: (8:46 PM)
+ 加个写锁就完了 
+From emma to Everyone: (8:47 PM)
+ workspace是啥 
+From Qi Wang to Everyone: (8:47 PM)
+ 保持文件原子性 
+From iPhone to Everyone: (8:47 PM)
+ 不让改就完了 
+From Xinyu Zhang to Everyone: (8:47 PM)
+ 那用户假设存了一个很重要的文件，但是另一个用户存了个同名的没用的file, 更新的时候被lock了 
+From tom to Everyone: (8:47 PM)
+ 加写锁太慢了 
+From Cory Wang to Everyone: (8:47 PM)
+ 😂 
+From Qi Wang to Everyone: (8:47 PM)
+ 加写锁为啥慢，又不是全局写锁 这里的写锁是逻辑上的，不是数据库里的写锁。 
+From HW to Everyone: (8:48 PM)
+ 其实可以在这里讨论tradeoff 
+From jun to Everyone: (8:49 PM)
+ +1 
+From Shihao Zhong to Everyone: (8:49 PM)
+ 直接传变成一个新version然后让用户自己决定哪个version有效呗 
+From Tony Y to Everyone: (8:49 PM)
+ offline sync 有锁也没用吧 
+From jun to Everyone: (8:49 PM)
+ 感觉是技术大牛讨论方案 
+From tom to Everyone: (8:49 PM)
+ version diff conflict resolution+eventual consistency, conflict解决不了的时候roll back 
+From Kun Zhang to Everyone: (8:49 PM)
+ What is the data model for the per line lock? 
+From Jerry to Everyone: (8:49 PM)
+ 那不就是github 了哈哈 
+From 应Jianghong to Everyone: (8:50 PM)
+ 这么看的话metadata放前面其实更好解决锁的问题 或者把锁的metadata单独拿出来放前面 
+From iPhone to Everyone: (8:51 PM)
+ HDFS就是客户端先chunk，然后访问Namenode的metadata，然后再去到Namenode给定的data nodes上传下载 
+From Amity to Everyone: (8:51 PM)
+ 😂， Merge， solve conflict before allow update。 
+From Xinyu Zhang to Everyone: (8:51 PM)
+ 好奇，本地从cloud下载的过程当中，本地文件被人为修改了。本地最好怎么改啊？ 
+From Tony Y to Everyone: (8:51 PM)
+ start a new branch will sovle conflict 
+From Panfeng Xue to Everyone: (8:52 PM)
+ merge conflict 
+From ZZB to Everyone: (8:54 PM)
+ Is Long polling ok for pulling newest meta data (and download …) 
+From Qi Wang to Everyone: (8:54 PM)
+ 不是的，是你一个客户端添加了一个new file，这个file 的信息要sync带其他连接的客户端上。 
+From 老黄瓜 to Everyone: (8:55 PM)
+ 同感觉没必要作push 这样可能引入race condition，同时pull一样的文件需要做 version isolation 
+From Ken to Everyone: (8:58 PM)
+ Thanks everyone for coming.  If you want to join our WeChat group, the QRCode is here on top of the doc: https://docs.google.com/document/d/19WtV88EbH8_t5J8bxZ6tAbMJz0iO6EtsKetzun55UC8/edit# 
+From Xinyu Zhang to Everyone: (8:58 PM)
+ 那不还是上传完之后更新么 
+From 老黄瓜 to Everyone: (9:01 PM)
+ 这样会有一致性问题 保证所有chunk更新或者不更新 
+From iPhone to Everyone: (9:01 PM)
+ Metadata里面有权限信息，你可能根本没有权限去写Cloud Storage里面的某个Url目录 
+From 应Jianghong to Everyone: (9:02 PM)
+ 这么弄怎么解决multi client sync的问题 
+From 老黄瓜 to Everyone: (9:02 PM)
+ 没必要每个chunk去更新 等metadata完成 无非E2E latency慢一点 
+From Qi to Everyone: (9:02 PM)
+ 文件上传是不可能走lb的 一般都是系统分配一个url，直接传到s3或者对等的obj storage里 
+From Ken to Everyone: (9:04 PM)
+ Thanks everyone for coming.  If you want to join our WeChat group, the QRCode is here on top of the doc: https://docs.google.com/document/d/19WtV88EbH8_t5J8bxZ6tAbMJz0iO6EtsKetzun55UC8/edit# 
+From Xinyu Zhang to Everyone: (9:04 PM)
+ md没有就重新来呗，反正存储不贵 
+From 老黄瓜 to Everyone: (9:05 PM)
+ 只要metadata DB能保证transaction 保证ALO message delivery没有问题 
+From Jingru Li to Everyone: (9:05 PM)
+ 十分感谢主持这次session！:) :) :) 
+From Ken to Everyone: (9:06 PM)
+ 谢谢大家！ 
+From ZZB to Everyone: (9:07 PM)
+ Metadata 包括 chunk 信息？ 
+From Vivian huai to Everyone: (9:08 PM)
+ notification server主要是为了不同用户的sync吧 
+From Kai Sun to Everyone: (9:09 PM)
+ 十分感谢主持这次 session🙏🏼 请问之后会公佈 recording 吗？ 
+From 老黄瓜 to Everyone: (9:09 PM)
+ 感觉不加notification也没啥问题 
+From Ken to Everyone: (9:10 PM)
+ 目前没有计划发布 recording，@KS, 笔记都可以在 designclub.mingdaoschool.com 查到。 
+From Vivian huai to Everyone: (9:10 PM)
+ Notification server主要什么作用呢 
+From Kai Sun to Everyone: (9:10 PM)
+ 谢谢 Ken 🙏🏼 
+From 老黄瓜 to Everyone: (9:12 PM)
+ 可以做 lazy update 
+From Zhengguan Li to Everyone: (9:13 PM)
+ 最新的不就是做一个full scan嘛？ 
+From 老黄瓜 to Everyone: (9:13 PM)
+ 没必要每次pull full scan 
+From Zhengguan Li to Everyone: (9:13 PM)
+ notification只有改动的 
+From Tiger to Everyone: (9:15 PM)
+ 既然能常链接，为什么不能client每隔几秒pull一下status？是不是类似的？ 
+From lw to Everyone: (9:15 PM)
+ pull就要respnose。long polling不用一直response。 
+From Zhengguan Li to Everyone: (9:16 PM)
+ SSE 使用 HTTP 协议，现有的服务器软件都支持。WebSocket 是一个独立协议。-https://www.bookstack.cn/read/webapi-tutorial/spilt.2.docs-server-sent-events.md 
+From Ken to Everyone: (9:16 PM)
+ https://mint-lillipilli-1b9.notion.site/Comparison-for-4-methods-for-asynchronous-request-and-response-over-HTTP-a372edb5b8614d63ba115fa7156187af 
+From Guest to Everyone: (9:17 PM)
+ Push is implemented by long polling? 
+From emma to Everyone: (9:17 PM)
+ np 
+From Zhengguan Li to Everyone: (9:20 PM)
+ 虚拟机可以扩展port嘛？ 
+From Eric Haung to Everyone: (9:21 PM)
+ 请问那个LP是什么？ 
+From Guest to Everyone: (9:25 PM)
+ Push is also http 
+From emma to Everyone: (9:30 PM)
+ strong hire 
+From Ming to Everyone: (9:30 PM)
+ L5也够了 
+From SmallCracker to Everyone: (9:58 PM)
+ 这个画图得工具是什么啊？ 
+From Tekken to Everyone: (9:58 PM)
+ whimsical 
+From SmallCracker to Everyone: (9:59 PM)
+ 谢谢哈 
+From Peace to Everyone: (10:05 PM)
+ 请问过去的mock interview recording在哪里能看到？ 
+From Yao Xiao to Everyone: (10:07 PM)
+ 老师应该下线了 
+From Ping Lu to Everyone: (10:07 PM)
+ 谢谢！ 
+From SmallCracker to Everyone: (10:07 PM)
+ 谢谢！ 晚安 
+From Yao Xiao to Everyone: (10:07 PM)
+ 自动解散吧 
+From Yang Bai to Everyone: (10:07 PM)
+ 👍 
+From Yao Xiao to Everyone: (10:07 PM)
+ 晚安 
+From Tekken to Everyone: (10:07 PM)
+ https://whimsical.com/google-drive-BBsXFU8DQX7tp9CMyTXASs 
