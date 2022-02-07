@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Bio](Bio.md)
-* [Anti-Bio](Anti-Bio.md)
 
 ## Career
 
@@ -14,4 +13,3 @@
 * [Path in corporation](RandomThoughts/PathInCorporation.md)
 * [Path in entrepreneurship](RandomThoughts/PathInEntrepreneurship.md)
 * [Presentations](RandomThoughts/Presentations.md)
-* [Path in people skills](RandomThoughts/behavioral_questions.md)
