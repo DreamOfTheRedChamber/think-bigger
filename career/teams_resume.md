@@ -28,12 +28,12 @@
 
 # Project deepdive
 * [Auth library migration](https://docs.google.com/presentation/d/1MpL-0gpj26kJaeYDu2-QH0z3wNSU0a58tI9oKb9dLUw/edit?usp=sharing)
-* [Sign in service migration]()
-* [Stale cache: Design open source packages]()
+* TODO: Sign in service migration
+* TODO: Stale cache: Design open source packages
+* TODO: [K/V usage in Redis/Memcached in Weibo](https://time.geekbang.org/qconplus/detail/100091366)
 
 # Non-Technical skills
 ## People
-* 
 
 ## Product
 
