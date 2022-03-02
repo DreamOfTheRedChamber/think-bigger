@@ -6,6 +6,7 @@ At that moment something is wrong with both my physical and mental health. I tri
 Finally I encountered phychology which works slowly but lasts. It resonated with me so much !!! Phychology is such a subject that I want whenever I face challenging situations or changes in my life. It is also a subject that teaches me much about human nature and society. It helped me so much. 
 
 # Presentations
+## [Crucial Conversations](https://docs.google.com/presentation/d/1JRJThU1g_dqQ9xWhCRmIvp1-5vFl7E5QB0awUVbRUhY/edit#slide=id.p)
 ## [Deal with Stage Fright](https://docs.google.com/presentation/d/1gUTG_TimlRaxrjKyZuXKRoW6PIkKuWAvfh0_0nEJdzQ/edit?usp=sharing)
 ## [Gestures in presentation](https://docs.google.com/presentation/d/1dXOwDSuaVHY33dRAp3Rd0Z-SRHwpstcuUMCczjFRBAs/edit?usp=sharing)
 ## [拖延心理学](https://docs.google.com/presentation/d/1Ur8_y3Egzg4c0UipQ1OYe7Mm5vCTH6tp/edit?usp=sharing&ouid=117883747511694701500&rtpof=true&sd=true)
