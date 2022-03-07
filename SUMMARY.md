@@ -9,7 +9,5 @@
 * [SWE Intern @ Finra 14 Summer](career/resume_finraintern.md)
 * [Researcher @USTC 12\~13](career/research_papers.md)
 
-## Random thoughts
-* [Path in corporation](RandomThoughts/PathInCorporation.md)
-* [Path in entrepreneurship](RandomThoughts/PathInEntrepreneurship.md)
-* [Presentations](RandomThoughts/Presentations.md)
+## Volunteering
+* [Communication presentations](RandomThoughts/Presentations.md)

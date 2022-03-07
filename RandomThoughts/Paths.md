@@ -14,6 +14,7 @@
     - [5. Compensation](#5-compensation)
     - [Candidate dimensions](#candidate-dimensions)
   - [Next companies](#next-companies-1)
+  - [Paths](#paths)
 
 # Career models
 ## Generalist
@@ -74,3 +75,7 @@
 | Offerup  |  Y | Unknown  | N  | Unknown  | Unknown |
 | Google  | N  | Unknown  | TBD  | Unknown  | Unknown |
 | Facebook  | Y  | AR/VR  | TBD  | Unknown  | Unknown |
+
+## Paths
+* https://femgineer.com/about/
+* 融云IM: http://www.52im.net/thread-2703-1-1.html
