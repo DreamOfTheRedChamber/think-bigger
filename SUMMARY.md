@@ -2,5 +2,5 @@
 
 * [Bio](Bio.md)
 * [Engineering](career/engineering.md)
-* [Presentations](RandomThoughts/communication.md)
+* [Presentations](career/presentations.md)
 * [Publications](career/publications.md)
