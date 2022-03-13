@@ -11,6 +11,7 @@
 # Communication
 ## Public speaking
 * [Deal with Stage Fright](https://docs.google.com/presentation/d/1gUTG_TimlRaxrjKyZuXKRoW6PIkKuWAvfh0_0nEJdzQ/edit?usp=sharing)
+* [Concise communication](https://docs.google.com/presentation/d/18UxFs9fwyx1mdlcHSLiScxqX6PSQn6I_BbymYwsb-VA/edit?usp=sharing)
 
 ## Nonverbal communication
 * [Gestures in presentation](https://docs.google.com/presentation/d/1dXOwDSuaVHY33dRAp3Rd0Z-SRHwpstcuUMCczjFRBAs/edit?usp=sharing)
