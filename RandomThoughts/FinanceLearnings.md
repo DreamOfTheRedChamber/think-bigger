@@ -1,1 +1,0 @@
-* https://www.amazon.com/How-Happy-Active-Stock-Trader-ebook/dp/B09JL574ND
